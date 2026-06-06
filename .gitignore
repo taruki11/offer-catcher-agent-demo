@@ -1,0 +1,13 @@
+.env
+.env.*
+*.log
+cloudflared.exe
+.workbuddy/
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+venv/
+llm_model/
+.idea/
+.vscode/
+.DS_Store

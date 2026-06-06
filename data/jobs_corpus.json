@@ -1,0 +1,886 @@
+[
+  {
+    "title": "NLP 大模型实习生",
+    "company": "阿里达摩院",
+    "city": "杭州",
+    "stage": "实习",
+    "direction": "大模型应用算法",
+    "salary": "面议",
+    "skills": [
+      "NLP",
+      "BERT",
+      "GPT",
+      "Transformer",
+      "PyTorch",
+      "文本分类",
+      "NER",
+      "文本生成",
+      "A/B Test"
+    ],
+    "source_type": "Demo精选岗位",
+    "source_url": "",
+    "fetched_at": "2026-06-06T17:14:40",
+    "raw_jd_snippet": "【阿里达摩院团队】参与搜索引擎核心算法研发与NLP模型优化。涉及Query理解、语义检索、重排序模型、RAG增强搜索。要求熟悉Transformer/BERT架构，有Embedding/向量检索经验。加分：有LLM应用项目经验、在搜索/NLP领域有论文。杭州办公。 技术栈：NLP, BERT, GPT, Transformer, PyTorch。",
+    "jd_text": "【阿里达摩院团队】参与搜索引擎核心算法研发与NLP模型优化。涉及Query理解、语义检索、重排序模型、RAG增强搜索。要求熟悉Transformer/BERT架构，有Embedding/向量检索经验。加分：有LLM应用项目经验、在搜索/NLP领域有论文。杭州办公。 技术栈：NLP, BERT, GPT, Transformer, PyTorch。",
+    "parsed_requirements": [
+      "NLP",
+      "BERT",
+      "GPT",
+      "Transformer",
+      "PyTorch",
+      "文本分类",
+      "NER",
+      "文本生成",
+      "A/B Test"
+    ],
+    "search_query": "NLP 大模型实习生 阿里达摩院 杭州"
+  },
+  {
+    "title": "大模型应用算法实习生",
+    "company": "腾讯云智能",
+    "city": "深圳",
+    "stage": "实习",
+    "direction": "大模型应用算法",
+    "salary": "面议",
+    "skills": [
+      "LLM",
+      "RAG",
+      "Agent",
+      "Embedding",
+      "Python",
+      "Prompt",
+      "LangChain",
+      "FAISS"
+    ],
+    "source_type": "Demo精选岗位",
+    "source_url": "",
+    "fetched_at": "2026-06-06T17:14:40",
+    "raw_jd_snippet": "【腾讯云智能团队】负责大模型应用算法研发。核心方向：RAG检索增强、LLM应用层架构、Prompt Engineering优化。要求熟悉LangChain/LlamaIndex等框架，有Python/PyTorch开发经验。深圳提供转正。 技术栈：LLM, RAG, Agent, Embedding, Python。",
+    "jd_text": "【腾讯云智能团队】负责大模型应用算法研发。核心方向：RAG检索增强、LLM应用层架构、Prompt Engineering优化。要求熟悉LangChain/LlamaIndex等框架，有Python/PyTorch开发经验。深圳提供转正。 技术栈：LLM, RAG, Agent, Embedding, Python。",
+    "parsed_requirements": [
+      "LLM",
+      "RAG",
+      "Agent",
+      "Embedding",
+      "Python",
+      "Prompt",
+      "LangChain",
+      "FAISS"
+    ],
+    "search_query": "大模型应用算法实习生 腾讯云智能 深圳"
+  },
+  {
+    "title": "搜索 NLP 算法实习生",
+    "company": "百度搜索",
+    "city": "北京",
+    "stage": "校招",
+    "direction": "大模型应用算法",
+    "salary": "面议",
+    "skills": [
+      "NLP",
+      "Query 理解",
+      "意图识别",
+      "信息抽取",
+      "RAG",
+      "Embedding",
+      "PyTorch",
+      "Spark"
+    ],
+    "source_type": "Demo精选岗位",
+    "source_url": "",
+    "fetched_at": "2026-06-06T17:14:40",
+    "raw_jd_snippet": "【百度搜索团队】参与搜索引擎核心算法研发与NLP模型优化。涉及Query理解、语义检索、重排序模型、RAG增强搜索。要求熟悉Transformer/BERT架构，有Embedding/向量检索经验。加分：有LLM应用项目经验、在搜索/NLP领域有论文。北京办公。 技术栈：NLP, Query 理解, 意图识别, 信息抽取, RAG。",
+    "jd_text": "【百度搜索团队】参与搜索引擎核心算法研发与NLP模型优化。涉及Query理解、语义检索、重排序模型、RAG增强搜索。要求熟悉Transformer/BERT架构，有Embedding/向量检索经验。加分：有LLM应用项目经验、在搜索/NLP领域有论文。北京办公。 技术栈：NLP, Query 理解, 意图识别, 信息抽取, RAG。",
+    "parsed_requirements": [
+      "NLP",
+      "Query 理解",
+      "意图识别",
+      "信息抽取",
+      "RAG",
+      "Embedding",
+      "PyTorch",
+      "Spark"
+    ],
+    "search_query": "搜索 NLP 算法实习生 百度搜索 北京"
+  },
+  {
+    "title": "机器学习平台研发实习生",
+    "company": "美团基础平台",
+    "city": "北京",
+    "stage": "实习",
+    "direction": "大模型应用算法",
+    "salary": "面议",
+    "skills": [
+      "Python",
+      "PyTorch",
+      "TF Serving",
+      "Kubernetes",
+      "模型部署",
+      "特征存储",
+      "Docker",
+      "Linux"
+    ],
+    "source_type": "Demo精选岗位",
+    "source_url": "",
+    "fetched_at": "2026-06-06T17:14:40",
+    "raw_jd_snippet": "【美团基础平台团队】参与机器学习平台建设。支持大模型训练、推理优化、模型部署与监控。要求熟悉PyTorch/TensorFlow，有GPU编程基础（CUDA），了解分布式训练（DeepSpeed/FSDP）。北京。 技术栈：Python, PyTorch, TF Serving, Kubernetes, 模型部署。",
+    "jd_text": "【美团基础平台团队】参与机器学习平台建设。支持大模型训练、推理优化、模型部署与监控。要求熟悉PyTorch/TensorFlow，有GPU编程基础（CUDA），了解分布式训练（DeepSpeed/FSDP）。北京。 技术栈：Python, PyTorch, TF Serving, Kubernetes, 模型部署。",
+    "parsed_requirements": [
+      "Python",
+      "PyTorch",
+      "TF Serving",
+      "Kubernetes",
+      "模型部署",
+      "特征存储",
+      "Docker",
+      "Linux"
+    ],
+    "search_query": "机器学习平台研发实习生 美团基础平台 北京"
+  },
+  {
+    "title": "大模型 Agent 应用实习生",
+    "company": "字节跳动",
+    "city": "北京",
+    "stage": "实习",
+    "direction": "大模型应用算法",
+    "salary": "面议",
+    "skills": [
+      "Agent",
+      "RAG",
+      "Prompt",
+      "LangChain",
+      "Python",
+      "Tool Calling",
+      "LLM",
+      "Function Calling"
+    ],
+    "source_type": "Demo精选岗位",
+    "source_url": "",
+    "fetched_at": "2026-06-06T17:14:40",
+    "raw_jd_snippet": "【字节跳动团队】负责AI Agent决策系统研发。核心工作：LangGraph多Agent工作流设计、工具调用与函数编排、Agent评测体系搭建。要求有Python/PyTorch基础，了解Agent框架（LangGraph/AutoGPT/CrewAI）。加分：有Multi-Agent项目经验、对ReAct/Plan-and-Solve范式有实践。base北京。 技术栈：Agent, RAG, Prompt, LangChain, Python。",
+    "jd_text": "【字节跳动团队】负责AI Agent决策系统研发。核心工作：LangGraph多Agent工作流设计、工具调用与函数编排、Agent评测体系搭建。要求有Python/PyTorch基础，了解Agent框架（LangGraph/AutoGPT/CrewAI）。加分：有Multi-Agent项目经验、对ReAct/Plan-and-Solve范式有实践。base北京。 技术栈：Agent, RAG, Prompt, LangChain, Python。",
+    "parsed_requirements": [
+      "Agent",
+      "RAG",
+      "Prompt",
+      "LangChain",
+      "Python",
+      "Tool Calling",
+      "LLM",
+      "Function Calling"
+    ],
+    "search_query": "大模型 Agent 应用实习生 字节跳动 北京"
+  },
+  {
+    "title": "大模型评估算法实习生",
+    "company": "小米 AI",
+    "city": "北京",
+    "stage": "校招",
+    "direction": "大模型应用算法",
+    "salary": "面议",
+    "skills": [
+      "LLM 评估",
+      "Python",
+      "Prompt",
+      "RAG",
+      "评估",
+      "数据分析",
+      "A/B Test",
+      "自动化测试"
+    ],
+    "source_type": "Demo精选岗位",
+    "source_url": "",
+    "fetched_at": "2026-06-06T17:14:40",
+    "raw_jd_snippet": "【小米 AI团队】负责大模型效果评估与评测体系建设。设计自动化评测流水线，包括benchmark构建、A/B测试框架、指标监控。要求有Python开发经验，了解LLM评估方法。base北京。 技术栈：LLM 评估, Python, Prompt, RAG, 评估。",
+    "jd_text": "【小米 AI团队】负责大模型效果评估与评测体系建设。设计自动化评测流水线，包括benchmark构建、A/B测试框架、指标监控。要求有Python开发经验，了解LLM评估方法。base北京。 技术栈：LLM 评估, Python, Prompt, RAG, 评估。",
+    "parsed_requirements": [
+      "LLM 评估",
+      "Python",
+      "Prompt",
+      "RAG",
+      "评估",
+      "数据分析",
+      "A/B Test",
+      "自动化测试"
+    ],
+    "search_query": "大模型评估算法实习生 小米 AI 北京"
+  },
+  {
+    "title": "智能搜索算法实习生",
+    "company": "微信事业群",
+    "city": "广州",
+    "stage": "实习",
+    "direction": "大模型应用算法",
+    "salary": "面议",
+    "skills": [
+      "搜索",
+      "RAG",
+      "向量检索",
+      "Embedding",
+      "重排",
+      "Python",
+      "评估"
+    ],
+    "source_type": "Demo精选岗位",
+    "source_url": "",
+    "fetched_at": "2026-06-06T17:14:40",
+    "raw_jd_snippet": "【微信事业群团队】参与搜索引擎核心算法研发与NLP模型优化。涉及Query理解、语义检索、重排序模型、RAG增强搜索。要求熟悉Transformer/BERT架构，有Embedding/向量检索经验。加分：有LLM应用项目经验、在搜索/NLP领域有论文。广州办公。 技术栈：搜索, RAG, 向量检索, Embedding, 重排。",
+    "jd_text": "【微信事业群团队】参与搜索引擎核心算法研发与NLP模型优化。涉及Query理解、语义检索、重排序模型、RAG增强搜索。要求熟悉Transformer/BERT架构，有Embedding/向量检索经验。加分：有LLM应用项目经验、在搜索/NLP领域有论文。广州办公。 技术栈：搜索, RAG, 向量检索, Embedding, 重排。",
+    "parsed_requirements": [
+      "搜索",
+      "RAG",
+      "向量检索",
+      "Embedding",
+      "重排",
+      "Python",
+      "评估"
+    ],
+    "search_query": "智能搜索算法实习生 微信事业群 广州"
+  },
+  {
+    "title": "校招人岗匹配算法实习生",
+    "company": "招聘技术中心",
+    "city": "北京",
+    "stage": "实习",
+    "direction": "大模型应用算法",
+    "salary": "面议",
+    "skills": [
+      "人岗匹配",
+      "推荐系统",
+      "Embedding",
+      "LLM",
+      "排序",
+      "可解释性",
+      "Python"
+    ],
+    "source_type": "Demo精选岗位",
+    "source_url": "",
+    "fetched_at": "2026-06-06T17:14:40",
+    "raw_jd_snippet": "【招聘技术中心团队】负责大模型应用算法研发。核心方向：RAG检索增强、LLM应用层架构、Prompt Engineering优化。要求熟悉LangChain/LlamaIndex等框架，有Python/PyTorch开发经验。北京提供转正。 技术栈：人岗匹配, 推荐系统, Embedding, LLM, 排序。",
+    "jd_text": "【招聘技术中心团队】负责大模型应用算法研发。核心方向：RAG检索增强、LLM应用层架构、Prompt Engineering优化。要求熟悉LangChain/LlamaIndex等框架，有Python/PyTorch开发经验。北京提供转正。 技术栈：人岗匹配, 推荐系统, Embedding, LLM, 排序。",
+    "parsed_requirements": [
+      "人岗匹配",
+      "推荐系统",
+      "Embedding",
+      "LLM",
+      "排序",
+      "可解释性",
+      "Python"
+    ],
+    "search_query": "校招人岗匹配算法实习生 招聘技术中心 北京"
+  },
+  {
+    "title": "游戏 AI 算法实习生",
+    "company": "互动娱乐事业群",
+    "city": "上海",
+    "stage": "校招",
+    "direction": "大模型应用算法",
+    "salary": "面议",
+    "skills": [
+      "LLM",
+      "强化学习",
+      "Agent",
+      "Python",
+      "多模态",
+      "评估"
+    ],
+    "source_type": "Demo精选岗位",
+    "source_url": "",
+    "fetched_at": "2026-06-06T17:14:40",
+    "raw_jd_snippet": "【互动娱乐事业群团队】负责大模型应用算法研发。核心方向：RAG检索增强、LLM应用层架构、Prompt Engineering优化。要求熟悉LangChain/LlamaIndex等框架，有Python/PyTorch开发经验。上海提供转正。 技术栈：LLM, 强化学习, Agent, Python, 多模态。",
+    "jd_text": "【互动娱乐事业群团队】负责大模型应用算法研发。核心方向：RAG检索增强、LLM应用层架构、Prompt Engineering优化。要求熟悉LangChain/LlamaIndex等框架，有Python/PyTorch开发经验。上海提供转正。 技术栈：LLM, 强化学习, Agent, Python, 多模态。",
+    "parsed_requirements": [
+      "LLM",
+      "强化学习",
+      "Agent",
+      "Python",
+      "多模态",
+      "评估"
+    ],
+    "search_query": "游戏 AI 算法实习生 互动娱乐事业群 上海"
+  },
+  {
+    "title": "推荐算法实习生",
+    "company": "快手技术部",
+    "city": "北京",
+    "stage": "实习",
+    "direction": "推荐算法",
+    "salary": "面议",
+    "skills": [
+      "推荐系统",
+      "召回",
+      "排序",
+      "协同过滤",
+      "矩阵分解",
+      "Wide&Deep",
+      "NDCG",
+      "CTR",
+      "A/B Test",
+      "PyTorch",
+      "SQL",
+      "Spark"
+    ],
+    "source_type": "Demo精选岗位",
+    "source_url": "",
+    "fetched_at": "2026-06-06T17:14:40",
+    "raw_jd_snippet": "【快手技术部团队】负责推荐系统算法迭代。包括召回/粗排/精排/重排全链路优化，使用Transformer模型处理大规模用户行为数据。要求熟悉Embedding技术、FAISS向量检索、有推荐系统实际项目经验。工作地点北京。 技术栈：推荐系统, 召回, 排序, 协同过滤, 矩阵分解。",
+    "jd_text": "【快手技术部团队】负责推荐系统算法迭代。包括召回/粗排/精排/重排全链路优化，使用Transformer模型处理大规模用户行为数据。要求熟悉Embedding技术、FAISS向量检索、有推荐系统实际项目经验。工作地点北京。 技术栈：推荐系统, 召回, 排序, 协同过滤, 矩阵分解。",
+    "parsed_requirements": [
+      "推荐系统",
+      "召回",
+      "排序",
+      "协同过滤",
+      "矩阵分解",
+      "Wide&Deep",
+      "NDCG",
+      "CTR",
+      "A/B Test",
+      "PyTorch",
+      "SQL",
+      "Spark"
+    ],
+    "search_query": "推荐算法实习生 快手技术部 北京"
+  },
+  {
+    "title": "Intern, AI Engineering-2",
+    "company": "Cast & Crew",
+    "city": "Burbank, CA",
+    "stage": "实习",
+    "direction": "LLM",
+    "salary": "面议",
+    "skills": [
+      "aws",
+      "azure",
+      "docker",
+      "gcp",
+      "git",
+      "javascript",
+      "python",
+      "rag",
+      "sql",
+      "typescript"
+    ],
+    "source_type": "Demo精选岗位",
+    "source_url": "",
+    "fetched_at": "2026-06-06T17:14:40",
+    "raw_jd_snippet": "【Cast & Crew团队】负责大模型应用算法研发。核心方向：RAG检索增强、LLM应用层架构、Prompt Engineering优化。要求熟悉LangChain/LlamaIndex等框架，有Python/PyTorch开发经验。Burbank, CA提供转正。 技术栈：aws, azure, docker, gcp, git。",
+    "jd_text": "【Cast & Crew团队】负责大模型应用算法研发。核心方向：RAG检索增强、LLM应用层架构、Prompt Engineering优化。要求熟悉LangChain/LlamaIndex等框架，有Python/PyTorch开发经验。Burbank, CA提供转正。 技术栈：aws, azure, docker, gcp, git。",
+    "parsed_requirements": [
+      "aws",
+      "azure",
+      "docker",
+      "gcp",
+      "git",
+      "javascript",
+      "python",
+      "rag",
+      "sql",
+      "typescript"
+    ],
+    "search_query": "Intern, AI Engineering-2 Cast & Crew Burbank, CA"
+  },
+  {
+    "title": "LLM 推荐算法实习生",
+    "company": "内容平台事业群",
+    "city": "北京",
+    "stage": "实习",
+    "direction": "推荐算法",
+    "salary": "面议",
+    "skills": [
+      "推荐系统",
+      "Transformer",
+      "召回",
+      "排序",
+      "Embedding",
+      "NDCG",
+      "PyTorch",
+      "A/B Test"
+    ],
+    "source_type": "Demo精选岗位",
+    "source_url": "",
+    "fetched_at": "2026-06-06T17:14:40",
+    "raw_jd_snippet": "【内容平台事业群团队】负责推荐系统算法迭代。包括召回/粗排/精排/重排全链路优化，使用Transformer模型处理大规模用户行为数据。要求熟悉Embedding技术、FAISS向量检索、有推荐系统实际项目经验。工作地点北京。 技术栈：推荐系统, Transformer, 召回, 排序, Embedding。",
+    "jd_text": "【内容平台事业群团队】负责推荐系统算法迭代。包括召回/粗排/精排/重排全链路优化，使用Transformer模型处理大规模用户行为数据。要求熟悉Embedding技术、FAISS向量检索、有推荐系统实际项目经验。工作地点北京。 技术栈：推荐系统, Transformer, 召回, 排序, Embedding。",
+    "parsed_requirements": [
+      "推荐系统",
+      "Transformer",
+      "召回",
+      "排序",
+      "Embedding",
+      "NDCG",
+      "PyTorch",
+      "A/B Test"
+    ],
+    "search_query": "LLM 推荐算法实习生 内容平台事业群 北京"
+  },
+  {
+    "title": "推荐算法实习生-头条",
+    "company": "字节跳动",
+    "city": "上海",
+    "stage": "实习",
+    "direction": "推荐算法",
+    "salary": "面议",
+    "skills": [
+      "推荐系统",
+      "深度学习",
+      "排序",
+      "Embedding",
+      "召回",
+      "PyTorch",
+      "特征工程",
+      "TF Serving"
+    ],
+    "source_type": "Demo精选岗位",
+    "source_url": "",
+    "fetched_at": "2026-06-06T17:14:40",
+    "raw_jd_snippet": "【字节跳动团队】负责推荐系统算法迭代。包括召回/粗排/精排/重排全链路优化，使用Transformer模型处理大规模用户行为数据。要求熟悉Embedding技术、FAISS向量检索、有推荐系统实际项目经验。工作地点上海。 技术栈：推荐系统, 深度学习, 排序, Embedding, 召回。",
+    "jd_text": "【字节跳动团队】负责推荐系统算法迭代。包括召回/粗排/精排/重排全链路优化，使用Transformer模型处理大规模用户行为数据。要求熟悉Embedding技术、FAISS向量检索、有推荐系统实际项目经验。工作地点上海。 技术栈：推荐系统, 深度学习, 排序, Embedding, 召回。",
+    "parsed_requirements": [
+      "推荐系统",
+      "深度学习",
+      "排序",
+      "Embedding",
+      "召回",
+      "PyTorch",
+      "特征工程",
+      "TF Serving"
+    ],
+    "search_query": "推荐算法实习生-头条 字节跳动 上海"
+  },
+  {
+    "title": "计算机视觉算法实习生（检测方向）",
+    "company": "商汤科技",
+    "city": "上海",
+    "stage": "实习",
+    "direction": "计算机视觉",
+    "salary": "面议",
+    "skills": [
+      "OpenCV",
+      "YOLO",
+      "目标检测",
+      "PyTorch",
+      "TensorRT",
+      "模型部署",
+      "Python",
+      "TensorFlow"
+    ],
+    "source_type": "Demo精选岗位",
+    "source_url": "",
+    "fetched_at": "2026-06-06T17:14:40",
+    "raw_jd_snippet": "【商汤科技团队】负责大模型应用算法研发。核心方向：RAG检索增强、LLM应用层架构、Prompt Engineering优化。要求熟悉LangChain/LlamaIndex等框架，有Python/PyTorch开发经验。上海提供转正。 技术栈：OpenCV, YOLO, 目标检测, PyTorch, TensorRT。",
+    "jd_text": "【商汤科技团队】负责大模型应用算法研发。核心方向：RAG检索增强、LLM应用层架构、Prompt Engineering优化。要求熟悉LangChain/LlamaIndex等框架，有Python/PyTorch开发经验。上海提供转正。 技术栈：OpenCV, YOLO, 目标检测, PyTorch, TensorRT。",
+    "parsed_requirements": [
+      "OpenCV",
+      "YOLO",
+      "目标检测",
+      "PyTorch",
+      "TensorRT",
+      "模型部署",
+      "Python",
+      "TensorFlow"
+    ],
+    "search_query": "计算机视觉算法实习生（检测方向） 商汤科技 上海"
+  },
+  {
+    "title": "AI/Machine Learning Software Engineering Intern",
+    "company": "Command Post Technologies, Inc",
+    "city": "Orlando, FL",
+    "stage": "实习",
+    "direction": "深度学习",
+    "salary": "面议",
+    "skills": [
+      "agent",
+      "docker",
+      "git",
+      "langchain",
+      "llama",
+      "llm",
+      "python",
+      "transformers"
+    ],
+    "source_type": "Demo精选岗位",
+    "source_url": "",
+    "fetched_at": "2026-06-06T17:14:40",
+    "raw_jd_snippet": "【Command Post Technologies, Inc团队】负责大模型应用算法研发。核心方向：RAG检索增强、LLM应用层架构、Prompt Engineering优化。要求熟悉LangChain/LlamaIndex等框架，有Python/PyTorch开发经验。Orlando, FL提供转正。 技术栈：agent, docker, git, langchain, llama。",
+    "jd_text": "【Command Post Technologies, Inc团队】负责大模型应用算法研发。核心方向：RAG检索增强、LLM应用层架构、Prompt Engineering优化。要求熟悉LangChain/LlamaIndex等框架，有Python/PyTorch开发经验。Orlando, FL提供转正。 技术栈：agent, docker, git, langchain, llama。",
+    "parsed_requirements": [
+      "agent",
+      "docker",
+      "git",
+      "langchain",
+      "llama",
+      "llm",
+      "python",
+      "transformers"
+    ],
+    "search_query": "AI/Machine Learning Software Engineering Intern Command Post Technologies, Inc Orlando, FL"
+  },
+  {
+    "title": "图像识别算法实习生",
+    "company": "旷视科技",
+    "city": "北京",
+    "stage": "校招",
+    "direction": "计算机视觉",
+    "salary": "面议",
+    "skills": [
+      "ResNet",
+      "图像分类",
+      "PyTorch",
+      "CNN",
+      "数据增强",
+      "Python",
+      "模型评估"
+    ],
+    "source_type": "Demo精选岗位",
+    "source_url": "",
+    "fetched_at": "2026-06-06T17:14:40",
+    "raw_jd_snippet": "【旷视科技团队】负责大模型应用算法研发。核心方向：RAG检索增强、LLM应用层架构、Prompt Engineering优化。要求熟悉LangChain/LlamaIndex等框架，有Python/PyTorch开发经验。北京提供转正。 技术栈：ResNet, 图像分类, PyTorch, CNN, 数据增强。",
+    "jd_text": "【旷视科技团队】负责大模型应用算法研发。核心方向：RAG检索增强、LLM应用层架构、Prompt Engineering优化。要求熟悉LangChain/LlamaIndex等框架，有Python/PyTorch开发经验。北京提供转正。 技术栈：ResNet, 图像分类, PyTorch, CNN, 数据增强。",
+    "parsed_requirements": [
+      "ResNet",
+      "图像分类",
+      "PyTorch",
+      "CNN",
+      "数据增强",
+      "Python",
+      "模型评估"
+    ],
+    "search_query": "图像识别算法实习生 旷视科技 北京"
+  },
+  {
+    "title": "NLP 算法实习生（大模型方向）",
+    "company": "百度",
+    "city": "北京",
+    "stage": "实习",
+    "direction": "NLP",
+    "salary": "面议",
+    "skills": [
+      "bert",
+      "huggingface",
+      "ner",
+      "python",
+      "pytorch",
+      "transformers",
+      "文本分类"
+    ],
+    "source_type": "Demo精选岗位",
+    "source_url": "",
+    "fetched_at": "2026-06-06T17:14:40",
+    "raw_jd_snippet": "【百度团队】参与搜索引擎核心算法研发与NLP模型优化。涉及Query理解、语义检索、重排序模型、RAG增强搜索。要求熟悉Transformer/BERT架构，有Embedding/向量检索经验。加分：有LLM应用项目经验、在搜索/NLP领域有论文。北京办公。 技术栈：bert, huggingface, ner, python, pytorch。",
+    "jd_text": "【百度团队】参与搜索引擎核心算法研发与NLP模型优化。涉及Query理解、语义检索、重排序模型、RAG增强搜索。要求熟悉Transformer/BERT架构，有Embedding/向量检索经验。加分：有LLM应用项目经验、在搜索/NLP领域有论文。北京办公。 技术栈：bert, huggingface, ner, python, pytorch。",
+    "parsed_requirements": [
+      "bert",
+      "huggingface",
+      "ner",
+      "python",
+      "pytorch",
+      "transformers",
+      "文本分类"
+    ],
+    "search_query": "NLP 算法实习生（大模型方向） 百度 北京"
+  },
+  {
+    "title": "LLM Application Engineer Intern",
+    "company": "Anthropic",
+    "city": "旧金山",
+    "stage": "实习",
+    "direction": "LLM",
+    "salary": "面议",
+    "skills": [
+      "agent",
+      "langchain",
+      "llm",
+      "python",
+      "pytorch",
+      "rag"
+    ],
+    "source_type": "Demo精选岗位",
+    "source_url": "",
+    "fetched_at": "2026-06-06T17:14:40",
+    "raw_jd_snippet": "【Anthropic团队】负责AI Agent决策系统研发。核心工作：LangGraph多Agent工作流设计、工具调用与函数编排、Agent评测体系搭建。要求有Python/PyTorch基础，了解Agent框架（LangGraph/AutoGPT/CrewAI）。加分：有Multi-Agent项目经验、对ReAct/Plan-and-Solve范式有实践。base旧金山。 技术栈：agent, langchain, llm, python, pytorch。",
+    "jd_text": "【Anthropic团队】负责AI Agent决策系统研发。核心工作：LangGraph多Agent工作流设计、工具调用与函数编排、Agent评测体系搭建。要求有Python/PyTorch基础，了解Agent框架（LangGraph/AutoGPT/CrewAI）。加分：有Multi-Agent项目经验、对ReAct/Plan-and-Solve范式有实践。base旧金山。 技术栈：agent, langchain, llm, python, pytorch。",
+    "parsed_requirements": [
+      "agent",
+      "langchain",
+      "llm",
+      "python",
+      "pytorch",
+      "rag"
+    ],
+    "search_query": "LLM Application Engineer Intern Anthropic 旧金山"
+  },
+  {
+    "title": "推荐数据分析实习生",
+    "company": "Bilibili",
+    "city": "上海",
+    "stage": "实习",
+    "direction": "推荐算法",
+    "salary": "面议",
+    "skills": [
+      "ctr",
+      "cvr",
+      "hadoop",
+      "python",
+      "spark",
+      "sql"
+    ],
+    "source_type": "Demo精选岗位",
+    "source_url": "",
+    "fetched_at": "2026-06-06T17:14:40",
+    "raw_jd_snippet": "【Bilibili团队】负责推荐系统算法迭代。包括召回/粗排/精排/重排全链路优化，使用Transformer模型处理大规模用户行为数据。要求熟悉Embedding技术、FAISS向量检索、有推荐系统实际项目经验。工作地点上海。 技术栈：ctr, cvr, hadoop, python, spark。",
+    "jd_text": "【Bilibili团队】负责推荐系统算法迭代。包括召回/粗排/精排/重排全链路优化，使用Transformer模型处理大规模用户行为数据。要求熟悉Embedding技术、FAISS向量检索、有推荐系统实际项目经验。工作地点上海。 技术栈：ctr, cvr, hadoop, python, spark。",
+    "parsed_requirements": [
+      "ctr",
+      "cvr",
+      "hadoop",
+      "python",
+      "spark",
+      "sql"
+    ],
+    "search_query": "推荐数据分析实习生 Bilibili 上海"
+  },
+  {
+    "title": "Applied AI Engineer (Internship)",
+    "company": "Fortinet",
+    "city": "Santa Clara, CA",
+    "stage": "实习",
+    "direction": "LLM",
+    "salary": "面议",
+    "skills": [
+      "agent",
+      "attention",
+      "go",
+      "postgres",
+      "python",
+      "rag"
+    ],
+    "source_type": "Demo精选岗位",
+    "source_url": "",
+    "fetched_at": "2026-06-06T17:14:40",
+    "raw_jd_snippet": "【Fortinet团队】负责大模型应用算法研发。核心方向：RAG检索增强、LLM应用层架构、Prompt Engineering优化。要求熟悉LangChain/LlamaIndex等框架，有Python/PyTorch开发经验。Santa Clara, CA提供转正。 技术栈：agent, attention, go, postgres, python。",
+    "jd_text": "【Fortinet团队】负责大模型应用算法研发。核心方向：RAG检索增强、LLM应用层架构、Prompt Engineering优化。要求熟悉LangChain/LlamaIndex等框架，有Python/PyTorch开发经验。Santa Clara, CA提供转正。 技术栈：agent, attention, go, postgres, python。",
+    "parsed_requirements": [
+      "agent",
+      "attention",
+      "go",
+      "postgres",
+      "python",
+      "rag"
+    ],
+    "search_query": "Applied AI Engineer (Internship) Fortinet Santa Clara, CA"
+  },
+  {
+    "title": "大模型算法实习生",
+    "company": "字节跳动",
+    "city": "北京",
+    "stage": "实习",
+    "direction": "LLM",
+    "salary": "面议",
+    "skills": [
+      "agent",
+      "llm",
+      "python",
+      "pytorch",
+      "rag"
+    ],
+    "source_type": "Demo精选岗位",
+    "source_url": "",
+    "fetched_at": "2026-06-06T17:14:40",
+    "raw_jd_snippet": "【字节跳动团队】负责大模型应用算法研发。核心方向：RAG检索增强、LLM应用层架构、Prompt Engineering优化。要求熟悉LangChain/LlamaIndex等框架，有Python/PyTorch开发经验。北京提供转正。 技术栈：agent, llm, python, pytorch, rag。",
+    "jd_text": "【字节跳动团队】负责大模型应用算法研发。核心方向：RAG检索增强、LLM应用层架构、Prompt Engineering优化。要求熟悉LangChain/LlamaIndex等框架，有Python/PyTorch开发经验。北京提供转正。 技术栈：agent, llm, python, pytorch, rag。",
+    "parsed_requirements": [
+      "agent",
+      "llm",
+      "python",
+      "pytorch",
+      "rag"
+    ],
+    "search_query": "大模型算法实习生 字节跳动 北京"
+  },
+  {
+    "title": "Junior Linguistics Expert - Freelance AI Trainer",
+    "company": "Mindrift",
+    "city": "Missouri, United Sta",
+    "stage": "校招",
+    "direction": "搜索算法",
+    "salary": "面议",
+    "skills": [
+      "Python",
+      "搜索",
+      "信息检索",
+      "Embedding"
+    ],
+    "source_type": "Demo精选岗位",
+    "source_url": "",
+    "fetched_at": "2026-06-06T17:14:40",
+    "raw_jd_snippet": "【Mindrift团队】负责大模型应用算法研发。核心方向：RAG检索增强、LLM应用层架构、Prompt Engineering优化。要求熟悉LangChain/LlamaIndex等框架，有Python/PyTorch开发经验。Missouri, United Sta提供转正。 技术栈：Python, 搜索, 信息检索, Embedding。",
+    "jd_text": "【Mindrift团队】负责大模型应用算法研发。核心方向：RAG检索增强、LLM应用层架构、Prompt Engineering优化。要求熟悉LangChain/LlamaIndex等框架，有Python/PyTorch开发经验。Missouri, United Sta提供转正。 技术栈：Python, 搜索, 信息检索, Embedding。",
+    "parsed_requirements": [
+      "Python",
+      "搜索",
+      "信息检索",
+      "Embedding"
+    ],
+    "search_query": "Junior Linguistics Expert - Freelance AI Trainer Mindrift Missouri, United Sta"
+  },
+  {
+    "title": "Junior Linguistics Expert - Freelance AI Trainer",
+    "company": "Mindrift",
+    "city": "纽约",
+    "stage": "校招",
+    "direction": "搜索算法",
+    "salary": "面议",
+    "skills": [
+      "Python",
+      "搜索",
+      "信息检索",
+      "Embedding"
+    ],
+    "source_type": "Demo精选岗位",
+    "source_url": "",
+    "fetched_at": "2026-06-06T17:14:40",
+    "raw_jd_snippet": "【Mindrift团队】负责大模型应用算法研发。核心方向：RAG检索增强、LLM应用层架构、Prompt Engineering优化。要求熟悉LangChain/LlamaIndex等框架，有Python/PyTorch开发经验。纽约提供转正。 技术栈：Python, 搜索, 信息检索, Embedding。",
+    "jd_text": "【Mindrift团队】负责大模型应用算法研发。核心方向：RAG检索增强、LLM应用层架构、Prompt Engineering优化。要求熟悉LangChain/LlamaIndex等框架，有Python/PyTorch开发经验。纽约提供转正。 技术栈：Python, 搜索, 信息检索, Embedding。",
+    "parsed_requirements": [
+      "Python",
+      "搜索",
+      "信息检索",
+      "Embedding"
+    ],
+    "search_query": "Junior Linguistics Expert - Freelance AI Trainer Mindrift 纽约"
+  },
+  {
+    "title": "Intern, AI Engineering",
+    "company": "PowerSchool",
+    "city": "Dallas, TX",
+    "stage": "实习",
+    "direction": "搜索算法",
+    "salary": "面议",
+    "skills": [
+      "Python",
+      "搜索",
+      "信息检索",
+      "Embedding"
+    ],
+    "source_type": "Demo精选岗位",
+    "source_url": "",
+    "fetched_at": "2026-06-06T17:14:40",
+    "raw_jd_snippet": "【PowerSchool团队】负责大模型应用算法研发。核心方向：RAG检索增强、LLM应用层架构、Prompt Engineering优化。要求熟悉LangChain/LlamaIndex等框架，有Python/PyTorch开发经验。Dallas, TX提供转正。 技术栈：Python, 搜索, 信息检索, Embedding。",
+    "jd_text": "【PowerSchool团队】负责大模型应用算法研发。核心方向：RAG检索增强、LLM应用层架构、Prompt Engineering优化。要求熟悉LangChain/LlamaIndex等框架，有Python/PyTorch开发经验。Dallas, TX提供转正。 技术栈：Python, 搜索, 信息检索, Embedding。",
+    "parsed_requirements": [
+      "Python",
+      "搜索",
+      "信息检索",
+      "Embedding"
+    ],
+    "search_query": "Intern, AI Engineering PowerSchool Dallas, TX"
+  },
+  {
+    "title": "搜索 NLP 算法实习生",
+    "company": "搜狗",
+    "city": "北京",
+    "stage": "实习",
+    "direction": "搜索算法",
+    "salary": "面议",
+    "skills": [
+      "bert",
+      "python",
+      "pytorch"
+    ],
+    "source_type": "Demo精选岗位",
+    "source_url": "",
+    "fetched_at": "2026-06-06T17:14:40",
+    "raw_jd_snippet": "【搜狗团队】参与搜索引擎核心算法研发与NLP模型优化。涉及Query理解、语义检索、重排序模型、RAG增强搜索。要求熟悉Transformer/BERT架构，有Embedding/向量检索经验。加分：有LLM应用项目经验、在搜索/NLP领域有论文。北京办公。 技术栈：bert, python, pytorch。",
+    "jd_text": "【搜狗团队】参与搜索引擎核心算法研发与NLP模型优化。涉及Query理解、语义检索、重排序模型、RAG增强搜索。要求熟悉Transformer/BERT架构，有Embedding/向量检索经验。加分：有LLM应用项目经验、在搜索/NLP领域有论文。北京办公。 技术栈：bert, python, pytorch。",
+    "parsed_requirements": [
+      "bert",
+      "python",
+      "pytorch"
+    ],
+    "search_query": "搜索 NLP 算法实习生 搜狗 北京"
+  },
+  {
+    "title": "推荐算法实习生",
+    "company": "快手",
+    "city": "北京",
+    "stage": "实习",
+    "direction": "推荐算法",
+    "salary": "面议",
+    "skills": [
+      "python",
+      "pytorch"
+    ],
+    "source_type": "Demo精选岗位",
+    "source_url": "",
+    "fetched_at": "2026-06-06T17:14:40",
+    "raw_jd_snippet": "【快手团队】负责推荐系统算法迭代。包括召回/粗排/精排/重排全链路优化，使用Transformer模型处理大规模用户行为数据。要求熟悉Embedding技术、FAISS向量检索、有推荐系统实际项目经验。工作地点北京。 技术栈：python, pytorch。",
+    "jd_text": "【快手团队】负责推荐系统算法迭代。包括召回/粗排/精排/重排全链路优化，使用Transformer模型处理大规模用户行为数据。要求熟悉Embedding技术、FAISS向量检索、有推荐系统实际项目经验。工作地点北京。 技术栈：python, pytorch。",
+    "parsed_requirements": [
+      "python",
+      "pytorch"
+    ],
+    "search_query": "推荐算法实习生 快手 北京"
+  },
+  {
+    "title": "智能搜索算法实习生",
+    "company": "知乎",
+    "city": "北京",
+    "stage": "实习",
+    "direction": "搜索算法",
+    "salary": "面议",
+    "skills": [
+      "python",
+      "pytorch"
+    ],
+    "source_type": "Demo精选岗位",
+    "source_url": "",
+    "fetched_at": "2026-06-06T17:14:40",
+    "raw_jd_snippet": "【知乎团队】参与搜索引擎核心算法研发与NLP模型优化。涉及Query理解、语义检索、重排序模型、RAG增强搜索。要求熟悉Transformer/BERT架构，有Embedding/向量检索经验。加分：有LLM应用项目经验、在搜索/NLP领域有论文。北京办公。 技术栈：python, pytorch。",
+    "jd_text": "【知乎团队】参与搜索引擎核心算法研发与NLP模型优化。涉及Query理解、语义检索、重排序模型、RAG增强搜索。要求熟悉Transformer/BERT架构，有Embedding/向量检索经验。加分：有LLM应用项目经验、在搜索/NLP领域有论文。北京办公。 技术栈：python, pytorch。",
+    "parsed_requirements": [
+      "python",
+      "pytorch"
+    ],
+    "search_query": "智能搜索算法实习生 知乎 北京"
+  },
+  {
+    "title": "校招人岗匹配算法实习生",
+    "company": "BOSS直聘",
+    "city": "北京",
+    "stage": "实习",
+    "direction": "推荐算法",
+    "salary": "面议",
+    "skills": [
+      "embedding"
+    ],
+    "source_type": "Demo精选岗位",
+    "source_url": "",
+    "fetched_at": "2026-06-06T17:14:40",
+    "raw_jd_snippet": "【BOSS直聘团队】负责推荐系统算法迭代。包括召回/粗排/精排/重排全链路优化，使用Transformer模型处理大规模用户行为数据。要求熟悉Embedding技术、FAISS向量检索、有推荐系统实际项目经验。工作地点北京。 技术栈：embedding。",
+    "jd_text": "【BOSS直聘团队】负责推荐系统算法迭代。包括召回/粗排/精排/重排全链路优化，使用Transformer模型处理大规模用户行为数据。要求熟悉Embedding技术、FAISS向量检索、有推荐系统实际项目经验。工作地点北京。 技术栈：embedding。",
+    "parsed_requirements": [
+      "embedding"
+    ],
+    "search_query": "校招人岗匹配算法实习生 BOSS直聘 北京"
+  },
+  {
+    "title": "AI Summer Research Intern",
+    "company": "Lensa",
+    "city": "Cambridge, MA",
+    "stage": "实习",
+    "direction": "搜索算法",
+    "salary": "面议",
+    "skills": [
+      "go"
+    ],
+    "source_type": "Demo精选岗位",
+    "source_url": "",
+    "fetched_at": "2026-06-06T17:14:40",
+    "raw_jd_snippet": "【Lensa团队】负责大模型应用算法研发。核心方向：RAG检索增强、LLM应用层架构、Prompt Engineering优化。要求熟悉LangChain/LlamaIndex等框架，有Python/PyTorch开发经验。Cambridge, MA提供转正。 技术栈：go。",
+    "jd_text": "【Lensa团队】负责大模型应用算法研发。核心方向：RAG检索增强、LLM应用层架构、Prompt Engineering优化。要求熟悉LangChain/LlamaIndex等框架，有Python/PyTorch开发经验。Cambridge, MA提供转正。 技术栈：go。",
+    "parsed_requirements": [
+      "go"
+    ],
+    "search_query": "AI Summer Research Intern Lensa Cambridge, MA"
+  }
+]
