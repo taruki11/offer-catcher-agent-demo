@@ -1,0 +1,835 @@
+[
+  {
+    "id": "f1ae73ca5b56",
+    "title": "LLM Application Engineer Intern",
+    "company": "Anthropic",
+    "city": "旧金山",
+    "stage": "实习",
+    "direction": "LLM/Agent",
+    "skills": [
+      "agent",
+      "langchain",
+      "llm",
+      "python",
+      "pytorch",
+      "rag"
+    ],
+    "project_signals": [
+      "RAG",
+      "Agent",
+      "Embedding"
+    ],
+    "jd": "Build LLM-powered applications using Claude API. Implement RAG pipelines and agent workflows. Requirements: Python, PyTorch, LangChain, experience with prompt engineering and vector databases.",
+    "interview_themes": [
+      "项目深挖",
+      "技术基础",
+      "业务理解"
+    ],
+    "source": "greenhouse",
+    "source_url": "",
+    "posted_at": "未知",
+    "data_quality_score": 100
+  },
+  {
+    "id": "bc888bdd34eb",
+    "title": "大模型算法实习生",
+    "company": "字节跳动",
+    "city": "北京",
+    "stage": "实习",
+    "direction": "LLM",
+    "skills": [
+      "agent",
+      "llm",
+      "python",
+      "pytorch",
+      "rag"
+    ],
+    "project_signals": [
+      "RAG",
+      "Agent"
+    ],
+    "jd": "负责大模型应用算法研发，包括 RAG 检索增强、Agent 工具调用、Prompt 优化。要求熟悉 Python、PyTorch、Transformer，有 LLM 项目经验优先。",
+    "interview_themes": [
+      "RAG召回策略与优化",
+      "Agent工作流设计与兜底",
+      "Prompt工程最佳实践",
+      "大模型微调(LoRA/QLoRA)",
+      "向量数据库选型(Faiss/Chroma/Milvus)"
+    ],
+    "source": "fixture",
+    "source_url": "",
+    "posted_at": "未知",
+    "data_quality_score": 90
+  },
+  {
+    "id": "d662381cfa05",
+    "title": "AI Research Scientist - LLM",
+    "company": "Meta",
+    "city": "Menlo Park",
+    "stage": "不限",
+    "direction": "LLM/搜索算法",
+    "skills": [],
+    "project_signals": [
+      "FineTune"
+    ],
+    "jd": "Research and develop large language models. Fine-tune models using LoRA/QLoRA. Build evaluation benchmarks. Requirements: PhD in CS/NLP, publications at top venues.",
+    "interview_themes": [
+      "项目深挖",
+      "技术基础",
+      "业务理解"
+    ],
+    "source": "lever",
+    "source_url": "",
+    "posted_at": "未知",
+    "data_quality_score": 95
+  },
+  {
+    "id": "2566b1b14026",
+    "title": "Generative AI Engineer",
+    "company": "Stability AI",
+    "city": "伦敦",
+    "stage": "不限",
+    "direction": "LLM",
+    "skills": [
+      "diffusion",
+      "huggingface",
+      "langchain",
+      "python",
+      "pytorch",
+      "rag"
+    ],
+    "project_signals": [
+      "RAG",
+      "NLP_Classic"
+    ],
+    "jd": "Develop generative AI applications with diffusion models and LLMs. Build RAG systems for document understanding. Requirements: Python, PyTorch, HuggingFace, LangChain.",
+    "interview_themes": [
+      "RAG召回策略与优化",
+      "Agent工作流设计与兜底",
+      "Prompt工程最佳实践",
+      "大模型微调(LoRA/QLoRA)",
+      "向量数据库选型(Faiss/Chroma/Milvus)"
+    ],
+    "source": "ashby",
+    "source_url": "",
+    "posted_at": "未知",
+    "data_quality_score": 100
+  },
+  {
+    "id": "ddc4543d4f3a",
+    "title": "Agent 应用开发工程师",
+    "company": "Minimax",
+    "city": "上海",
+    "stage": "不限",
+    "direction": "LLM/Agent",
+    "skills": [
+      "agent",
+      "langchain",
+      "llm",
+      "react"
+    ],
+    "project_signals": [
+      "Agent"
+    ],
+    "jd": "开发基于 LLM 的 Agent 应用，实现多轮对话和工具调用。要求熟悉 LangChain Agent 框架，有 Function Calling 实践，了解 ReAct 工作流。",
+    "interview_themes": [
+      "项目深挖",
+      "技术基础",
+      "业务理解"
+    ],
+    "source": "fixture",
+    "source_url": "",
+    "posted_at": "未知",
+    "data_quality_score": 95
+  },
+  {
+    "id": "d84f43181d13",
+    "title": "NLP 算法实习生（大模型方向）",
+    "company": "百度",
+    "city": "北京",
+    "stage": "实习",
+    "direction": "NLP",
+    "skills": [
+      "bert",
+      "huggingface",
+      "ner",
+      "python",
+      "pytorch",
+      "transformers",
+      "文本分类"
+    ],
+    "project_signals": [
+      "FineTune",
+      "NLP_Classic",
+      "CV_Traditional"
+    ],
+    "jd": "参与文心大模型应用开发，进行 NER/文本分类/摘要等任务微调。要求：Python, PyTorch, BERT, HuggingFace Transformers，有 NLP 项目经验。",
+    "interview_themes": [
+      "Transformer架构与变体",
+      "预训练语言模型(BERT/GPT)",
+      "Seq2Seq与Attention机制",
+      "NER/文本分类/摘要模型",
+      "Prompt Tuning vs FineTuning"
+    ],
+    "source": "fixture",
+    "source_url": "",
+    "posted_at": "未知",
+    "data_quality_score": 95
+  },
+  {
+    "id": "ddaeba096744",
+    "title": "LLM Infrastructure Engineer",
+    "company": "OpenAI",
+    "city": "旧金山",
+    "stage": "不限",
+    "direction": "LLM/ML平台/Infra",
+    "skills": [
+      "kubernetes",
+      "python"
+    ],
+    "project_signals": [
+      "Deployment"
+    ],
+    "jd": "Build scalable infrastructure for training and serving large language models. Optimize inference latency. Requirements: Python, CUDA, Triton, Ray, Kubernetes.",
+    "interview_themes": [
+      "项目深挖",
+      "技术基础",
+      "业务理解"
+    ],
+    "source": "greenhouse",
+    "source_url": "",
+    "posted_at": "未知",
+    "data_quality_score": 95
+  },
+  {
+    "id": "2bb5405cf23c",
+    "title": "AI Application Developer",
+    "company": "Notion",
+    "city": "旧金山",
+    "stage": "不限",
+    "direction": "LLM/后端开发",
+    "skills": [
+      "python",
+      "rag",
+      "typescript"
+    ],
+    "project_signals": [
+      "RAG"
+    ],
+    "jd": "Integrate AI features into Notion's product using LLMs. Build RAG-powered Q&A, summarization, and writing assistants. Requirements: TypeScript, Python, API design.",
+    "interview_themes": [
+      "项目深挖",
+      "技术基础",
+      "业务理解"
+    ],
+    "source": "lever",
+    "source_url": "",
+    "posted_at": "未知",
+    "data_quality_score": 100
+  },
+  {
+    "id": "039ec2043605",
+    "title": "推荐算法实习生",
+    "company": "快手",
+    "city": "北京",
+    "stage": "实习",
+    "direction": "推荐算法",
+    "skills": [
+      "python",
+      "pytorch"
+    ],
+    "project_signals": [
+      "Recommendation",
+      "DataAnalysis"
+    ],
+    "jd": "参与短视频推荐排序模型优化，包括召回、粗排、精排。要求熟悉推荐系统、排序模型、NDCG指标体系。Python、PyTorch、A/B Test 经验优先。",
+    "interview_themes": [
+      "召回-粗排-精排 pipeline",
+      "多目标优化(MMoE/PLE)",
+      "冷启动与探索策略",
+      "特征工程与实时特征",
+      "A/B实验设计与评估"
+    ],
+    "source": "fixture",
+    "source_url": "",
+    "posted_at": "未知",
+    "data_quality_score": 80
+  },
+  {
+    "id": "a7b42b2a30a7",
+    "title": "Machine Learning Engineer - Recommendations",
+    "company": "Spotify",
+    "city": "Stockholm",
+    "stage": "不限",
+    "direction": "推荐算法",
+    "skills": [
+      "python",
+      "scala",
+      "tensorflow"
+    ],
+    "project_signals": [
+      "Recommendation"
+    ],
+    "jd": "Build recommendation systems for music discovery. Work on collaborative filtering, content-based recommendations, and multi-objective ranking. Requirements: Python, TensorFlow, Scala.",
+    "interview_themes": [
+      "召回-粗排-精排 pipeline",
+      "多目标优化(MMoE/PLE)",
+      "冷启动与探索策略",
+      "特征工程与实时特征",
+      "A/B实验设计与评估"
+    ],
+    "source": "greenhouse",
+    "source_url": "",
+    "posted_at": "未知",
+    "data_quality_score": 100
+  },
+  {
+    "id": "65c8efe4d90b",
+    "title": "搜索推荐算法工程师",
+    "company": "阿里巴巴",
+    "city": "杭州",
+    "stage": "不限",
+    "direction": "推荐算法",
+    "skills": [
+      "ctr",
+      "cvr",
+      "python",
+      "tensorflow"
+    ],
+    "project_signals": [
+      "Recommendation"
+    ],
+    "jd": "负责电商搜索和推荐算法优化，提升 CTR/CVR。要求掌握排序模型(LTR/DNN)、召回策略、多目标优化。Python、TensorFlow 熟练。",
+    "interview_themes": [
+      "召回-粗排-精排 pipeline",
+      "多目标优化(MMoE/PLE)",
+      "冷启动与探索策略",
+      "特征工程与实时特征",
+      "A/B实验设计与评估"
+    ],
+    "source": "fixture",
+    "source_url": "",
+    "posted_at": "未知",
+    "data_quality_score": 90
+  },
+  {
+    "id": "23097ed5fcdd",
+    "title": "推荐系统工程师",
+    "company": "美团",
+    "city": "北京",
+    "stage": "不限",
+    "direction": "推荐算法",
+    "skills": [
+      "deepfm",
+      "python",
+      "spark",
+      "wide&deep"
+    ],
+    "project_signals": [
+      "Recommendation"
+    ],
+    "jd": "优化外卖推荐系统，从召回-粗排-精排全链路优化。要求熟悉 Wide&Deep、DeepFM、多任务学习。Python、Spark、Hive 熟练。",
+    "interview_themes": [
+      "召回-粗排-精排 pipeline",
+      "多目标优化(MMoE/PLE)",
+      "冷启动与探索策略",
+      "特征工程与实时特征",
+      "A/B实验设计与评估"
+    ],
+    "source": "fixture",
+    "source_url": "",
+    "posted_at": "未知",
+    "data_quality_score": 90
+  },
+  {
+    "id": "f02311d474c7",
+    "title": "Junior Data Scientist - RecSys",
+    "company": "Delivery Hero",
+    "city": "柏林",
+    "stage": "校招",
+    "direction": "推荐算法/数据分析",
+    "skills": [
+      "python",
+      "sql"
+    ],
+    "project_signals": [
+      "Recommendation",
+      "DataAnalysis"
+    ],
+    "jd": "Develop recommendation models for food delivery. Apply collaborative filtering and deep learning to improve order recommendations. Requirements: Python, SQL, basic ML.",
+    "interview_themes": [
+      "项目深挖",
+      "技术基础",
+      "业务理解"
+    ],
+    "source": "ashby",
+    "source_url": "",
+    "posted_at": "未知",
+    "data_quality_score": 95
+  },
+  {
+    "id": "f438d1747b78",
+    "title": "后端研发实习生（Go 方向）",
+    "company": "腾讯",
+    "city": "深圳",
+    "stage": "实习",
+    "direction": "后端开发",
+    "skills": [
+      "go",
+      "grpc",
+      "mysql",
+      "redis"
+    ],
+    "project_signals": [
+      "Backend",
+      "DataAnalysis"
+    ],
+    "jd": "参与 AI 平台后端服务开发，使用 Go 语言。要求掌握 Go、MySQL、Redis、消息队列，了解微服务架构和 gRPC。有分布式系统经验优先。",
+    "interview_themes": [
+      "Go并发模型与GC优化",
+      "分布式一致性(Raft/Paxos)",
+      "消息队列(Kafka/RabbitMQ)",
+      "微服务治理(服务发现/熔断/限流)",
+      "MySQL索引与慢查询优化"
+    ],
+    "source": "fixture",
+    "source_url": "",
+    "posted_at": "未知",
+    "data_quality_score": 95
+  },
+  {
+    "id": "12e44d4c9552",
+    "title": "Backend Engineer - AI Platform",
+    "company": "Stripe",
+    "city": "西雅图",
+    "stage": "不限",
+    "direction": "ML平台/Infra/后端开发",
+    "skills": [
+      "go",
+      "grpc",
+      "java",
+      "kubernetes"
+    ],
+    "project_signals": [
+      "Backend"
+    ],
+    "jd": "Build backend services for Stripe's ML platform. Design APIs for model serving and feature store. Requirements: Go/Java, gRPC, Kubernetes, experience with ML infrastructure.",
+    "interview_themes": [
+      "项目深挖",
+      "技术基础",
+      "业务理解"
+    ],
+    "source": "lever",
+    "source_url": "",
+    "posted_at": "未知",
+    "data_quality_score": 100
+  },
+  {
+    "id": "4a30bd256d5f",
+    "title": "云原生后端开发工程师",
+    "company": "华为",
+    "city": "深圳",
+    "stage": "不限",
+    "direction": "后端开发",
+    "skills": [
+      "docker",
+      "go",
+      "java",
+      "kubernetes",
+      "python"
+    ],
+    "project_signals": [
+      "Backend",
+      "Deployment"
+    ],
+    "jd": "开发云原生 AI 平台后端服务，基于 Kubernetes/Docker 构建。要求 Go/Java/Python，熟悉微服务、容器化部署，了解 CI/CD 流程。",
+    "interview_themes": [
+      "Go并发模型与GC优化",
+      "分布式一致性(Raft/Paxos)",
+      "消息队列(Kafka/RabbitMQ)",
+      "微服务治理(服务发现/熔断/限流)",
+      "MySQL索引与慢查询优化"
+    ],
+    "source": "fixture",
+    "source_url": "",
+    "posted_at": "未知",
+    "data_quality_score": 95
+  },
+  {
+    "id": "94152c817377",
+    "title": "ML Platform Engineer",
+    "company": "Databricks",
+    "city": "旧金山",
+    "stage": "不限",
+    "direction": "ML平台/Infra",
+    "skills": [
+      "k8s",
+      "python",
+      "scala",
+      "spark"
+    ],
+    "project_signals": [
+      "Backend"
+    ],
+    "jd": "Build the platform that powers ML training and serving at scale. Design model registry, feature store, and experiment tracking. Requirements: Python, Scala, K8s, Spark.",
+    "interview_themes": [
+      "项目深挖",
+      "技术基础",
+      "业务理解"
+    ],
+    "source": "greenhouse",
+    "source_url": "",
+    "posted_at": "未知",
+    "data_quality_score": 100
+  },
+  {
+    "id": "3259dc1bd298",
+    "title": "推荐平台后端实习生",
+    "company": "小红书",
+    "city": "上海",
+    "stage": "实习",
+    "direction": "后端开发",
+    "skills": [
+      "docker",
+      "go",
+      "grpc",
+      "python"
+    ],
+    "project_signals": [
+      "Recommendation",
+      "Backend",
+      "Deployment"
+    ],
+    "jd": "参与推荐平台后端开发，负责特征抽取服务和模型推理引擎。要求 Python/Go、gRPC、Docker，了解推荐系统架构。",
+    "interview_themes": [
+      "Go并发模型与GC优化",
+      "分布式一致性(Raft/Paxos)",
+      "消息队列(Kafka/RabbitMQ)",
+      "微服务治理(服务发现/熔断/限流)",
+      "MySQL索引与慢查询优化"
+    ],
+    "source": "fixture",
+    "source_url": "",
+    "posted_at": "未知",
+    "data_quality_score": 90
+  },
+  {
+    "id": "ba8e56ff0a6e",
+    "title": "计算机视觉算法实习生（检测方向）",
+    "company": "商汤科技",
+    "city": "上海",
+    "stage": "实习",
+    "direction": "计算机视觉",
+    "skills": [
+      "python",
+      "pytorch",
+      "yolo"
+    ],
+    "project_signals": [
+      "CV_Traditional"
+    ],
+    "jd": "参与目标检测和图像分割算法研发，使用 YOLO/DETR/MaskRCNN 等模型。要求 Python、PyTorch、OpenCV，有 CV 项目经验优先。",
+    "interview_themes": [
+      "Backbone网络演进(ResNet/ViT)",
+      "目标检测(YOLO/DETR)",
+      "图像分割(U-Net/MaskRCNN)",
+      "生成模型(GAN/Diffusion)",
+      "模型轻量化与部署"
+    ],
+    "source": "fixture",
+    "source_url": "",
+    "posted_at": "未知",
+    "data_quality_score": 95
+  },
+  {
+    "id": "7ff476e6adcd",
+    "title": "Computer Vision Engineer",
+    "company": "Tesla",
+    "city": "Palo Alto",
+    "stage": "不限",
+    "direction": "计算机视觉",
+    "skills": [
+      "python",
+      "pytorch"
+    ],
+    "project_signals": [],
+    "jd": "Develop computer vision algorithms for autonomous driving. Work on object detection, lane detection, and scene understanding. Requirements: Python, PyTorch, OpenCV.",
+    "interview_themes": [
+      "Backbone网络演进(ResNet/ViT)",
+      "目标检测(YOLO/DETR)",
+      "图像分割(U-Net/MaskRCNN)",
+      "生成模型(GAN/Diffusion)",
+      "模型轻量化与部署"
+    ],
+    "source": "lever",
+    "source_url": "",
+    "posted_at": "未知",
+    "data_quality_score": 95
+  },
+  {
+    "id": "0948ed153ad6",
+    "title": "图像识别算法实习生",
+    "company": "旷视科技",
+    "city": "北京",
+    "stage": "实习",
+    "direction": "计算机视觉",
+    "skills": [
+      "python",
+      "pytorch",
+      "resnet"
+    ],
+    "project_signals": [
+      "CV_Traditional",
+      "Deployment"
+    ],
+    "jd": "参与图像分类、OCR 识别算法研发。要求 Python、PyTorch、CNN/ResNet/ViT 等模型经验，有模型轻量化和部署经验优先。",
+    "interview_themes": [
+      "Backbone网络演进(ResNet/ViT)",
+      "目标检测(YOLO/DETR)",
+      "图像分割(U-Net/MaskRCNN)",
+      "生成模型(GAN/Diffusion)",
+      "模型轻量化与部署"
+    ],
+    "source": "fixture",
+    "source_url": "",
+    "posted_at": "未知",
+    "data_quality_score": 90
+  },
+  {
+    "id": "b093ed834b8a",
+    "title": "NLP Research Intern",
+    "company": "Google",
+    "city": "Mountain View",
+    "stage": "实习",
+    "direction": "NLP/搜索算法",
+    "skills": [
+      "huggingface",
+      "pytorch"
+    ],
+    "project_signals": [
+      "NLP_Classic"
+    ],
+    "jd": "Research in natural language processing. Work on multilingual models, text generation, and dialogue systems. Requirements: PyTorch, HuggingFace, publications.",
+    "interview_themes": [
+      "项目深挖",
+      "技术基础",
+      "业务理解"
+    ],
+    "source": "greenhouse",
+    "source_url": "",
+    "posted_at": "未知",
+    "data_quality_score": 95
+  },
+  {
+    "id": "40e0b34b54fe",
+    "title": "搜索 NLP 算法实习生",
+    "company": "搜狗",
+    "city": "北京",
+    "stage": "实习",
+    "direction": "NLP/搜索算法",
+    "skills": [
+      "bert",
+      "python",
+      "pytorch"
+    ],
+    "project_signals": [
+      "Recommendation",
+      "NLP_Classic"
+    ],
+    "jd": "参与搜索 Query 理解和排序优化，包括意图识别、Query 纠错改写。要求 NLP 基础，Python，PyTorch/BERT，有搜索/对话系统项目优先。",
+    "interview_themes": [
+      "项目深挖",
+      "技术基础",
+      "业务理解"
+    ],
+    "source": "fixture",
+    "source_url": "",
+    "posted_at": "未知",
+    "data_quality_score": 95
+  },
+  {
+    "id": "b69f903c7610",
+    "title": "文本生成算法工程师",
+    "company": "阅文集团",
+    "city": "上海",
+    "stage": "不限",
+    "direction": "NLP",
+    "skills": [
+      "gpt"
+    ],
+    "project_signals": [
+      "FineTune",
+      "Deployment"
+    ],
+    "jd": "负责网络文学 AI 创作和文本生成模型优化。要求 NLP 背景，熟悉 GPT/BART 等生成式模型，有模型微调和部署经验。",
+    "interview_themes": [
+      "Transformer架构与变体",
+      "预训练语言模型(BERT/GPT)",
+      "Seq2Seq与Attention机制",
+      "NER/文本分类/摘要模型",
+      "Prompt Tuning vs FineTuning"
+    ],
+    "source": "fixture",
+    "source_url": "",
+    "posted_at": "未知",
+    "data_quality_score": 80
+  },
+  {
+    "id": "01e5b86f8bf1",
+    "title": "校招数据分析实习生",
+    "company": "滴滴出行",
+    "city": "北京",
+    "stage": "实习",
+    "direction": "数据分析",
+    "skills": [
+      "python",
+      "sql"
+    ],
+    "project_signals": [
+      "DataAnalysis"
+    ],
+    "jd": "参与出行平台数据分析，设计指标体系、构建用户画像。要求 SQL 熟练，Python 数据分析，有 A/B 实验和可视化经验优先。",
+    "interview_themes": [
+      "指标体系设计与北极星指标",
+      "漏斗分析与用户画像",
+      "A/B实验统计方法",
+      "SQL高级查询与优化",
+      "数据可视化(Python/Tableau)"
+    ],
+    "source": "fixture",
+    "source_url": "",
+    "posted_at": "未知",
+    "data_quality_score": 80
+  },
+  {
+    "id": "ebf88122ca03",
+    "title": "推荐数据分析实习生",
+    "company": "Bilibili",
+    "city": "上海",
+    "stage": "实习",
+    "direction": "推荐算法/数据分析",
+    "skills": [
+      "ctr",
+      "cvr",
+      "hadoop",
+      "python",
+      "spark",
+      "sql"
+    ],
+    "project_signals": [
+      "Recommendation",
+      "DataAnalysis"
+    ],
+    "jd": "分析视频推荐效果指标，包括 CTR/CVR/用户停留时长。要求 SQL/Python 数据分析，了解推荐系统指标体系，有 Hadoop/Spark 经验优先。",
+    "interview_themes": [
+      "项目深挖",
+      "技术基础",
+      "业务理解"
+    ],
+    "source": "fixture",
+    "source_url": "",
+    "posted_at": "未知",
+    "data_quality_score": 90
+  },
+  {
+    "id": "2dd01a906dda",
+    "title": "Data Analyst - Growth",
+    "company": "Canva",
+    "city": "Sydney",
+    "stage": "不限",
+    "direction": "数据分析",
+    "skills": [
+      "python",
+      "sql"
+    ],
+    "project_signals": [
+      "DataAnalysis"
+    ],
+    "jd": "Analyze user growth metrics and build dashboards. Design A/B tests and measure impact of product changes. Requirements: SQL, Python/R, Tableau.",
+    "interview_themes": [
+      "指标体系设计与北极星指标",
+      "漏斗分析与用户画像",
+      "A/B实验统计方法",
+      "SQL高级查询与优化",
+      "数据可视化(Python/Tableau)"
+    ],
+    "source": "lever",
+    "source_url": "",
+    "posted_at": "未知",
+    "data_quality_score": 95
+  },
+  {
+    "id": "bdc75c575827",
+    "title": "智能搜索算法实习生",
+    "company": "知乎",
+    "city": "北京",
+    "stage": "实习",
+    "direction": "NLP/搜索算法",
+    "skills": [
+      "python",
+      "pytorch"
+    ],
+    "project_signals": [
+      "Embedding",
+      "Recommendation"
+    ],
+    "jd": "优化知乎内容搜索排序，包括向量检索、文本相关性排序。要求 NLP/搜索背景，Python/PyTorch，了解 ES/向量数据库。",
+    "interview_themes": [
+      "项目深挖",
+      "技术基础",
+      "业务理解"
+    ],
+    "source": "fixture",
+    "source_url": "",
+    "posted_at": "未知",
+    "data_quality_score": 80
+  },
+  {
+    "id": "c4847e8b6edc",
+    "title": "校招人岗匹配算法实习生",
+    "company": "BOSS直聘",
+    "city": "北京",
+    "stage": "实习",
+    "direction": "推荐算法/NLP",
+    "skills": [
+      "embedding"
+    ],
+    "project_signals": [
+      "Embedding",
+      "Recommendation"
+    ],
+    "jd": "参与人岗匹配算法研发，包括简历-岗位语义匹配、Embedding 召回、排序模型优化。要求 NLP/推荐系统背景，有向量检索和排序项目经验。",
+    "interview_themes": [
+      "项目深挖",
+      "技术基础",
+      "业务理解"
+    ],
+    "source": "fixture",
+    "source_url": "",
+    "posted_at": "未知",
+    "data_quality_score": 85
+  },
+  {
+    "id": "5f6b6339fa31",
+    "title": "游戏 AI 算法实习生",
+    "company": "网易游戏",
+    "city": "广州",
+    "stage": "实习",
+    "direction": "通用技术",
+    "skills": [
+      "python",
+      "pytorch"
+    ],
+    "project_signals": [],
+    "jd": "参与游戏 AI 研发，包括 NPC 行为决策、强化学习训练。要求 Python、PyTorch、强化学习基础，有游戏 AI 项目经验优先。",
+    "interview_themes": [
+      "项目深挖",
+      "技术基础",
+      "业务理解"
+    ],
+    "source": "fixture",
+    "source_url": "",
+    "posted_at": "未知",
+    "data_quality_score": 75
+  }
+]

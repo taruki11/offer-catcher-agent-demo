@@ -1,0 +1,451 @@
+[
+  {
+    "case_id": "case_01",
+    "resume_text": "张同学 | 计算机科学与技术 | 2026 届硕士\n\n求职方向：大模型应用算法 / Agent 应用算法实习生，期望城市深圳或北京。\n\n技能：Python、PyTorch、Transformer、RAG、Agent、Embedding、Faiss、LangChain、推荐系统、召回排序、NDCG、A/B Test、SQL。\n\n项目经历：\n1. GenAdRec 生成式广告推荐项目：基于 Transformer 建模用户行为序列，将广告候选集转化为生成式 likelihood rerank 问题；构建 Semantic ID 表示广告 item，结合多兴趣召回提升 NDCG@10。\n2. LLM 求职助手 Demo：使用 DeepSeek API 和 bge embedding 实现 JD 检索、简历关键词诊断、Prompt 模板优化，支持输出岗位匹配解释。\n3. MIND 多兴趣推荐复现：复现 capsule routing 用户多兴趣建模，在公开数据集上对比召回 HitRate 与 NDCG。\n\n实习经历：\n曾参与推荐系统离线评估脚本开发，负责样本构造、特征清洗和模型结果分析。\n\n补充：希望找能结合 LLM、Agent、RAG 和推荐排序的算法岗位。",
+    "target_role": "大模型应用算法",
+    "target_city": "深圳",
+    "stage": "实习",
+    "expected_top_matches": [
+      "大模型应用算法实习生"
+    ],
+    "expected_top_priorities": [
+      "大模型应用算法实习生"
+    ],
+    "expected_recall_jobs": [
+      "大模型应用算法实习生",
+      "校招人岗匹配算法实习生",
+      "LLM 推荐算法实习生"
+    ],
+    "expected_action": "立即投递",
+    "expected_missing_skills": [],
+    "expected_risks": [
+      "项目偏研究，缺少工业级部署经验"
+    ],
+    "eval_split": "core"
+  },
+  {
+    "case_id": "case_02",
+    "resume_text": "李同学 | 软件工程 | 2026 届本科\n\n求职方向：推荐算法实习生，期望城市北京。\n\n技能：Python、TensorFlow、推荐系统、协同过滤、矩阵分解、A/B Test、Hadoop、Spark、SQL。\n\n项目经历：\n1. 基于用户的协同过滤推荐系统：在 MovieLens 数据集上实现 User-based CF，Top-10 推荐命中率 15%。\n2. 短视频推荐排序优化：使用 Wide&Deep 模型，在业务数据集上 A/B Test 提升 CTR 2.3%。\n\n补充：希望找推荐算法相关的实习岗位。",
+    "target_role": "推荐算法",
+    "target_city": "北京",
+    "stage": "实习",
+    "expected_top_matches": [
+      "推荐算法实习生"
+    ],
+    "expected_top_priorities": [
+      "推荐算法实习生"
+    ],
+    "expected_recall_jobs": [
+      "推荐算法实习生",
+      "LLM 推荐算法实习生"
+    ],
+    "expected_action": "先优化再投",
+    "expected_missing_skills": [
+      "Transformer",
+      "深度学习推荐模型"
+    ],
+    "expected_risks": [
+      "缺少大模型相关经验",
+      "项目指标偏少"
+    ],
+    "eval_split": "core"
+  },
+  {
+    "case_id": "case_03",
+    "resume_text": "王同学 | 自然语言处理 | 2026 届硕士\n\n求职方向：大模型应用算法（只有 NLP 背景，想转 LLM 应用），期望城市上海。\n\n技能：Python、PyTorch、BERT、GPT、文本分类、命名实体识别、Seq2Seq、Attention、Beam Search。\n\n项目经历：\n1. 基于 BERT 的中文命名实体识别：在 MSRA 数据集上 F1 值 92.3%。\n2. 基于 Seq2Seq 的中文摘要生成：使用 Transformer 实现新闻摘要，ROUGE-L 42.1。\n\n补充：了解大模型，但没有实际项目经验，希望通过实习学习 LLM 应用开发。",
+    "target_role": "大模型应用算法",
+    "target_city": "上海",
+    "stage": "实习",
+    "expected_top_matches": [
+      "NLP 大模型实习生"
+    ],
+    "expected_top_priorities": [
+      "NLP 大模型实习生"
+    ],
+    "expected_recall_jobs": [
+      "NLP 大模型实习生",
+      "大模型应用算法实习生"
+    ],
+    "expected_action": "先优化再投",
+    "expected_missing_skills": [
+      "RAG",
+      "Agent",
+      "Embedding",
+      "LangChain"
+    ],
+    "expected_risks": [
+      "只有 NLP 基础，缺少 LLM 应用实战经验",
+      "项目都是 NLP 传统任务，没有 RAG/Agent 项目"
+    ],
+    "eval_split": "core"
+  },
+  {
+    "case_id": "case_04",
+    "resume_text": "赵同学 | 计算机技术 | 2026 届硕士\n\n求职方向：大模型应用算法 / 后端开发（项目很多但缺少指标），期望城市杭州。\n\n技能：Python、Java、Go、Docker、Kubernetes、MySQL、Redis、Kafka、gRPC、微服务。\n\n项目经历：\n1. 分布式任务调度系统：使用 Go + etcd 实现分布式任务调度，支持 cron 表达式、任务依赖、失败重试。\n2. 高性能 RPC 框架：基于 gRPC 和 Consul 实现服务发现、负载均衡、熔断降级。\n3. LLM 应用后端服务：使用 FastAPI + LangChain 搭建 LLM 应用后端，支持 RAG 检索和 Agent 工具调用。\n\n补充：项目经历丰富，但都没有写量化指标。",
+    "target_role": "大模型应用算法",
+    "target_city": "杭州",
+    "stage": "实习",
+    "expected_top_matches": [
+      "大模型应用算法实习生"
+    ],
+    "expected_top_priorities": [
+      "大模型应用算法实习生"
+    ],
+    "expected_recall_jobs": [
+      "大模型应用算法实习生",
+      "AI 平台后端研发实习生",
+      "校招人岗匹配算法实习生"
+    ],
+    "expected_action": "先优化再投",
+    "expected_missing_skills": [
+      "Transformer",
+      "PyTorch",
+      "推荐系统"
+    ],
+    "expected_risks": [
+      "项目缺少量化指标",
+      "后端项目多，但算法项目少",
+      "LLM 项目描述不够具体"
+    ],
+    "eval_split": "core"
+  },
+  {
+    "case_id": "case_05",
+    "resume_text": "刘同学 | 数据科学与大数据技术 | 2026 届本科\n\n求职方向：大模型应用算法实习生（技能匹配但城市/阶段不匹配），期望城市成都。\n\n技能：Python、PyTorch、Transformer、RAG、Agent、Embedding、Faiss、Prompt Engineering、数据清洗、特征工程。\n\n项目经历：\n1. 基于 RAG 的本地知识库问答系统：使用 LangChain + Chroma 实现，支持 PDF 上传、向量检索、上下文压缩，Top-3 召回准确率 78%。\n2. LLM Agent 工具调用 Demo：使用 Function Calling 实现天气查询、计算器、搜索工具，成功调用率 85%。\n\n补充：希望找成都的大模型应用算法实习，但市面上成都岗位较少。",
+    "target_role": "大模型应用算法",
+    "target_city": "成都",
+    "stage": "实习",
+    "expected_top_matches": [
+      "大模型应用算法实习生"
+    ],
+    "expected_top_priorities": [
+      "大模型应用算法实习生"
+    ],
+    "expected_recall_jobs": [
+      "大模型应用算法实习生",
+      "校招人岗匹配算法实习生",
+      "LLM 推荐算法实习生"
+    ],
+    "expected_action": "冲刺岗位",
+    "expected_missing_skills": [
+      "推荐系统",
+      "排序",
+      "A/B Test"
+    ],
+    "expected_risks": [
+      "目标城市岗位少",
+      "本科背景可能竞争力不足",
+      "项目偏 Demo，缺少工业级经验"
+    ],
+    "eval_split": "core"
+  },
+  {
+    "case_id": "case_06",
+    "resume_text": "陈同学 | 人工智能 | 2026 届硕士\n\n求职方向：大模型应用算法 / Agent 应用算法（简历过度泛化，需要改写），期望城市深圳。\n\n技能：机器学习、深度学习、Python、PyTorch、大模型、Agent、RAG、数据处理。\n\n项目经历：\n1. 参与了一个大模型相关项目，负责模型训练和数据处理。\n2. 做了一个 Agent 系统，可以调用工具完成任务。\n3. 有推荐系统项目经验，做过排序模型。\n\n补充：熟悉人工智能相关技术，希望找大模型应用算法方向的实习。",
+    "target_role": "大模型应用算法",
+    "target_city": "深圳",
+    "stage": "实习",
+    "expected_top_matches": [
+      "大模型应用算法实习生"
+    ],
+    "expected_top_priorities": [
+      "大模型应用算法实习生"
+    ],
+    "expected_recall_jobs": [
+      "大模型应用算法实习生",
+      "校招人岗匹配算法实习生"
+    ],
+    "expected_action": "先优化再投",
+    "expected_missing_skills": [
+      "Transformer（具体实践）",
+      "Faiss（具体使用）",
+      "LangChain（具体使用）"
+    ],
+    "expected_risks": [
+      "简历表达过度泛化，缺少具体技术细节",
+      "项目描述像功能列表，没有体现个人贡献",
+      "缺少量化指标"
+    ],
+    "eval_split": "core"
+  },
+  {
+    "case_id": "case_07",
+    "resume_text": "孙同学 | 计算机科学与技术 | 2025 届本科（已毕业，冲刺岗位风险高）\n\n求职方向：大模型应用算法工程师（冲刺岗位），期望城市北京。\n\n技能：Python、PyTorch、Transformer、RAG、Agent、Embedding、Faiss、LangChain、Prompt Engineering、模型微调。\n\n项目经历：\n1. 基于 LoRA 的大模型微调：使用 QLoRA 微调 LLaMA-2-7B 在垂直领域问答任务，BLEU 提升 12%。\n2. 多 Agent 协作框架：使用 AutoGen 实现多 Agent 协作完成数据分析任务，任务完成率 68%。\n3. RAG 系统优化：使用 HyDE + Query Expansion 提升召回准确率 15%。\n\n补充：已毕业半年，希望找大模型应用算法工程师岗位，愿意接受挑战。",
+    "target_role": "大模型应用算法",
+    "target_city": "北京",
+    "stage": "实习",
+    "expected_top_matches": [
+      "大模型应用算法实习生"
+    ],
+    "expected_top_priorities": [
+      "大模型 Agent 应用实习生",
+      "大模型应用算法实习生"
+    ],
+    "expected_recall_jobs": [
+      "大模型 Agent 应用实习生",
+      "大模型应用算法实习生"
+    ],
+    "expected_action": "冲刺岗位",
+    "expected_missing_skills": [
+      "工业级部署经验",
+      "大模型推理优化"
+    ],
+    "expected_risks": [
+      "已毕业，投实习岗可能被拒",
+      "项目偏研究，缺少工业级经验",
+      "竞争激烈，需要突出差异化优势"
+    ],
+    "eval_split": "core"
+  },
+  {
+    "case_id": "case_08",
+    "resume_text": "周同学 | 电子信息工程 | 2026 届硕士\n\n求职方向：大模型应用算法（低匹配岗位应被排后），期望城市广州。\n\n技能：Python、OpenCV、YOLO、图像分类、目标检测、数据标注、模型部署。\n\n项目经历：\n1. 基于 YOLO-v8 的工业缺陷检测：在自制数据集上 mAP@0.5 达到 89.2%。\n2. 基于 ResNet 的作物病害识别：在 PlantVillage 数据集上准确率 94.7%。\n\n补充：有 CV 项目经验，希望转大模型应用算法方向，愿意学习。",
+    "target_role": "大模型应用算法",
+    "target_city": "广州",
+    "stage": "实习",
+    "expected_top_matches": [],
+    "expected_top_priorities": [],
+    "expected_recall_jobs": [],
+    "expected_action": "暂缓",
+    "expected_missing_skills": [
+      "Transformer",
+      "RAG",
+      "Agent",
+      "Embedding",
+      "LangChain"
+    ],
+    "expected_risks": [
+      "CV 背景转 LLM 应用需要补充大量知识",
+      "没有 NLP/LLM 相关项目",
+      "竞争力可能不足"
+    ],
+    "eval_split": "core"
+  },
+  {
+    "case_id": "case_09_jd_intake",
+    "resume_text": "张同学 | 计算机科学与技术 | 2026 届硕士\n\n技能：Python、PyTorch、Transformer、RAG、Agent、Embedding、Faiss、LangChain、Prompt Engineering。\n项目：基于 RAG 的知识库问答系统，LangChain+Chroma，Top3 召回率 78%。LLM Agent 工具调用 Demo。",
+    "target_role": "大模型应用算法",
+    "target_city": "北京",
+    "stage": "实习",
+    "jd_text": "岗位：大模型应用算法实习生\n公司：字节跳动 AI 部门\n地点：北京\n方向：大模型应用算法\n要求：熟悉 Python、PyTorch、Transformer，有 RAG/Agent 项目经验，了解 LangChain 和向量数据库。负责企业级 LLM 应用开发和 Agent 工作流设计。面试覆盖 RAG 召回策略、Agent 兜底、Prompt 工程。",
+    "expected_top_matches": [
+      "大模型应用算法实习生"
+    ],
+    "expected_top_priorities": [
+      "大模型应用算法实习生"
+    ],
+    "expected_recall_jobs": [
+      "大模型应用算法实习生"
+    ],
+    "expected_action": "立即投递",
+    "expected_missing_skills": [],
+    "expected_risks": [],
+    "eval_split": "jd_intake"
+  },
+  {
+    "case_id": "case_10_jd_intake",
+    "resume_text": "李同学 | 软件工程 | 2026 届本科\n\n技能：Python、TensorFlow、推荐系统、协同过滤、矩阵分解、A/B Test、SQL。\n项目：User-based CF 推荐系统，MovieLens Top10 命中率 15%。Wide&Deep 排序优化，CTR 提升 2.3%。",
+    "target_role": "推荐算法",
+    "target_city": "深圳",
+    "stage": "实习",
+    "jd_text": "岗位：推荐算法实习生\n公司：快手\n地点：深圳\n方向：推荐算法\n要求：熟悉推荐系统、召回排序，掌握 Python 和深度学习框架。了解 A/B Test 和离线评估指标。负责内容推荐模型优化和线上 A/B 实验。面试覆盖排序模型、多目标优化、NDCG。",
+    "expected_top_matches": [
+      "推荐算法实习生"
+    ],
+    "expected_top_priorities": [
+      "推荐算法实习生"
+    ],
+    "expected_recall_jobs": [
+      "推荐算法实习生"
+    ],
+    "expected_action": "立即投递",
+    "expected_missing_skills": [],
+    "expected_risks": [],
+    "eval_split": "jd_intake"
+  },
+  {
+    "case_id": "case_11_pure_rec",
+    "resume_text": "刘同学 | 软件工程 | 2026 届硕士\n技能：Python、PyTorch、推荐系统、协同过滤、矩阵分解、Wide&Deep、NDCG、A/B Test、SQL、Spark。\n项目：1. 短视频推荐排序优化：使用 Wide&Deep 模型，A/B Test 提升 CTR 2.3%。2. 多兴趣召回模型：基于 MIND 实现用户多兴趣建模，HitRate@20 达到 78%。3. 特征工程 pipline：使用 Spark 构建用户-物品特征，日均处理 10GB 数据。",
+    "target_role": "推荐算法",
+    "target_city": "北京",
+    "stage": "实习",
+    "expected_top_matches": [
+      "推荐算法实习生"
+    ],
+    "expected_top_priorities": [
+      "推荐算法实习生"
+    ],
+    "expected_recall_jobs": [
+      "推荐算法实习生",
+      "LLM 推荐算法实习生",
+      "推荐数据分析实习生"
+    ],
+    "expected_action": "立即投递",
+    "expected_missing_skills": [],
+    "expected_risks": [],
+    "eval_split": "stress"
+  },
+  {
+    "case_id": "case_12_nlp_llm",
+    "resume_text": "陈同学 | 自然语言处理 | 2026 届硕士\n技能：Python、PyTorch、BERT、GPT、文本分类、命名实体识别、文字生成、Transformer、Embedding。\n项目：1. 基于 BERT 的中文 NER：MSRA 数据集 F1=92.3%。2. 文本摘要生成：Seq2Seq+Attention，ROUGE-L 42.1。3. 大模型微调实践：使用 QLoRA 微调 ChatGLM-6B 在医疗问答任务，BLEU 提升 8%。",
+    "target_role": "大模型应用算法",
+    "target_city": "杭州",
+    "stage": "实习",
+    "expected_top_matches": [
+      "NLP 大模型实习生"
+    ],
+    "expected_top_priorities": [
+      "NLP 大模型实习生"
+    ],
+    "expected_recall_jobs": [
+      "NLP 大模型实习生",
+      "大模型应用算法实习生",
+      "搜索 NLP 算法实习生"
+    ],
+    "expected_action": "立即投递",
+    "expected_missing_skills": [
+      "RAG",
+      "LangChain"
+    ],
+    "expected_risks": [
+      "缺少 RAG/Agent 项目经验"
+    ],
+    "eval_split": "stress"
+  },
+  {
+    "case_id": "case_13_cv_student",
+    "resume_text": "赵同学 | 电子信息 | 2026 届硕士\n技能：Python、PyTorch、OpenCV、YOLO、目标检测、图像分类、模型部署、TensorRT。\n项目：1. 基于 YOLO-v8 的工业缺陷检测：自制数据集 mAP@0.5=89.2%。2. ResNet 作物病害识别：PlantVillage 准确率 94.7%。3. 模型边缘部署：使用 TensorRT 优化 YOLO 推理速度，FPS 从 15 提升到 45。",
+    "target_role": "大模型应用算法",
+    "target_city": "上海",
+    "stage": "实习",
+    "expected_top_matches": [
+      "计算机视觉算法实习生（检测方向）"
+    ],
+    "expected_top_priorities": [
+      "计算机视觉算法实习生（检测方向）"
+    ],
+    "expected_recall_jobs": [
+      "计算机视觉算法实习生（检测方向）",
+      "图像识别算法实习生",
+      "游戏 AI 算法实习生"
+    ],
+    "expected_action": "先优化再投",
+    "expected_missing_skills": [
+      "Transformer",
+      "RAG",
+      "Agent",
+      "LangChain"
+    ],
+    "expected_risks": [
+      "CV 方向强但 LLM 应用经验为零",
+      "投大模型岗位需要补充 NLP 基础"
+    ],
+    "eval_split": "stress"
+  },
+  {
+    "case_id": "case_14_backend_go",
+    "resume_text": "周同学 | 计算机技术 | 2026 届硕士\n技能：Go、Docker、Kubernetes、Redis、MySQL、gRPC、Kafka、微服务、Linux。\n项目：1. 分布式任务调度系统：Go+etcd，支持 cron、任务依赖、失败重试，日处理 500 万任务。2. 高性能 RPC 框架：gRPC+Consul 服务发现，QPS 峰值 12 万。3. 消息队列服务：基于 Kafka 实现异步解耦，吞吐量 200MB/s。",
+    "target_role": "后端研发",
+    "target_city": "上海",
+    "stage": "实习",
+    "expected_top_matches": [
+      "后端研发实习生（Go 方向）"
+    ],
+    "expected_top_priorities": [
+      "后端研发实习生（Go 方向）"
+    ],
+    "expected_recall_jobs": [
+      "后端研发实习生（Go 方向）",
+      "AI 平台后端研发实习生",
+      "推荐平台后端实习生"
+    ],
+    "expected_action": "立即投递",
+    "expected_missing_skills": [
+      "Python",
+      "SQL"
+    ],
+    "expected_risks": [],
+    "eval_split": "stress"
+  },
+  {
+    "case_id": "case_15_mixed_unfocused",
+    "resume_text": "吴同学 | 信息管理 | 2025 届本科\n技能：Python、SQL、Excel、数据分析、可视化、一点点机器学习、Git。\n项目：1. 课程大作业：用 Python 做了数据清洗和可视化。2. 学生会活动：做过一个小程序的活动报名页面。3. 自学过机器学习，看过吴恩达课程但没做过项目。\n补充：还没想好方向，想先找份实习看看。",
+    "target_role": "数据分析",
+    "target_city": "上海",
+    "stage": "实习",
+    "expected_top_matches": [
+      "校招数据分析实习生"
+    ],
+    "expected_top_priorities": [
+      "校招数据分析实习生"
+    ],
+    "expected_recall_jobs": [
+      "校招数据分析实习生",
+      "推荐数据分析实习生"
+    ],
+    "expected_action": "先优化再投",
+    "expected_missing_skills": [
+      "指标体系",
+      "A/B Test",
+      "漏斗分析",
+      "Spark"
+    ],
+    "expected_risks": [
+      "简历太弱，项目都是课程级别",
+      "缺少明确方向",
+      "技能深度不足"
+    ],
+    "eval_split": "stress"
+  },
+  {
+    "case_id": "case_16_llm_no_metrics",
+    "resume_text": "郑同学 | 人工智能 | 2026 届硕士\n技能：Python、PyTorch、RAG、Agent、Embedding、LangChain、Prompt Engineering、LLM。\n项目：1. 做了一个基于 RAG 的知识库系统。2. 搭建了一个 Agent 工具调用 demo。3. 做过 Prompt 优化的实验。\n注意：三个项目都没有写量化指标，全部是描述性的。",
+    "target_role": "大模型应用算法",
+    "target_city": "深圳",
+    "stage": "实习",
+    "expected_top_matches": [
+      "大模型应用算法实习生"
+    ],
+    "expected_top_priorities": [
+      "大模型应用算法实习生"
+    ],
+    "expected_recall_jobs": [
+      "大模型应用算法实习生",
+      "大模型 Agent 应用实习生",
+      "校招人岗匹配算法实习生"
+    ],
+    "expected_action": "先优化再投",
+    "expected_missing_skills": [],
+    "expected_risks": [
+      "项目缺少量化指标，容易被认为只是功能实现",
+      "简历表达过度泛化"
+    ],
+    "eval_split": "stress"
+  },
+  {
+    "case_id": "case_17_grad_strong",
+    "resume_text": "冯同学 | 计算机科学与技术 | 2025 届硕士（已毕业）\n技能：Python、PyTorch、Transformer、RAG、Agent、Embedding、FAISS、LangChain、推荐系统、NDCG、SQL、Docker。\n项目：1. 多 Agent 求职匹配系统：7 Agent 协作，Match Top1 准确率 100%，Recall@5=100%。2. RAG 知识库系统：LangChain+Chroma，Top3 召回率 78%，输出可解释引用来源。3. 推荐排序模型：基于 Transformer 的多任务排序，NDCG@10 提升 12%，A/B Test 验证。4. LoRA 微调 LLaMA-7B：垂直领域问答 BLEU 提升 12%。\n实习：曾在算法团队实习 6 个月，负责召回策略优化和上线 A/B 实验。",
+    "target_role": "大模型应用算法",
+    "target_city": "北京",
+    "stage": "校招",
+    "expected_top_matches": [
+      "大模型应用算法实习生"
+    ],
+    "expected_top_priorities": [
+      "大模型应用算法实习生"
+    ],
+    "expected_recall_jobs": [
+      "大模型应用算法实习生",
+      "大模型 Agent 应用实习生",
+      "校招人岗匹配算法实习生",
+      "智能搜索算法实习生"
+    ],
+    "expected_action": "冲刺岗位",
+    "expected_missing_skills": [],
+    "expected_risks": [
+      "已毕业，投实习/校招岗竞争力降低",
+      "需要证明不是做了 demo 而是有工业级落地能力"
+    ],
+    "eval_split": "stress"
+  }
+]

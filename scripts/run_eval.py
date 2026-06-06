@@ -75,10 +75,10 @@ def test_core_with_sample():
         passed = False
 
     if errors:
-        print(f"\n❌ Core Eval FAILED ({len(errors)} issues):")
+        print(f"\n[FAIL] Core Eval FAILED ({len(errors)} issues):")
         for e in errors: print(e)
     else:
-        print(f"\n✅ Core Eval PASSED")
+        print(f"\n[PASS] Core Eval PASSED")
         print(f"  decisions={len(report.job_decisions)} sources={len(report.jd_sources)}")
         print(f"  portfolio: safe={len(report.portfolio.safe)} stretch={len(report.portfolio.stretch)} hold={len(report.portfolio.hold)}")
 
@@ -93,12 +93,12 @@ def test_stress_english_resume():
     top5 = report.job_decisions[:5]
     bad = [jd for jd in top5 if any(w.lower() in jd.company.lower() for w in BAD_COMPANY_WORDS)]
     if bad:
-        print(f"  ⚠️ {len(bad)} suspicious entries in Top5 (may be OK for English resume)")
+        print(f"  [WARN] {len(bad)} suspicious entries in Top5 (may be OK for English resume)")
     print(f"  decisions={len(report.job_decisions)} sources={len(report.jd_sources)}")
     print(f"  Top5:")
     for i, jd in enumerate(top5):
         print(f"  [{i+1}] {jd.title} @ {jd.company} · {jd.decision}")
-    print("✅ Stress Eval DONE")
+    print("[PASS] Stress Eval DONE")
     return True
 
 
@@ -106,7 +106,7 @@ def test_run_all():
     core_ok = test_core_with_sample()
     stress_ok = test_stress_english_resume()
     all_ok = core_ok and stress_ok
-    print(f"\n{'🎉' if all_ok else '❌'} P6 Result: {'ALL PASS' if all_ok else 'HAS ISSUES'}")
+    print(f"\n{'[PASS]' if all_ok else '[FAIL]'} P6 Result: {'ALL PASS' if all_ok else 'HAS ISSUES'}")
     return all_ok
 
 if __name__ == "__main__":

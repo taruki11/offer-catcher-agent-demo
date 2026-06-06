@@ -1,0 +1,130 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Offer 捕手 | 学生岗位匹配智能体</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main class="app-shell">
+      <header class="topbar">
+        <div>
+          <p class="eyebrow">LLM Agent + 语义召回 + 多维排序</p>
+          <h1>Offer 捕手</h1>
+          <p class="subtitle">把学生求职建模为“岗位推荐、差距诊断、简历优化、面试准备”的闭环。</p>
+        </div>
+        <div class="topbar-metrics" aria-label="系统能力指标">
+          <span><strong>5</strong> Agents</span>
+          <span><strong>8</strong> JD 样例</span>
+          <span><strong>5</strong> 维匹配</span>
+        </div>
+      </header>
+
+      <section class="workspace">
+        <aside class="input-panel" aria-label="简历输入与求职偏好">
+          <div class="panel-header">
+            <h2>求职画像</h2>
+            <button id="sampleBtn" class="ghost-button" type="button">填充示例</button>
+          </div>
+
+          <label class="field">
+            <span>目标方向</span>
+            <select id="targetRole">
+              <option value="大模型应用算法">大模型应用算法</option>
+              <option value="推荐算法">推荐算法</option>
+              <option value="后端研发">后端研发</option>
+              <option value="数据分析">数据分析</option>
+              <option value="产品经理">产品经理</option>
+            </select>
+          </label>
+
+          <label class="field">
+            <span>目标城市</span>
+            <select id="targetCity">
+              <option value="深圳">深圳</option>
+              <option value="北京">北京</option>
+              <option value="上海">上海</option>
+              <option value="广州">广州</option>
+              <option value="杭州">杭州</option>
+              <option value="不限">不限</option>
+            </select>
+          </label>
+
+          <label class="field">
+            <span>求职阶段</span>
+            <select id="careerStage">
+              <option value="实习">实习</option>
+              <option value="校招">校招</option>
+              <option value="提前批">提前批</option>
+            </select>
+          </label>
+
+          <label class="field text-field">
+            <span>简历文本</span>
+            <textarea id="resumeInput" spellcheck="false"></textarea>
+          </label>
+
+          <div class="button-row">
+            <button id="runBtn" class="primary-button" type="button">运行多 Agent 匹配</button>
+            <button id="clearBtn" class="ghost-button" type="button">清空</button>
+          </div>
+        </aside>
+
+        <section class="result-panel" aria-label="匹配结果">
+          <div class="agent-strip" id="agentStrip"></div>
+
+          <section class="summary-grid">
+            <div class="summary-card">
+              <span>最佳匹配</span>
+              <strong id="bestTitle">等待分析</strong>
+              <small id="bestCompany">填写简历后运行</small>
+            </div>
+            <div class="summary-card">
+              <span>综合得分</span>
+              <strong id="bestScore">--</strong>
+              <small>技能、项目、经验、偏好、潜力加权</small>
+            </div>
+            <div class="summary-card">
+              <span>命中技能</span>
+              <strong id="skillCount">--</strong>
+              <small id="skillPreview">待解析</small>
+            </div>
+          </section>
+
+          <div class="content-grid">
+            <section class="rank-panel">
+              <div class="section-title">
+                <h2>岗位推荐榜</h2>
+                <span>TopK 召回 + 精排解释</span>
+              </div>
+              <div id="jobList" class="job-list"></div>
+            </section>
+
+            <section class="detail-panel">
+              <div class="section-title">
+                <h2 id="detailTitle">匹配诊断</h2>
+                <span id="detailMeta">选择岗位查看详情</span>
+              </div>
+
+              <div class="radar-wrap">
+                <canvas id="radarCanvas" width="280" height="220" aria-label="五维匹配雷达图"></canvas>
+                <div class="score-breakdown" id="scoreBreakdown"></div>
+              </div>
+
+              <div class="tabs" role="tablist" aria-label="诊断内容切换">
+                <button class="tab active" data-tab="strengths" type="button">匹配优势</button>
+                <button class="tab" data-tab="gaps" type="button">能力缺口</button>
+                <button class="tab" data-tab="rewrite" type="button">简历优化</button>
+                <button class="tab" data-tab="plan" type="button">面试计划</button>
+              </div>
+              <div id="tabContent" class="tab-content"></div>
+            </section>
+          </div>
+        </section>
+      </section>
+    </main>
+
+    <script src="./src/app.js"></script>
+  </body>
+</html>

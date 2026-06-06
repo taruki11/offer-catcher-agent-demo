@@ -1,0 +1,635 @@
+[
+  {
+    "id": "llm-agent",
+    "title": "大模型应用算法实习生",
+    "company": "腾讯云智能",
+    "city": "深圳",
+    "direction": "大模型应用算法",
+    "stage": "实习",
+    "skills": [
+      "LLM",
+      "RAG",
+      "Agent",
+      "Embedding",
+      "Python",
+      "Prompt",
+      "LangChain",
+      "FAISS"
+    ],
+    "project_signals": [
+      "RAG",
+      "Agent",
+      "Embedding",
+      "Prompt",
+      "检索",
+      "简历",
+      "JD"
+    ],
+    "jd": "负责企业知识库问答、RAG 检索增强、Agent 工具调用、多轮对话效果优化，要求熟悉 Python、Embedding、Prompt Engineering 和 LLM 应用评估。",
+    "interview_themes": [
+      "RAG 召回与重排",
+      "Agent 工具调用失败兜底",
+      "Prompt 结构化输出",
+      "Embedding 评估指标"
+    ]
+  },
+  {
+    "id": "rec-llm",
+    "title": "LLM 推荐算法实习生",
+    "company": "内容平台事业群",
+    "city": "北京",
+    "direction": "推荐算法",
+    "stage": "实习",
+    "skills": [
+      "推荐系统",
+      "Transformer",
+      "召回",
+      "排序",
+      "Embedding",
+      "NDCG",
+      "PyTorch",
+      "A/B Test"
+    ],
+    "project_signals": [
+      "推荐",
+      "Transformer",
+      "Semantic ID",
+      "rerank",
+      "NDCG",
+      "召回"
+    ],
+    "jd": "负责内容推荐召回排序模型优化，探索 LLM 与推荐系统结合，包括语义表征、用户兴趣建模、候选集重排和离线指标评估。",
+    "interview_themes": [
+      "召回排序链路",
+      "多兴趣建模",
+      "Semantic ID",
+      "NDCG 与线上指标"
+    ]
+  },
+  {
+    "id": "search-rag",
+    "title": "智能搜索算法实习生",
+    "company": "微信事业群",
+    "city": "广州",
+    "direction": "大模型应用算法",
+    "stage": "实习",
+    "skills": [
+      "搜索",
+      "RAG",
+      "向量检索",
+      "Embedding",
+      "重排",
+      "Python",
+      "评估"
+    ],
+    "project_signals": [
+      "检索",
+      "RAG",
+      "Embedding",
+      "FAISS",
+      "重排",
+      "TopK"
+    ],
+    "jd": "建设面向业务知识的智能搜索系统，优化 query 理解、向量召回、cross-encoder 重排和答案生成质量。",
+    "interview_themes": [
+      "向量召回 TopK",
+      "重排模型",
+      "搜索相关性评估",
+      "幻觉控制"
+    ]
+  },
+  {
+    "id": "campus-rec",
+    "title": "校招人岗匹配算法实习生",
+    "company": "招聘技术中心",
+    "city": "北京",
+    "direction": "大模型应用算法",
+    "stage": "实习",
+    "skills": [
+      "人岗匹配",
+      "推荐系统",
+      "Embedding",
+      "LLM",
+      "排序",
+      "可解释性",
+      "Python"
+    ],
+    "project_signals": [
+      "岗位",
+      "简历",
+      "匹配",
+      "推荐",
+      "排序",
+      "Embedding"
+    ],
+    "jd": "基于简历和 JD 构建人岗匹配模型，优化候选人召回、岗位推荐排序、匹配解释和简历优化建议。",
+    "interview_themes": [
+      "人岗匹配建模",
+      "冷启动",
+      "特征交叉",
+      "可解释排序"
+    ]
+  },
+  {
+    "id": "backend-ai",
+    "title": "AI 平台后端研发实习生",
+    "company": "混元平台",
+    "city": "深圳",
+    "direction": "后端研发",
+    "stage": "实习",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "服务部署",
+      "SQL",
+      "Redis",
+      "API",
+      "Docker"
+    ],
+    "project_signals": [
+      "API",
+      "后端",
+      "部署",
+      "服务",
+      "SQL"
+    ],
+    "jd": "负责大模型平台后端服务开发、API 编排、任务队列、日志监控和模型服务接入。",
+    "interview_themes": [
+      "API 设计",
+      "异步任务",
+      "缓存策略",
+      "服务稳定性"
+    ]
+  },
+  {
+    "id": "data-analyst",
+    "title": "校招数据分析实习生",
+    "company": "HR Tech",
+    "city": "上海",
+    "direction": "数据分析",
+    "stage": "实习",
+    "skills": [
+      "SQL",
+      "Python",
+      "可视化",
+      "指标体系",
+      "漏斗分析",
+      "A/B Test"
+    ],
+    "project_signals": [
+      "SQL",
+      "指标",
+      "分析",
+      "A/B",
+      "可视化"
+    ],
+    "jd": "围绕校招转化漏斗、渠道质量和简历初筛效果进行数据分析，建设可视化看板并输出业务洞察。",
+    "interview_themes": [
+      "漏斗指标",
+      "归因分析",
+      "SQL 窗口函数",
+      "实验设计"
+    ]
+  },
+  {
+    "id": "product-ai",
+    "title": "AI 产品经理实习生",
+    "company": "企服产品部",
+    "city": "深圳",
+    "direction": "产品经理",
+    "stage": "实习",
+    "skills": [
+      "用户研究",
+      "Prompt",
+      "产品设计",
+      "数据分析",
+      "原型",
+      "LLM"
+    ],
+    "project_signals": [
+      "用户",
+      "产品",
+      "Prompt",
+      "Demo",
+      "需求"
+    ],
+    "jd": "负责 AI 助手类产品需求分析、Prompt 配置、原型设计、效果验收和用户反馈闭环。",
+    "interview_themes": [
+      "需求拆解",
+      "Prompt 评估",
+      "用户体验",
+      "产品指标"
+    ]
+  },
+  {
+    "id": "game-ai",
+    "title": "游戏 AI 算法实习生",
+    "company": "互动娱乐事业群",
+    "city": "上海",
+    "direction": "大模型应用算法",
+    "stage": "校招",
+    "skills": [
+      "LLM",
+      "强化学习",
+      "Agent",
+      "Python",
+      "多模态",
+      "评估"
+    ],
+    "project_signals": [
+      "Agent",
+      "多模态",
+      "评估",
+      "LLM"
+    ],
+    "jd": "探索游戏 NPC Agent、剧情生成、行为决策和多模态内容理解，要求有 LLM Agent 或强化学习项目经验。",
+    "interview_themes": [
+      "Agent 记忆机制",
+      "行为决策",
+      "多模态理解",
+      "自动评估"
+    ]
+  },
+  {
+    "id": "rec-pure",
+    "title": "推荐算法实习生",
+    "company": "快手技术部",
+    "city": "北京",
+    "direction": "推荐算法",
+    "stage": "实习",
+    "skills": [
+      "推荐系统",
+      "召回",
+      "排序",
+      "协同过滤",
+      "矩阵分解",
+      "Wide&Deep",
+      "NDCG",
+      "CTR",
+      "A/B Test",
+      "PyTorch",
+      "SQL",
+      "Spark"
+    ],
+    "project_signals": [
+      "推荐",
+      "召回",
+      "排序",
+      "NDCG",
+      "CTR",
+      "A/B"
+    ],
+    "jd": "负责推荐系统召回排序策略优化，包括多兴趣召回、模型增量训练、特征工程和离线指标评估。要求 2 段以上推荐相关经历，有实际业务 A/B Test 经验优先。",
+    "interview_themes": [
+      "多兴趣召回",
+      "排序模型架构",
+      "特征交叉",
+      "冷启动",
+      "AB 实验设计"
+    ]
+  },
+  {
+    "id": "rec-toutiao",
+    "title": "推荐算法实习生-头条",
+    "company": "字节跳动",
+    "city": "上海",
+    "direction": "推荐算法",
+    "stage": "实习",
+    "skills": [
+      "推荐系统",
+      "深度学习",
+      "排序",
+      "Embedding",
+      "召回",
+      "PyTorch",
+      "特征工程",
+      "TF Serving"
+    ],
+    "project_signals": [
+      "推荐",
+      "Embedding",
+      "排序",
+      "召回",
+      "特征"
+    ],
+    "jd": "负责今日头条推荐系统排序模型优化，包括用户行为序列建模、多目标学习和线上推理加速。",
+    "interview_themes": [
+      "序列建模",
+      "多目标优化",
+      "特征重要性",
+      "实时推理"
+    ]
+  },
+  {
+    "id": "nlp-llm",
+    "title": "NLP 大模型实习生",
+    "company": "阿里达摩院",
+    "city": "杭州",
+    "direction": "大模型应用算法",
+    "stage": "实习",
+    "skills": [
+      "NLP",
+      "BERT",
+      "GPT",
+      "Transformer",
+      "PyTorch",
+      "文本分类",
+      "NER",
+      "文本生成",
+      "A/B Test"
+    ],
+    "project_signals": [
+      "NLP",
+      "BERT",
+      "NER",
+      "文本",
+      "评估"
+    ],
+    "jd": "参与大模型 NLP 能力评测和预训练数据清洗，构建面向文档理解、情感分析和信息抽取的微调 pipline。",
+    "interview_themes": [
+      "预训练数据",
+      "微调策略",
+      "NER 准确率",
+      "Prompt 设计"
+    ]
+  },
+  {
+    "id": "nlp-search",
+    "title": "搜索 NLP 算法实习生",
+    "company": "百度搜索",
+    "city": "北京",
+    "direction": "大模型应用算法",
+    "stage": "校招",
+    "skills": [
+      "NLP",
+      "Query 理解",
+      "意图识别",
+      "信息抽取",
+      "RAG",
+      "Embedding",
+      "PyTorch",
+      "Spark"
+    ],
+    "project_signals": [
+      "NLP",
+      "Query",
+      "Embedding",
+      "RAG"
+    ],
+    "jd": "负责搜索 query 意图识别、实体链指和搜索结果相关性排序。要求 NLP 背景，熟悉 Embedding 和语义匹配，有搜索项目优先。",
+    "interview_themes": [
+      "Query 改写",
+      "实体链指",
+      "语义匹配",
+      "搜索评估"
+    ]
+  },
+  {
+    "id": "cv-detection",
+    "title": "计算机视觉算法实习生（检测方向）",
+    "company": "商汤科技",
+    "city": "上海",
+    "direction": "计算机视觉",
+    "stage": "实习",
+    "skills": [
+      "OpenCV",
+      "YOLO",
+      "目标检测",
+      "PyTorch",
+      "TensorRT",
+      "模型部署",
+      "Python",
+      "TensorFlow"
+    ],
+    "project_signals": [
+      "检测",
+      "YOLO",
+      "部署",
+      "任务"
+    ],
+    "jd": "负责工业缺陷检测模型研发，包括数据增强、模型训练和边缘端部署。要求 YOLO/ResNet 项目经验，有 TensorRT 部署经验加分。",
+    "interview_themes": [
+      "模型压缩",
+      "边缘部署",
+      "mAP 指标",
+      "缺陷检测"
+    ]
+  },
+  {
+    "id": "cv-classification",
+    "title": "图像识别算法实习生",
+    "company": "旷视科技",
+    "city": "北京",
+    "direction": "计算机视觉",
+    "stage": "校招",
+    "skills": [
+      "ResNet",
+      "图像分类",
+      "PyTorch",
+      "CNN",
+      "数据增强",
+      "Python",
+      "模型评估"
+    ],
+    "project_signals": [
+      "分类",
+      "ResNet",
+      "CNN",
+      "评估"
+    ],
+    "jd": "参与图像分类、细粒度识别模型研发，负责数据标注、模型训练和消融实验。",
+    "interview_themes": [
+      "数据增强",
+      "细粒度分类",
+      "模型评估",
+      "消融实验"
+    ]
+  },
+  {
+    "id": "backend-golang",
+    "title": "后端研发实习生（Go 方向）",
+    "company": "B站技术部",
+    "city": "上海",
+    "direction": "后端研发",
+    "stage": "实习",
+    "skills": [
+      "Go",
+      "Redis",
+      "MySQL",
+      "gRPC",
+      "Docker",
+      "Kubernetes",
+      "微服务",
+      "Kafka"
+    ],
+    "project_signals": [
+      "Go",
+      "微服务",
+      "gRPC",
+      "Docker",
+      "K8s"
+    ],
+    "jd": "负责内容平台后端服务开发，包括用户系统、内容分发、消息队列和缓存优化。要求 Go 熟练，有 gRPC 和 K8s 经验优先。",
+    "interview_themes": [
+      "Go 并发模型",
+      "微服务设计",
+      "缓存一致性",
+      "分布式事务"
+    ]
+  },
+  {
+    "id": "data-ml",
+    "title": "机器学习平台研发实习生",
+    "company": "美团基础平台",
+    "city": "北京",
+    "direction": "大模型应用算法",
+    "stage": "实习",
+    "skills": [
+      "Python",
+      "PyTorch",
+      "TF Serving",
+      "Kubernetes",
+      "模型部署",
+      "特征存储",
+      "Docker",
+      "Linux"
+    ],
+    "project_signals": [
+      "部署",
+      "特征",
+      "K8s",
+      "模型"
+    ],
+    "jd": "参与机器学习平台特征工程和模型部署模块开发，包括特征存储、在线推理和模型版本管理。",
+    "interview_themes": [
+      "特征存储",
+      "模型版本",
+      "在线推理",
+      "AB 实验"
+    ]
+  },
+  {
+    "id": "llm-agent-byte",
+    "title": "大模型 Agent 应用实习生",
+    "company": "字节跳动",
+    "city": "北京",
+    "direction": "大模型应用算法",
+    "stage": "实习",
+    "skills": [
+      "Agent",
+      "RAG",
+      "Prompt",
+      "LangChain",
+      "Python",
+      "Tool Calling",
+      "LLM",
+      "Function Calling"
+    ],
+    "project_signals": [
+      "Agent",
+      "Prompt",
+      "Tool Calling",
+      "Function Calling"
+    ],
+    "jd": "负责企业级 Agent 应用开发，包括多 Agent 协作、工具集成、记忆机制和效果评估。要求有 Agent 或 RAG 实战经验。",
+    "interview_themes": [
+      "多 Agent 协作",
+      "工具调用失败兜底",
+      "Agent 记忆",
+      "效果评估"
+    ]
+  },
+  {
+    "id": "llm-eval",
+    "title": "大模型评估算法实习生",
+    "company": "小米 AI",
+    "city": "北京",
+    "direction": "大模型应用算法",
+    "stage": "校招",
+    "skills": [
+      "LLM 评估",
+      "Python",
+      "Prompt",
+      "RAG",
+      "评估",
+      "数据分析",
+      "A/B Test",
+      "自动化测试"
+    ],
+    "project_signals": [
+      "评估",
+      "Prompt",
+      "A/B",
+      "RAG"
+    ],
+    "jd": "构建 LLM 应用效果评估体系和自动化测试流程，覆盖 RAG 准确性、Agent 稳定性、幻觉率等指标。",
+    "interview_themes": [
+      "评估指标体系",
+      "幻觉检测",
+      "A/B 实验",
+      "自动化测试"
+    ]
+  },
+  {
+    "id": "rec-backend",
+    "title": "推荐平台后端实习生",
+    "company": "网易云音乐",
+    "city": "杭州",
+    "direction": "后端研发",
+    "stage": "实习",
+    "skills": [
+      "Java",
+      "Python",
+      "Spark",
+      "Flink",
+      "Kafka",
+      "Redis",
+      "推荐系统",
+      "Kubernetes"
+    ],
+    "project_signals": [
+      "Java",
+      "Spark",
+      "实时",
+      "推荐"
+    ],
+    "jd": "参与推荐平台后端开发，包括实时特征计算、候选集生成和数据 pipline 优化。",
+    "interview_themes": [
+      "实时特征",
+      "Kafka/Spark",
+      "推荐引擎",
+      "高并发"
+    ]
+  },
+  {
+    "id": "data-rec",
+    "title": "推荐数据分析实习生",
+    "company": "小红书",
+    "city": "上海",
+    "direction": "数据分析",
+    "stage": "实习",
+    "skills": [
+      "SQL",
+      "Python",
+      "Pandas",
+      "可视化",
+      "A/B Test",
+      "推荐系统",
+      "指标体系",
+      "Hive"
+    ],
+    "project_signals": [
+      "SQL",
+      "A/B",
+      "指标",
+      "推荐"
+    ],
+    "jd": "分析推荐系统核心指标变化，定位算法迭代效果和用户行为变化，支持推荐策略决策。",
+    "interview_themes": [
+      "漏斗分析",
+      "归因",
+      "A/B 解读",
+      "指标异动排查"
+    ]
+  }
+]

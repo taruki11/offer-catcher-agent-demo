@@ -1,0 +1,6174 @@
+[
+  {
+    "id": "llm-agent",
+    "title": "大模型应用算法实习生",
+    "company": "腾讯云智能",
+    "city": "深圳",
+    "direction": "大模型应用算法",
+    "stage": "实习",
+    "skills": [
+      "LLM",
+      "RAG",
+      "Agent",
+      "Embedding",
+      "Python",
+      "Prompt",
+      "LangChain",
+      "FAISS"
+    ],
+    "project_signals": [
+      "RAG",
+      "Agent",
+      "Embedding",
+      "Prompt",
+      "检索",
+      "简历",
+      "JD"
+    ],
+    "jd": "负责企业知识库问答、RAG 检索增强、Agent 工具调用、多轮对话效果优化，要求熟悉 Python、Embedding、Prompt Engineering 和 LLM 应用评估。",
+    "interview_themes": [
+      "RAG 召回与重排",
+      "Agent 工具调用失败兜底",
+      "Prompt 结构化输出",
+      "Embedding 评估指标"
+    ]
+  },
+  {
+    "id": "rec-llm",
+    "title": "LLM 推荐算法实习生",
+    "company": "内容平台事业群",
+    "city": "北京",
+    "direction": "推荐算法",
+    "stage": "实习",
+    "skills": [
+      "推荐系统",
+      "Transformer",
+      "召回",
+      "排序",
+      "Embedding",
+      "NDCG",
+      "PyTorch",
+      "A/B Test"
+    ],
+    "project_signals": [
+      "推荐",
+      "Transformer",
+      "Semantic ID",
+      "rerank",
+      "NDCG",
+      "召回"
+    ],
+    "jd": "负责内容推荐召回排序模型优化，探索 LLM 与推荐系统结合，包括语义表征、用户兴趣建模、候选集重排和离线指标评估。",
+    "interview_themes": [
+      "召回排序链路",
+      "多兴趣建模",
+      "Semantic ID",
+      "NDCG 与线上指标"
+    ]
+  },
+  {
+    "id": "search-rag",
+    "title": "智能搜索算法实习生",
+    "company": "微信事业群",
+    "city": "广州",
+    "direction": "大模型应用算法",
+    "stage": "实习",
+    "skills": [
+      "搜索",
+      "RAG",
+      "向量检索",
+      "Embedding",
+      "重排",
+      "Python",
+      "评估"
+    ],
+    "project_signals": [
+      "检索",
+      "RAG",
+      "Embedding",
+      "FAISS",
+      "重排",
+      "TopK"
+    ],
+    "jd": "建设面向业务知识的智能搜索系统，优化 query 理解、向量召回、cross-encoder 重排和答案生成质量。",
+    "interview_themes": [
+      "向量召回 TopK",
+      "重排模型",
+      "搜索相关性评估",
+      "幻觉控制"
+    ]
+  },
+  {
+    "id": "campus-rec",
+    "title": "校招人岗匹配算法实习生",
+    "company": "招聘技术中心",
+    "city": "北京",
+    "direction": "大模型应用算法",
+    "stage": "实习",
+    "skills": [
+      "人岗匹配",
+      "推荐系统",
+      "Embedding",
+      "LLM",
+      "排序",
+      "可解释性",
+      "Python"
+    ],
+    "project_signals": [
+      "岗位",
+      "简历",
+      "匹配",
+      "推荐",
+      "排序",
+      "Embedding"
+    ],
+    "jd": "基于简历和 JD 构建人岗匹配模型，优化候选人召回、岗位推荐排序、匹配解释和简历优化建议。",
+    "interview_themes": [
+      "人岗匹配建模",
+      "冷启动",
+      "特征交叉",
+      "可解释排序"
+    ]
+  },
+  {
+    "id": "backend-ai",
+    "title": "AI 平台后端研发实习生",
+    "company": "混元平台",
+    "city": "深圳",
+    "direction": "后端研发",
+    "stage": "实习",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "服务部署",
+      "SQL",
+      "Redis",
+      "API",
+      "Docker"
+    ],
+    "project_signals": [
+      "API",
+      "后端",
+      "部署",
+      "服务",
+      "SQL"
+    ],
+    "jd": "负责大模型平台后端服务开发、API 编排、任务队列、日志监控和模型服务接入。",
+    "interview_themes": [
+      "API 设计",
+      "异步任务",
+      "缓存策略",
+      "服务稳定性"
+    ]
+  },
+  {
+    "id": "data-analyst",
+    "title": "校招数据分析实习生",
+    "company": "HR Tech",
+    "city": "上海",
+    "direction": "数据分析",
+    "stage": "实习",
+    "skills": [
+      "SQL",
+      "Python",
+      "可视化",
+      "指标体系",
+      "漏斗分析",
+      "A/B Test"
+    ],
+    "project_signals": [
+      "SQL",
+      "指标",
+      "分析",
+      "A/B",
+      "可视化"
+    ],
+    "jd": "围绕校招转化漏斗、渠道质量和简历初筛效果进行数据分析，建设可视化看板并输出业务洞察。",
+    "interview_themes": [
+      "漏斗指标",
+      "归因分析",
+      "SQL 窗口函数",
+      "实验设计"
+    ]
+  },
+  {
+    "id": "product-ai",
+    "title": "AI 产品经理实习生",
+    "company": "企服产品部",
+    "city": "深圳",
+    "direction": "产品经理",
+    "stage": "实习",
+    "skills": [
+      "用户研究",
+      "Prompt",
+      "产品设计",
+      "数据分析",
+      "原型",
+      "LLM"
+    ],
+    "project_signals": [
+      "用户",
+      "产品",
+      "Prompt",
+      "Demo",
+      "需求"
+    ],
+    "jd": "负责 AI 助手类产品需求分析、Prompt 配置、原型设计、效果验收和用户反馈闭环。",
+    "interview_themes": [
+      "需求拆解",
+      "Prompt 评估",
+      "用户体验",
+      "产品指标"
+    ]
+  },
+  {
+    "id": "game-ai",
+    "title": "游戏 AI 算法实习生",
+    "company": "互动娱乐事业群",
+    "city": "上海",
+    "direction": "大模型应用算法",
+    "stage": "校招",
+    "skills": [
+      "LLM",
+      "强化学习",
+      "Agent",
+      "Python",
+      "多模态",
+      "评估"
+    ],
+    "project_signals": [
+      "Agent",
+      "多模态",
+      "评估",
+      "LLM"
+    ],
+    "jd": "探索游戏 NPC Agent、剧情生成、行为决策和多模态内容理解，要求有 LLM Agent 或强化学习项目经验。",
+    "interview_themes": [
+      "Agent 记忆机制",
+      "行为决策",
+      "多模态理解",
+      "自动评估"
+    ]
+  },
+  {
+    "id": "rec-pure",
+    "title": "推荐算法实习生",
+    "company": "快手技术部",
+    "city": "北京",
+    "direction": "推荐算法",
+    "stage": "实习",
+    "skills": [
+      "推荐系统",
+      "召回",
+      "排序",
+      "协同过滤",
+      "矩阵分解",
+      "Wide&Deep",
+      "NDCG",
+      "CTR",
+      "A/B Test",
+      "PyTorch",
+      "SQL",
+      "Spark"
+    ],
+    "project_signals": [
+      "推荐",
+      "召回",
+      "排序",
+      "NDCG",
+      "CTR",
+      "A/B"
+    ],
+    "jd": "负责推荐系统召回排序策略优化，包括多兴趣召回、模型增量训练、特征工程和离线指标评估。要求 2 段以上推荐相关经历，有实际业务 A/B Test 经验优先。",
+    "interview_themes": [
+      "多兴趣召回",
+      "排序模型架构",
+      "特征交叉",
+      "冷启动",
+      "AB 实验设计"
+    ]
+  },
+  {
+    "id": "rec-toutiao",
+    "title": "推荐算法实习生-头条",
+    "company": "字节跳动",
+    "city": "上海",
+    "direction": "推荐算法",
+    "stage": "实习",
+    "skills": [
+      "推荐系统",
+      "深度学习",
+      "排序",
+      "Embedding",
+      "召回",
+      "PyTorch",
+      "特征工程",
+      "TF Serving"
+    ],
+    "project_signals": [
+      "推荐",
+      "Embedding",
+      "排序",
+      "召回",
+      "特征"
+    ],
+    "jd": "负责今日头条推荐系统排序模型优化，包括用户行为序列建模、多目标学习和线上推理加速。",
+    "interview_themes": [
+      "序列建模",
+      "多目标优化",
+      "特征重要性",
+      "实时推理"
+    ]
+  },
+  {
+    "id": "nlp-llm",
+    "title": "NLP 大模型实习生",
+    "company": "阿里达摩院",
+    "city": "杭州",
+    "direction": "大模型应用算法",
+    "stage": "实习",
+    "skills": [
+      "NLP",
+      "BERT",
+      "GPT",
+      "Transformer",
+      "PyTorch",
+      "文本分类",
+      "NER",
+      "文本生成",
+      "A/B Test"
+    ],
+    "project_signals": [
+      "NLP",
+      "BERT",
+      "NER",
+      "文本",
+      "评估"
+    ],
+    "jd": "参与大模型 NLP 能力评测和预训练数据清洗，构建面向文档理解、情感分析和信息抽取的微调 pipline。",
+    "interview_themes": [
+      "预训练数据",
+      "微调策略",
+      "NER 准确率",
+      "Prompt 设计"
+    ]
+  },
+  {
+    "id": "nlp-search",
+    "title": "搜索 NLP 算法实习生",
+    "company": "百度搜索",
+    "city": "北京",
+    "direction": "大模型应用算法",
+    "stage": "校招",
+    "skills": [
+      "NLP",
+      "Query 理解",
+      "意图识别",
+      "信息抽取",
+      "RAG",
+      "Embedding",
+      "PyTorch",
+      "Spark"
+    ],
+    "project_signals": [
+      "NLP",
+      "Query",
+      "Embedding",
+      "RAG"
+    ],
+    "jd": "负责搜索 query 意图识别、实体链指和搜索结果相关性排序。要求 NLP 背景，熟悉 Embedding 和语义匹配，有搜索项目优先。",
+    "interview_themes": [
+      "Query 改写",
+      "实体链指",
+      "语义匹配",
+      "搜索评估"
+    ]
+  },
+  {
+    "id": "cv-detection",
+    "title": "计算机视觉算法实习生（检测方向）",
+    "company": "商汤科技",
+    "city": "上海",
+    "direction": "计算机视觉",
+    "stage": "实习",
+    "skills": [
+      "OpenCV",
+      "YOLO",
+      "目标检测",
+      "PyTorch",
+      "TensorRT",
+      "模型部署",
+      "Python",
+      "TensorFlow"
+    ],
+    "project_signals": [
+      "检测",
+      "YOLO",
+      "部署",
+      "任务"
+    ],
+    "jd": "负责工业缺陷检测模型研发，包括数据增强、模型训练和边缘端部署。要求 YOLO/ResNet 项目经验，有 TensorRT 部署经验加分。",
+    "interview_themes": [
+      "模型压缩",
+      "边缘部署",
+      "mAP 指标",
+      "缺陷检测"
+    ]
+  },
+  {
+    "id": "cv-classification",
+    "title": "图像识别算法实习生",
+    "company": "旷视科技",
+    "city": "北京",
+    "direction": "计算机视觉",
+    "stage": "校招",
+    "skills": [
+      "ResNet",
+      "图像分类",
+      "PyTorch",
+      "CNN",
+      "数据增强",
+      "Python",
+      "模型评估"
+    ],
+    "project_signals": [
+      "分类",
+      "ResNet",
+      "CNN",
+      "评估"
+    ],
+    "jd": "参与图像分类、细粒度识别模型研发，负责数据标注、模型训练和消融实验。",
+    "interview_themes": [
+      "数据增强",
+      "细粒度分类",
+      "模型评估",
+      "消融实验"
+    ]
+  },
+  {
+    "id": "backend-golang",
+    "title": "后端研发实习生（Go 方向）",
+    "company": "B站技术部",
+    "city": "上海",
+    "direction": "后端研发",
+    "stage": "实习",
+    "skills": [
+      "Go",
+      "Redis",
+      "MySQL",
+      "gRPC",
+      "Docker",
+      "Kubernetes",
+      "微服务",
+      "Kafka"
+    ],
+    "project_signals": [
+      "Go",
+      "微服务",
+      "gRPC",
+      "Docker",
+      "K8s"
+    ],
+    "jd": "负责内容平台后端服务开发，包括用户系统、内容分发、消息队列和缓存优化。要求 Go 熟练，有 gRPC 和 K8s 经验优先。",
+    "interview_themes": [
+      "Go 并发模型",
+      "微服务设计",
+      "缓存一致性",
+      "分布式事务"
+    ]
+  },
+  {
+    "id": "data-ml",
+    "title": "机器学习平台研发实习生",
+    "company": "美团基础平台",
+    "city": "北京",
+    "direction": "大模型应用算法",
+    "stage": "实习",
+    "skills": [
+      "Python",
+      "PyTorch",
+      "TF Serving",
+      "Kubernetes",
+      "模型部署",
+      "特征存储",
+      "Docker",
+      "Linux"
+    ],
+    "project_signals": [
+      "部署",
+      "特征",
+      "K8s",
+      "模型"
+    ],
+    "jd": "参与机器学习平台特征工程和模型部署模块开发，包括特征存储、在线推理和模型版本管理。",
+    "interview_themes": [
+      "特征存储",
+      "模型版本",
+      "在线推理",
+      "AB 实验"
+    ]
+  },
+  {
+    "id": "llm-agent-byte",
+    "title": "大模型 Agent 应用实习生",
+    "company": "字节跳动",
+    "city": "北京",
+    "direction": "大模型应用算法",
+    "stage": "实习",
+    "skills": [
+      "Agent",
+      "RAG",
+      "Prompt",
+      "LangChain",
+      "Python",
+      "Tool Calling",
+      "LLM",
+      "Function Calling"
+    ],
+    "project_signals": [
+      "Agent",
+      "Prompt",
+      "Tool Calling",
+      "Function Calling"
+    ],
+    "jd": "负责企业级 Agent 应用开发，包括多 Agent 协作、工具集成、记忆机制和效果评估。要求有 Agent 或 RAG 实战经验。",
+    "interview_themes": [
+      "多 Agent 协作",
+      "工具调用失败兜底",
+      "Agent 记忆",
+      "效果评估"
+    ]
+  },
+  {
+    "id": "llm-eval",
+    "title": "大模型评估算法实习生",
+    "company": "小米 AI",
+    "city": "北京",
+    "direction": "大模型应用算法",
+    "stage": "校招",
+    "skills": [
+      "LLM 评估",
+      "Python",
+      "Prompt",
+      "RAG",
+      "评估",
+      "数据分析",
+      "A/B Test",
+      "自动化测试"
+    ],
+    "project_signals": [
+      "评估",
+      "Prompt",
+      "A/B",
+      "RAG"
+    ],
+    "jd": "构建 LLM 应用效果评估体系和自动化测试流程，覆盖 RAG 准确性、Agent 稳定性、幻觉率等指标。",
+    "interview_themes": [
+      "评估指标体系",
+      "幻觉检测",
+      "A/B 实验",
+      "自动化测试"
+    ]
+  },
+  {
+    "id": "rec-backend",
+    "title": "推荐平台后端实习生",
+    "company": "网易云音乐",
+    "city": "杭州",
+    "direction": "后端研发",
+    "stage": "实习",
+    "skills": [
+      "Java",
+      "Python",
+      "Spark",
+      "Flink",
+      "Kafka",
+      "Redis",
+      "推荐系统",
+      "Kubernetes"
+    ],
+    "project_signals": [
+      "Java",
+      "Spark",
+      "实时",
+      "推荐"
+    ],
+    "jd": "参与推荐平台后端开发，包括实时特征计算、候选集生成和数据 pipline 优化。",
+    "interview_themes": [
+      "实时特征",
+      "Kafka/Spark",
+      "推荐引擎",
+      "高并发"
+    ]
+  },
+  {
+    "id": "data-rec",
+    "title": "推荐数据分析实习生",
+    "company": "小红书",
+    "city": "上海",
+    "direction": "数据分析",
+    "stage": "实习",
+    "skills": [
+      "SQL",
+      "Python",
+      "Pandas",
+      "可视化",
+      "A/B Test",
+      "推荐系统",
+      "指标体系",
+      "Hive"
+    ],
+    "project_signals": [
+      "SQL",
+      "A/B",
+      "指标",
+      "推荐"
+    ],
+    "jd": "分析推荐系统核心指标变化，定位算法迭代效果和用户行为变化，支持推荐策略决策。",
+    "interview_themes": [
+      "漏斗分析",
+      "归因",
+      "A/B 解读",
+      "指标异动排查"
+    ]
+  },
+  {
+    "id": "f1ae73ca5b56",
+    "title": "LLM Application Engineer Intern",
+    "company": "Anthropic",
+    "city": "旧金山",
+    "stage": "实习",
+    "direction": "LLM/Agent",
+    "skills": [
+      "agent",
+      "langchain",
+      "llm",
+      "python",
+      "pytorch",
+      "rag"
+    ],
+    "project_signals": [
+      "RAG",
+      "Agent",
+      "Embedding"
+    ],
+    "jd": "Build LLM-powered applications using Claude API. Implement RAG pipelines and agent workflows. Requirements: Python, PyTorch, LangChain, experience with prompt engineering and vector databases.",
+    "interview_themes": [
+      "项目深挖",
+      "技术基础",
+      "业务理解"
+    ],
+    "source": "greenhouse",
+    "source_url": "",
+    "posted_at": "未知",
+    "data_quality_score": 100
+  },
+  {
+    "id": "bc888bdd34eb",
+    "title": "大模型算法实习生",
+    "company": "字节跳动",
+    "city": "北京",
+    "stage": "实习",
+    "direction": "LLM",
+    "skills": [
+      "agent",
+      "llm",
+      "python",
+      "pytorch",
+      "rag"
+    ],
+    "project_signals": [
+      "RAG",
+      "Agent"
+    ],
+    "jd": "负责大模型应用算法研发，包括 RAG 检索增强、Agent 工具调用、Prompt 优化。要求熟悉 Python、PyTorch、Transformer，有 LLM 项目经验优先。",
+    "interview_themes": [
+      "RAG召回策略与优化",
+      "Agent工作流设计与兜底",
+      "Prompt工程最佳实践",
+      "大模型微调(LoRA/QLoRA)",
+      "向量数据库选型(Faiss/Chroma/Milvus)"
+    ],
+    "source": "fixture",
+    "source_url": "",
+    "posted_at": "未知",
+    "data_quality_score": 90
+  },
+  {
+    "id": "d662381cfa05",
+    "title": "AI Research Scientist - LLM",
+    "company": "Meta",
+    "city": "Menlo Park",
+    "stage": "不限",
+    "direction": "LLM/搜索算法",
+    "skills": [],
+    "project_signals": [
+      "FineTune"
+    ],
+    "jd": "Research and develop large language models. Fine-tune models using LoRA/QLoRA. Build evaluation benchmarks. Requirements: PhD in CS/NLP, publications at top venues.",
+    "interview_themes": [
+      "项目深挖",
+      "技术基础",
+      "业务理解"
+    ],
+    "source": "lever",
+    "source_url": "",
+    "posted_at": "未知",
+    "data_quality_score": 95
+  },
+  {
+    "id": "2566b1b14026",
+    "title": "Generative AI Engineer",
+    "company": "Stability AI",
+    "city": "伦敦",
+    "stage": "不限",
+    "direction": "LLM",
+    "skills": [
+      "diffusion",
+      "huggingface",
+      "langchain",
+      "python",
+      "pytorch",
+      "rag"
+    ],
+    "project_signals": [
+      "RAG",
+      "NLP_Classic"
+    ],
+    "jd": "Develop generative AI applications with diffusion models and LLMs. Build RAG systems for document understanding. Requirements: Python, PyTorch, HuggingFace, LangChain.",
+    "interview_themes": [
+      "RAG召回策略与优化",
+      "Agent工作流设计与兜底",
+      "Prompt工程最佳实践",
+      "大模型微调(LoRA/QLoRA)",
+      "向量数据库选型(Faiss/Chroma/Milvus)"
+    ],
+    "source": "ashby",
+    "source_url": "",
+    "posted_at": "未知",
+    "data_quality_score": 100
+  },
+  {
+    "id": "ddc4543d4f3a",
+    "title": "Agent 应用开发工程师",
+    "company": "Minimax",
+    "city": "上海",
+    "stage": "不限",
+    "direction": "LLM/Agent",
+    "skills": [
+      "agent",
+      "langchain",
+      "llm",
+      "react"
+    ],
+    "project_signals": [
+      "Agent"
+    ],
+    "jd": "开发基于 LLM 的 Agent 应用，实现多轮对话和工具调用。要求熟悉 LangChain Agent 框架，有 Function Calling 实践，了解 ReAct 工作流。",
+    "interview_themes": [
+      "项目深挖",
+      "技术基础",
+      "业务理解"
+    ],
+    "source": "fixture",
+    "source_url": "",
+    "posted_at": "未知",
+    "data_quality_score": 95
+  },
+  {
+    "id": "d84f43181d13",
+    "title": "NLP 算法实习生（大模型方向）",
+    "company": "百度",
+    "city": "北京",
+    "stage": "实习",
+    "direction": "NLP",
+    "skills": [
+      "bert",
+      "huggingface",
+      "ner",
+      "python",
+      "pytorch",
+      "transformers",
+      "文本分类"
+    ],
+    "project_signals": [
+      "FineTune",
+      "NLP_Classic",
+      "CV_Traditional"
+    ],
+    "jd": "参与文心大模型应用开发，进行 NER/文本分类/摘要等任务微调。要求：Python, PyTorch, BERT, HuggingFace Transformers，有 NLP 项目经验。",
+    "interview_themes": [
+      "Transformer架构与变体",
+      "预训练语言模型(BERT/GPT)",
+      "Seq2Seq与Attention机制",
+      "NER/文本分类/摘要模型",
+      "Prompt Tuning vs FineTuning"
+    ],
+    "source": "fixture",
+    "source_url": "",
+    "posted_at": "未知",
+    "data_quality_score": 95
+  },
+  {
+    "id": "ddaeba096744",
+    "title": "LLM Infrastructure Engineer",
+    "company": "OpenAI",
+    "city": "旧金山",
+    "stage": "不限",
+    "direction": "LLM/ML平台/Infra",
+    "skills": [
+      "kubernetes",
+      "python"
+    ],
+    "project_signals": [
+      "Deployment"
+    ],
+    "jd": "Build scalable infrastructure for training and serving large language models. Optimize inference latency. Requirements: Python, CUDA, Triton, Ray, Kubernetes.",
+    "interview_themes": [
+      "项目深挖",
+      "技术基础",
+      "业务理解"
+    ],
+    "source": "greenhouse",
+    "source_url": "",
+    "posted_at": "未知",
+    "data_quality_score": 95
+  },
+  {
+    "id": "2bb5405cf23c",
+    "title": "AI Application Developer",
+    "company": "Notion",
+    "city": "旧金山",
+    "stage": "不限",
+    "direction": "LLM/后端开发",
+    "skills": [
+      "python",
+      "rag",
+      "typescript"
+    ],
+    "project_signals": [
+      "RAG"
+    ],
+    "jd": "Integrate AI features into Notion's product using LLMs. Build RAG-powered Q&A, summarization, and writing assistants. Requirements: TypeScript, Python, API design.",
+    "interview_themes": [
+      "项目深挖",
+      "技术基础",
+      "业务理解"
+    ],
+    "source": "lever",
+    "source_url": "",
+    "posted_at": "未知",
+    "data_quality_score": 100
+  },
+  {
+    "id": "039ec2043605",
+    "title": "推荐算法实习生",
+    "company": "快手",
+    "city": "北京",
+    "stage": "实习",
+    "direction": "推荐算法",
+    "skills": [
+      "python",
+      "pytorch"
+    ],
+    "project_signals": [
+      "Recommendation",
+      "DataAnalysis"
+    ],
+    "jd": "参与短视频推荐排序模型优化，包括召回、粗排、精排。要求熟悉推荐系统、排序模型、NDCG指标体系。Python、PyTorch、A/B Test 经验优先。",
+    "interview_themes": [
+      "召回-粗排-精排 pipeline",
+      "多目标优化(MMoE/PLE)",
+      "冷启动与探索策略",
+      "特征工程与实时特征",
+      "A/B实验设计与评估"
+    ],
+    "source": "fixture",
+    "source_url": "",
+    "posted_at": "未知",
+    "data_quality_score": 80
+  },
+  {
+    "id": "a7b42b2a30a7",
+    "title": "Machine Learning Engineer - Recommendations",
+    "company": "Spotify",
+    "city": "Stockholm",
+    "stage": "不限",
+    "direction": "推荐算法",
+    "skills": [
+      "python",
+      "scala",
+      "tensorflow"
+    ],
+    "project_signals": [
+      "Recommendation"
+    ],
+    "jd": "Build recommendation systems for music discovery. Work on collaborative filtering, content-based recommendations, and multi-objective ranking. Requirements: Python, TensorFlow, Scala.",
+    "interview_themes": [
+      "召回-粗排-精排 pipeline",
+      "多目标优化(MMoE/PLE)",
+      "冷启动与探索策略",
+      "特征工程与实时特征",
+      "A/B实验设计与评估"
+    ],
+    "source": "greenhouse",
+    "source_url": "",
+    "posted_at": "未知",
+    "data_quality_score": 100
+  },
+  {
+    "id": "65c8efe4d90b",
+    "title": "搜索推荐算法工程师",
+    "company": "阿里巴巴",
+    "city": "杭州",
+    "stage": "不限",
+    "direction": "推荐算法",
+    "skills": [
+      "ctr",
+      "cvr",
+      "python",
+      "tensorflow"
+    ],
+    "project_signals": [
+      "Recommendation"
+    ],
+    "jd": "负责电商搜索和推荐算法优化，提升 CTR/CVR。要求掌握排序模型(LTR/DNN)、召回策略、多目标优化。Python、TensorFlow 熟练。",
+    "interview_themes": [
+      "召回-粗排-精排 pipeline",
+      "多目标优化(MMoE/PLE)",
+      "冷启动与探索策略",
+      "特征工程与实时特征",
+      "A/B实验设计与评估"
+    ],
+    "source": "fixture",
+    "source_url": "",
+    "posted_at": "未知",
+    "data_quality_score": 90
+  },
+  {
+    "id": "23097ed5fcdd",
+    "title": "推荐系统工程师",
+    "company": "美团",
+    "city": "北京",
+    "stage": "不限",
+    "direction": "推荐算法",
+    "skills": [
+      "deepfm",
+      "python",
+      "spark",
+      "wide&deep"
+    ],
+    "project_signals": [
+      "Recommendation"
+    ],
+    "jd": "优化外卖推荐系统，从召回-粗排-精排全链路优化。要求熟悉 Wide&Deep、DeepFM、多任务学习。Python、Spark、Hive 熟练。",
+    "interview_themes": [
+      "召回-粗排-精排 pipeline",
+      "多目标优化(MMoE/PLE)",
+      "冷启动与探索策略",
+      "特征工程与实时特征",
+      "A/B实验设计与评估"
+    ],
+    "source": "fixture",
+    "source_url": "",
+    "posted_at": "未知",
+    "data_quality_score": 90
+  },
+  {
+    "id": "f02311d474c7",
+    "title": "Junior Data Scientist - RecSys",
+    "company": "Delivery Hero",
+    "city": "柏林",
+    "stage": "校招",
+    "direction": "推荐算法/数据分析",
+    "skills": [
+      "python",
+      "sql"
+    ],
+    "project_signals": [
+      "Recommendation",
+      "DataAnalysis"
+    ],
+    "jd": "Develop recommendation models for food delivery. Apply collaborative filtering and deep learning to improve order recommendations. Requirements: Python, SQL, basic ML.",
+    "interview_themes": [
+      "项目深挖",
+      "技术基础",
+      "业务理解"
+    ],
+    "source": "ashby",
+    "source_url": "",
+    "posted_at": "未知",
+    "data_quality_score": 95
+  },
+  {
+    "id": "f438d1747b78",
+    "title": "后端研发实习生（Go 方向）",
+    "company": "腾讯",
+    "city": "深圳",
+    "stage": "实习",
+    "direction": "后端开发",
+    "skills": [
+      "go",
+      "grpc",
+      "mysql",
+      "redis"
+    ],
+    "project_signals": [
+      "Backend",
+      "DataAnalysis"
+    ],
+    "jd": "参与 AI 平台后端服务开发，使用 Go 语言。要求掌握 Go、MySQL、Redis、消息队列，了解微服务架构和 gRPC。有分布式系统经验优先。",
+    "interview_themes": [
+      "Go并发模型与GC优化",
+      "分布式一致性(Raft/Paxos)",
+      "消息队列(Kafka/RabbitMQ)",
+      "微服务治理(服务发现/熔断/限流)",
+      "MySQL索引与慢查询优化"
+    ],
+    "source": "fixture",
+    "source_url": "",
+    "posted_at": "未知",
+    "data_quality_score": 95
+  },
+  {
+    "id": "12e44d4c9552",
+    "title": "Backend Engineer - AI Platform",
+    "company": "Stripe",
+    "city": "西雅图",
+    "stage": "不限",
+    "direction": "ML平台/Infra/后端开发",
+    "skills": [
+      "go",
+      "grpc",
+      "java",
+      "kubernetes"
+    ],
+    "project_signals": [
+      "Backend"
+    ],
+    "jd": "Build backend services for Stripe's ML platform. Design APIs for model serving and feature store. Requirements: Go/Java, gRPC, Kubernetes, experience with ML infrastructure.",
+    "interview_themes": [
+      "项目深挖",
+      "技术基础",
+      "业务理解"
+    ],
+    "source": "lever",
+    "source_url": "",
+    "posted_at": "未知",
+    "data_quality_score": 100
+  },
+  {
+    "id": "4a30bd256d5f",
+    "title": "云原生后端开发工程师",
+    "company": "华为",
+    "city": "深圳",
+    "stage": "不限",
+    "direction": "后端开发",
+    "skills": [
+      "docker",
+      "go",
+      "java",
+      "kubernetes",
+      "python"
+    ],
+    "project_signals": [
+      "Backend",
+      "Deployment"
+    ],
+    "jd": "开发云原生 AI 平台后端服务，基于 Kubernetes/Docker 构建。要求 Go/Java/Python，熟悉微服务、容器化部署，了解 CI/CD 流程。",
+    "interview_themes": [
+      "Go并发模型与GC优化",
+      "分布式一致性(Raft/Paxos)",
+      "消息队列(Kafka/RabbitMQ)",
+      "微服务治理(服务发现/熔断/限流)",
+      "MySQL索引与慢查询优化"
+    ],
+    "source": "fixture",
+    "source_url": "",
+    "posted_at": "未知",
+    "data_quality_score": 95
+  },
+  {
+    "id": "94152c817377",
+    "title": "ML Platform Engineer",
+    "company": "Databricks",
+    "city": "旧金山",
+    "stage": "不限",
+    "direction": "ML平台/Infra",
+    "skills": [
+      "k8s",
+      "python",
+      "scala",
+      "spark"
+    ],
+    "project_signals": [
+      "Backend"
+    ],
+    "jd": "Build the platform that powers ML training and serving at scale. Design model registry, feature store, and experiment tracking. Requirements: Python, Scala, K8s, Spark.",
+    "interview_themes": [
+      "项目深挖",
+      "技术基础",
+      "业务理解"
+    ],
+    "source": "greenhouse",
+    "source_url": "",
+    "posted_at": "未知",
+    "data_quality_score": 100
+  },
+  {
+    "id": "3259dc1bd298",
+    "title": "推荐平台后端实习生",
+    "company": "小红书",
+    "city": "上海",
+    "stage": "实习",
+    "direction": "后端开发",
+    "skills": [
+      "docker",
+      "go",
+      "grpc",
+      "python"
+    ],
+    "project_signals": [
+      "Recommendation",
+      "Backend",
+      "Deployment"
+    ],
+    "jd": "参与推荐平台后端开发，负责特征抽取服务和模型推理引擎。要求 Python/Go、gRPC、Docker，了解推荐系统架构。",
+    "interview_themes": [
+      "Go并发模型与GC优化",
+      "分布式一致性(Raft/Paxos)",
+      "消息队列(Kafka/RabbitMQ)",
+      "微服务治理(服务发现/熔断/限流)",
+      "MySQL索引与慢查询优化"
+    ],
+    "source": "fixture",
+    "source_url": "",
+    "posted_at": "未知",
+    "data_quality_score": 90
+  },
+  {
+    "id": "ba8e56ff0a6e",
+    "title": "计算机视觉算法实习生（检测方向）",
+    "company": "商汤科技",
+    "city": "上海",
+    "stage": "实习",
+    "direction": "计算机视觉",
+    "skills": [
+      "python",
+      "pytorch",
+      "yolo"
+    ],
+    "project_signals": [
+      "CV_Traditional"
+    ],
+    "jd": "参与目标检测和图像分割算法研发，使用 YOLO/DETR/MaskRCNN 等模型。要求 Python、PyTorch、OpenCV，有 CV 项目经验优先。",
+    "interview_themes": [
+      "Backbone网络演进(ResNet/ViT)",
+      "目标检测(YOLO/DETR)",
+      "图像分割(U-Net/MaskRCNN)",
+      "生成模型(GAN/Diffusion)",
+      "模型轻量化与部署"
+    ],
+    "source": "fixture",
+    "source_url": "",
+    "posted_at": "未知",
+    "data_quality_score": 95
+  },
+  {
+    "id": "7ff476e6adcd",
+    "title": "Computer Vision Engineer",
+    "company": "Tesla",
+    "city": "Palo Alto",
+    "stage": "不限",
+    "direction": "计算机视觉",
+    "skills": [
+      "python",
+      "pytorch"
+    ],
+    "project_signals": [],
+    "jd": "Develop computer vision algorithms for autonomous driving. Work on object detection, lane detection, and scene understanding. Requirements: Python, PyTorch, OpenCV.",
+    "interview_themes": [
+      "Backbone网络演进(ResNet/ViT)",
+      "目标检测(YOLO/DETR)",
+      "图像分割(U-Net/MaskRCNN)",
+      "生成模型(GAN/Diffusion)",
+      "模型轻量化与部署"
+    ],
+    "source": "lever",
+    "source_url": "",
+    "posted_at": "未知",
+    "data_quality_score": 95
+  },
+  {
+    "id": "0948ed153ad6",
+    "title": "图像识别算法实习生",
+    "company": "旷视科技",
+    "city": "北京",
+    "stage": "实习",
+    "direction": "计算机视觉",
+    "skills": [
+      "python",
+      "pytorch",
+      "resnet"
+    ],
+    "project_signals": [
+      "CV_Traditional",
+      "Deployment"
+    ],
+    "jd": "参与图像分类、OCR 识别算法研发。要求 Python、PyTorch、CNN/ResNet/ViT 等模型经验，有模型轻量化和部署经验优先。",
+    "interview_themes": [
+      "Backbone网络演进(ResNet/ViT)",
+      "目标检测(YOLO/DETR)",
+      "图像分割(U-Net/MaskRCNN)",
+      "生成模型(GAN/Diffusion)",
+      "模型轻量化与部署"
+    ],
+    "source": "fixture",
+    "source_url": "",
+    "posted_at": "未知",
+    "data_quality_score": 90
+  },
+  {
+    "id": "b093ed834b8a",
+    "title": "NLP Research Intern",
+    "company": "Google",
+    "city": "Mountain View",
+    "stage": "实习",
+    "direction": "NLP/搜索算法",
+    "skills": [
+      "huggingface",
+      "pytorch"
+    ],
+    "project_signals": [
+      "NLP_Classic"
+    ],
+    "jd": "Research in natural language processing. Work on multilingual models, text generation, and dialogue systems. Requirements: PyTorch, HuggingFace, publications.",
+    "interview_themes": [
+      "项目深挖",
+      "技术基础",
+      "业务理解"
+    ],
+    "source": "greenhouse",
+    "source_url": "",
+    "posted_at": "未知",
+    "data_quality_score": 95
+  },
+  {
+    "id": "40e0b34b54fe",
+    "title": "搜索 NLP 算法实习生",
+    "company": "搜狗",
+    "city": "北京",
+    "stage": "实习",
+    "direction": "NLP/搜索算法",
+    "skills": [
+      "bert",
+      "python",
+      "pytorch"
+    ],
+    "project_signals": [
+      "Recommendation",
+      "NLP_Classic"
+    ],
+    "jd": "参与搜索 Query 理解和排序优化，包括意图识别、Query 纠错改写。要求 NLP 基础，Python，PyTorch/BERT，有搜索/对话系统项目优先。",
+    "interview_themes": [
+      "项目深挖",
+      "技术基础",
+      "业务理解"
+    ],
+    "source": "fixture",
+    "source_url": "",
+    "posted_at": "未知",
+    "data_quality_score": 95
+  },
+  {
+    "id": "b69f903c7610",
+    "title": "文本生成算法工程师",
+    "company": "阅文集团",
+    "city": "上海",
+    "stage": "不限",
+    "direction": "NLP",
+    "skills": [
+      "gpt"
+    ],
+    "project_signals": [
+      "FineTune",
+      "Deployment"
+    ],
+    "jd": "负责网络文学 AI 创作和文本生成模型优化。要求 NLP 背景，熟悉 GPT/BART 等生成式模型，有模型微调和部署经验。",
+    "interview_themes": [
+      "Transformer架构与变体",
+      "预训练语言模型(BERT/GPT)",
+      "Seq2Seq与Attention机制",
+      "NER/文本分类/摘要模型",
+      "Prompt Tuning vs FineTuning"
+    ],
+    "source": "fixture",
+    "source_url": "",
+    "posted_at": "未知",
+    "data_quality_score": 80
+  },
+  {
+    "id": "01e5b86f8bf1",
+    "title": "校招数据分析实习生",
+    "company": "滴滴出行",
+    "city": "北京",
+    "stage": "实习",
+    "direction": "数据分析",
+    "skills": [
+      "python",
+      "sql"
+    ],
+    "project_signals": [
+      "DataAnalysis"
+    ],
+    "jd": "参与出行平台数据分析，设计指标体系、构建用户画像。要求 SQL 熟练，Python 数据分析，有 A/B 实验和可视化经验优先。",
+    "interview_themes": [
+      "指标体系设计与北极星指标",
+      "漏斗分析与用户画像",
+      "A/B实验统计方法",
+      "SQL高级查询与优化",
+      "数据可视化(Python/Tableau)"
+    ],
+    "source": "fixture",
+    "source_url": "",
+    "posted_at": "未知",
+    "data_quality_score": 80
+  },
+  {
+    "id": "ebf88122ca03",
+    "title": "推荐数据分析实习生",
+    "company": "Bilibili",
+    "city": "上海",
+    "stage": "实习",
+    "direction": "推荐算法/数据分析",
+    "skills": [
+      "ctr",
+      "cvr",
+      "hadoop",
+      "python",
+      "spark",
+      "sql"
+    ],
+    "project_signals": [
+      "Recommendation",
+      "DataAnalysis"
+    ],
+    "jd": "分析视频推荐效果指标，包括 CTR/CVR/用户停留时长。要求 SQL/Python 数据分析，了解推荐系统指标体系，有 Hadoop/Spark 经验优先。",
+    "interview_themes": [
+      "项目深挖",
+      "技术基础",
+      "业务理解"
+    ],
+    "source": "fixture",
+    "source_url": "",
+    "posted_at": "未知",
+    "data_quality_score": 90
+  },
+  {
+    "id": "2dd01a906dda",
+    "title": "Data Analyst - Growth",
+    "company": "Canva",
+    "city": "Sydney",
+    "stage": "不限",
+    "direction": "数据分析",
+    "skills": [
+      "python",
+      "sql"
+    ],
+    "project_signals": [
+      "DataAnalysis"
+    ],
+    "jd": "Analyze user growth metrics and build dashboards. Design A/B tests and measure impact of product changes. Requirements: SQL, Python/R, Tableau.",
+    "interview_themes": [
+      "指标体系设计与北极星指标",
+      "漏斗分析与用户画像",
+      "A/B实验统计方法",
+      "SQL高级查询与优化",
+      "数据可视化(Python/Tableau)"
+    ],
+    "source": "lever",
+    "source_url": "",
+    "posted_at": "未知",
+    "data_quality_score": 95
+  },
+  {
+    "id": "bdc75c575827",
+    "title": "智能搜索算法实习生",
+    "company": "知乎",
+    "city": "北京",
+    "stage": "实习",
+    "direction": "NLP/搜索算法",
+    "skills": [
+      "python",
+      "pytorch"
+    ],
+    "project_signals": [
+      "Embedding",
+      "Recommendation"
+    ],
+    "jd": "优化知乎内容搜索排序，包括向量检索、文本相关性排序。要求 NLP/搜索背景，Python/PyTorch，了解 ES/向量数据库。",
+    "interview_themes": [
+      "项目深挖",
+      "技术基础",
+      "业务理解"
+    ],
+    "source": "fixture",
+    "source_url": "",
+    "posted_at": "未知",
+    "data_quality_score": 80
+  },
+  {
+    "id": "c4847e8b6edc",
+    "title": "校招人岗匹配算法实习生",
+    "company": "BOSS直聘",
+    "city": "北京",
+    "stage": "实习",
+    "direction": "推荐算法/NLP",
+    "skills": [
+      "embedding"
+    ],
+    "project_signals": [
+      "Embedding",
+      "Recommendation"
+    ],
+    "jd": "参与人岗匹配算法研发，包括简历-岗位语义匹配、Embedding 召回、排序模型优化。要求 NLP/推荐系统背景，有向量检索和排序项目经验。",
+    "interview_themes": [
+      "项目深挖",
+      "技术基础",
+      "业务理解"
+    ],
+    "source": "fixture",
+    "source_url": "",
+    "posted_at": "未知",
+    "data_quality_score": 85
+  },
+  {
+    "id": "5f6b6339fa31",
+    "title": "游戏 AI 算法实习生",
+    "company": "网易游戏",
+    "city": "广州",
+    "stage": "实习",
+    "direction": "通用技术",
+    "skills": [
+      "python",
+      "pytorch"
+    ],
+    "project_signals": [],
+    "jd": "参与游戏 AI 研发，包括 NPC 行为决策、强化学习训练。要求 Python、PyTorch、强化学习基础，有游戏 AI 项目经验优先。",
+    "interview_themes": [
+      "项目深挖",
+      "技术基础",
+      "业务理解"
+    ],
+    "source": "fixture",
+    "source_url": "",
+    "posted_at": "未知",
+    "data_quality_score": 75
+  },
+  {
+    "id": "expanded-50",
+    "title": "LLM应用开发实习生",
+    "company": "阿里达摩院",
+    "city": "上海",
+    "direction": "大模型应用算法",
+    "stage": "实习",
+    "source": "synthetic",
+    "quality_score": 83,
+    "skills": [
+      "Prompt Engineering",
+      "Few-shot",
+      "Chain-of-Thought",
+      "ReAct",
+      "Function Calling"
+    ],
+    "project_signals": [
+      "SFT",
+      "微调",
+      "LoRA",
+      "QLoRA"
+    ],
+    "jd": "参与大模型训练与微调，负责数据清洗、SFT/RLHF 训练、模型评估。",
+    "interview_themes": [
+      "SFT vs RLHF",
+      "LoRA 微调",
+      "模型评估指标"
+    ],
+    "pass_score": 51,
+    "risk_score": 50,
+    "growth_score": 81
+  },
+  {
+    "id": "expanded-51",
+    "title": "大模型训练实习生",
+    "company": "字节跳动AI Lab",
+    "city": "深圳",
+    "direction": "大模型应用算法",
+    "stage": "校招",
+    "source": "synthetic",
+    "quality_score": 79,
+    "skills": [
+      "向量数据库",
+      "Milvus",
+      "Chroma",
+      "Hybrid Search",
+      "Rerank"
+    ],
+    "project_signals": [
+      "RAG",
+      "Agent",
+      "Embedding",
+      "检索"
+    ],
+    "jd": "负责大模型应用开发，包括 RAG 检索增强、Agent 工具调用、Prompt 优化等。",
+    "interview_themes": [
+      "RAG 召回与重排",
+      "Agent 工具调用",
+      "Prompt 工程"
+    ],
+    "pass_score": 58,
+    "risk_score": 39,
+    "growth_score": 71
+  },
+  {
+    "id": "expanded-52",
+    "title": "跨端开发实习生",
+    "company": "阿里",
+    "city": "上海",
+    "direction": "前端开发",
+    "stage": "校招",
+    "source": "synthetic",
+    "quality_score": 89,
+    "skills": [
+      "跨端开发",
+      "React Native",
+      "Flutter",
+      "Taro",
+      "Uni-app"
+    ],
+    "project_signals": [
+      "性能优化",
+      "SSR",
+      "PWA"
+    ],
+    "jd": "负责前端页面开发，包括组件设计、状态管理、性能优化等。",
+    "interview_themes": [
+      "React/Vue 原理",
+      "虚拟DOM",
+      "Diff算法"
+    ],
+    "pass_score": 64,
+    "risk_score": 34,
+    "growth_score": 67
+  },
+  {
+    "id": "expanded-53",
+    "title": "图像分割实习生",
+    "company": "腾讯优图",
+    "city": "上海",
+    "direction": "计算机视觉",
+    "stage": "校招",
+    "source": "synthetic",
+    "quality_score": 86,
+    "skills": [
+      "ResNet",
+      "CNN",
+      "Vision Transformer",
+      "Swin Transformer",
+      "PyTorch"
+    ],
+    "project_signals": [
+      "分类",
+      "检测",
+      "分割",
+      "CNN"
+    ],
+    "jd": "参与 CV 模型压缩与加速，包括剪枝、量化、蒸馏、TensorRT 部署等。",
+    "interview_themes": [
+      "CNN 架构",
+      "ViT 原理",
+      "检测算法"
+    ],
+    "pass_score": 61,
+    "risk_score": 31,
+    "growth_score": 62
+  },
+  {
+    "id": "expanded-54",
+    "title": "服务端开发实习生",
+    "company": "美团",
+    "city": "广州",
+    "direction": "后端开发",
+    "stage": "校招",
+    "source": "synthetic",
+    "quality_score": 88,
+    "skills": [
+      "微服务",
+      "分布式系统",
+      "负载均衡",
+      "缓存",
+      "消息队列"
+    ],
+    "project_signals": [
+      "gRPC",
+      "K8s",
+      "容器化"
+    ],
+    "jd": "负责系统性能优化，包括慢查询优化、缓存设计、异步处理等。",
+    "interview_themes": [
+      "微服务架构",
+      "分布式一致性",
+      "CAP 理论"
+    ],
+    "pass_score": 60,
+    "risk_score": 33,
+    "growth_score": 76
+  },
+  {
+    "id": "expanded-55",
+    "title": "AIGC算法实习生",
+    "company": "美团AI平台",
+    "city": "上海",
+    "direction": "大模型应用算法",
+    "stage": "校招",
+    "source": "synthetic",
+    "quality_score": 84,
+    "skills": [
+      "PyTorch",
+      "Transformer",
+      "SFT",
+      "RLHF",
+      "DeepSpeed",
+      "vLLM"
+    ],
+    "project_signals": [
+      "RAG",
+      "Agent",
+      "Embedding",
+      "检索"
+    ],
+    "jd": "参与大模型训练与微调，负责数据清洗、SFT/RLHF 训练、模型评估。",
+    "interview_themes": [
+      "RAG 召回与重排",
+      "Agent 工具调用",
+      "Prompt 工程"
+    ],
+    "pass_score": 62,
+    "risk_score": 52,
+    "growth_score": 75
+  },
+  {
+    "id": "expanded-56",
+    "title": "排序算法实习生",
+    "company": "字节跳动",
+    "city": "上海",
+    "direction": "推荐算法",
+    "stage": "校招",
+    "source": "synthetic",
+    "quality_score": 85,
+    "skills": [
+      "协同过滤",
+      "矩阵分解",
+      "Item-CF",
+      "User-CF",
+      "图神经网络"
+    ],
+    "project_signals": [
+      "召回",
+      "排序",
+      "Embedding",
+      "评估"
+    ],
+    "jd": "负责推荐策略优化，包括多样性、新颖性、长期价值建模等。",
+    "interview_themes": [
+      "在线实验",
+      "A/B 测试",
+      "因果推断"
+    ],
+    "pass_score": 65,
+    "risk_score": 47,
+    "growth_score": 65
+  },
+  {
+    "id": "expanded-57",
+    "title": "产品经理实习生",
+    "company": "字节跳动",
+    "city": "深圳",
+    "direction": "产品经理",
+    "stage": "实习",
+    "source": "synthetic",
+    "quality_score": 94,
+    "skills": [
+      "数据分析",
+      "SQL",
+      "AB测试",
+      "用户调研",
+      "竞品分析"
+    ],
+    "project_signals": [
+      "数据分析",
+      "AB测试"
+    ],
+    "jd": "参与数据驱动的产品迭代，包括数据分析、AB 测试、效果评估等。",
+    "interview_themes": [
+      "产品思维",
+      "需求分析",
+      "竞品分析"
+    ],
+    "pass_score": 65,
+    "risk_score": 23,
+    "growth_score": 51
+  },
+  {
+    "id": "expanded-58",
+    "title": "机器翻译实习生",
+    "company": "百度NLP",
+    "city": "深圳",
+    "direction": "自然语言处理",
+    "stage": "实习",
+    "source": "synthetic",
+    "quality_score": 78,
+    "skills": [
+      "命名实体识别",
+      "关系抽取",
+      "事件抽取",
+      "信息抽取"
+    ],
+    "project_signals": [
+      "NER",
+      "抽取",
+      "BERT"
+    ],
+    "jd": "参与对话系统研发，包括意图识别、槽位填充、多轮对话管理等。",
+    "interview_themes": [
+      "BERT/GPT",
+      "微调方法",
+      "Prompt 设计"
+    ],
+    "pass_score": 54,
+    "risk_score": 49,
+    "growth_score": 69
+  },
+  {
+    "id": "expanded-59",
+    "title": "React前端实习生",
+    "company": "字节跳动",
+    "city": "深圳",
+    "direction": "前端开发",
+    "stage": "实习",
+    "source": "synthetic",
+    "quality_score": 77,
+    "skills": [
+      "跨端开发",
+      "React Native",
+      "Flutter",
+      "Taro",
+      "Uni-app"
+    ],
+    "project_signals": [
+      "React",
+      "Vue",
+      "组件化"
+    ],
+    "jd": "参与前端工程化建设，包括构建优化、CI/CD、代码规范等。",
+    "interview_themes": [
+      "React/Vue 原理",
+      "虚拟DOM",
+      "Diff算法"
+    ],
+    "pass_score": 58,
+    "risk_score": 40,
+    "growth_score": 61
+  },
+  {
+    "id": "expanded-60",
+    "title": "产品经理实习生",
+    "company": "京东",
+    "city": "深圳",
+    "direction": "产品经理",
+    "stage": "校招",
+    "source": "synthetic",
+    "quality_score": 72,
+    "skills": [
+      "产品设计",
+      "需求分析",
+      "原型设计",
+      "Axure",
+      "Figma"
+    ],
+    "project_signals": [
+      "数据分析",
+      "AB测试"
+    ],
+    "jd": "负责 AI 产品落地，包括 LLM 应用设计、Prompt 优化、效果评估等。",
+    "interview_themes": [
+      "数据分析",
+      "AB 测试",
+      "指标设计"
+    ],
+    "pass_score": 62,
+    "risk_score": 20,
+    "growth_score": 62
+  },
+  {
+    "id": "expanded-61",
+    "title": "推荐系统开发实习生",
+    "company": "腾讯广告",
+    "city": "上海",
+    "direction": "推荐算法",
+    "stage": "实习",
+    "source": "synthetic",
+    "quality_score": 85,
+    "skills": [
+      "推荐系统",
+      "Transformer",
+      "召回",
+      "排序",
+      "Embedding",
+      "NDCG",
+      "PyTorch"
+    ],
+    "project_signals": [
+      "DeepFM",
+      "DIN",
+      "多任务"
+    ],
+    "jd": "负责推荐策略优化，包括多样性、新颖性、长期价值建模等。",
+    "interview_themes": [
+      "在线实验",
+      "A/B 测试",
+      "因果推断"
+    ],
+    "pass_score": 66,
+    "risk_score": 51,
+    "growth_score": 68
+  },
+  {
+    "id": "expanded-62",
+    "title": "自然语言处理实习生",
+    "company": "华为诺亚",
+    "city": "深圳",
+    "direction": "自然语言处理",
+    "stage": "实习",
+    "source": "synthetic",
+    "quality_score": 94,
+    "skills": [
+      "命名实体识别",
+      "关系抽取",
+      "事件抽取",
+      "信息抽取"
+    ],
+    "project_signals": [
+      "NER",
+      "抽取",
+      "BERT"
+    ],
+    "jd": "参与 NLP 模型研发，包括预训练模型微调、信息抽取、文本分类等。",
+    "interview_themes": [
+      "生成模型",
+      "解码策略",
+      "评估指标"
+    ],
+    "pass_score": 61,
+    "risk_score": 49,
+    "growth_score": 64
+  },
+  {
+    "id": "expanded-63",
+    "title": "Java后端实习生",
+    "company": "快手",
+    "city": "杭州",
+    "direction": "后端开发",
+    "stage": "校招",
+    "source": "synthetic",
+    "quality_score": 81,
+    "skills": [
+      "Python",
+      "Flask",
+      "Django",
+      "FastAPI",
+      "MySQL",
+      "Redis"
+    ],
+    "project_signals": [
+      "gRPC",
+      "K8s",
+      "容器化"
+    ],
+    "jd": "负责系统性能优化，包括慢查询优化、缓存设计、异步处理等。",
+    "interview_themes": [
+      "MySQL 索引",
+      "Redis 缓存",
+      "消息队列"
+    ],
+    "pass_score": 73,
+    "risk_score": 31,
+    "growth_score": 59
+  },
+  {
+    "id": "expanded-64",
+    "title": "计算机视觉算法实习生",
+    "company": "百度视觉",
+    "city": "上海",
+    "direction": "计算机视觉",
+    "stage": "校招",
+    "source": "synthetic",
+    "quality_score": 91,
+    "skills": [
+      "YOLO",
+      "Faster R-CNN",
+      "Mask R-CNN",
+      "DETR",
+      "目标检测"
+    ],
+    "project_signals": [
+      "分类",
+      "检测",
+      "分割",
+      "CNN"
+    ],
+    "jd": "参与目标检测/图像分割算法研发，负责模型训练、推理优化、数据增强等。",
+    "interview_themes": [
+      "模型压缩",
+      "推理优化",
+      "部署方案"
+    ],
+    "pass_score": 57,
+    "risk_score": 38,
+    "growth_score": 66
+  },
+  {
+    "id": "expanded-65",
+    "title": "大模型训练实习生",
+    "company": "商汤科技",
+    "city": "杭州",
+    "direction": "大模型应用算法",
+    "stage": "实习",
+    "source": "synthetic",
+    "quality_score": 89,
+    "skills": [
+      "PyTorch",
+      "Transformer",
+      "SFT",
+      "RLHF",
+      "DeepSpeed",
+      "vLLM"
+    ],
+    "project_signals": [
+      "RAG",
+      "Agent",
+      "Embedding",
+      "检索"
+    ],
+    "jd": "负责大模型应用开发，包括 RAG 检索增强、Agent 工具调用、Prompt 优化等。",
+    "interview_themes": [
+      "RAG 召回与重排",
+      "Agent 工具调用",
+      "Prompt 工程"
+    ],
+    "pass_score": 49,
+    "risk_score": 42,
+    "growth_score": 76
+  },
+  {
+    "id": "expanded-66",
+    "title": "目标检测实习生",
+    "company": "腾讯优图",
+    "city": "深圳",
+    "direction": "计算机视觉",
+    "stage": "校招",
+    "source": "synthetic",
+    "quality_score": 78,
+    "skills": [
+      "U-Net",
+      "DeepLab",
+      "Mask2Former",
+      "图像分割"
+    ],
+    "project_signals": [
+      "视频理解",
+      "时序建模"
+    ],
+    "jd": "参与目标检测/图像分割算法研发，负责模型训练、推理优化、数据增强等。",
+    "interview_themes": [
+      "模型压缩",
+      "推理优化",
+      "部署方案"
+    ],
+    "pass_score": 70,
+    "risk_score": 41,
+    "growth_score": 68
+  },
+  {
+    "id": "expanded-67",
+    "title": "数据仓库实习生",
+    "company": "字节跳动",
+    "city": "深圳",
+    "direction": "数据工程",
+    "stage": "校招",
+    "source": "synthetic",
+    "quality_score": 88,
+    "skills": [
+      "Tableau",
+      "Power BI",
+      "数据可视化",
+      "BI报表"
+    ],
+    "project_signals": [
+      "数据清洗",
+      "ETL",
+      "数据质量"
+    ],
+    "jd": "负责数据分析与可视化，包括 OLAP 分析、BI 报表、数据产品等。",
+    "interview_themes": [
+      "SQL 优化",
+      "Hive 原理",
+      "数据仓库建模"
+    ],
+    "pass_score": 53,
+    "risk_score": 41,
+    "growth_score": 78
+  },
+  {
+    "id": "expanded-68",
+    "title": "文本生成实习生",
+    "company": "字节跳动AI Lab",
+    "city": "上海",
+    "direction": "自然语言处理",
+    "stage": "校招",
+    "source": "synthetic",
+    "quality_score": 93,
+    "skills": [
+      "句向量",
+      "文本相似度",
+      "文本分类",
+      "情感分析"
+    ],
+    "project_signals": [
+      "分类",
+      "情感",
+      "句向量"
+    ],
+    "jd": "参与 NLP 模型研发，包括预训练模型微调、信息抽取、文本分类等。",
+    "interview_themes": [
+      "生成模型",
+      "解码策略",
+      "评估指标"
+    ],
+    "pass_score": 48,
+    "risk_score": 43,
+    "growth_score": 63
+  },
+  {
+    "id": "expanded-69",
+    "title": "Prompt Engineering实习生",
+    "company": "商汤科技",
+    "city": "深圳",
+    "direction": "大模型应用算法",
+    "stage": "实习",
+    "source": "synthetic",
+    "quality_score": 71,
+    "skills": [
+      "PyTorch",
+      "Transformer",
+      "SFT",
+      "RLHF",
+      "DeepSpeed",
+      "vLLM"
+    ],
+    "project_signals": [
+      "RAG",
+      "Agent",
+      "Embedding",
+      "检索"
+    ],
+    "jd": "负责大模型应用开发，包括 RAG 检索增强、Agent 工具调用、Prompt 优化等。",
+    "interview_themes": [
+      "SFT vs RLHF",
+      "LoRA 微调",
+      "模型评估指标"
+    ],
+    "pass_score": 59,
+    "risk_score": 50,
+    "growth_score": 68
+  },
+  {
+    "id": "expanded-70",
+    "title": "信息抽取实习生",
+    "company": "阿里达摩院",
+    "city": "杭州",
+    "direction": "自然语言处理",
+    "stage": "实习",
+    "source": "synthetic",
+    "quality_score": 94,
+    "skills": [
+      "句向量",
+      "文本相似度",
+      "文本分类",
+      "情感分析"
+    ],
+    "project_signals": [
+      "翻译",
+      "生成",
+      "GPT"
+    ],
+    "jd": "负责机器翻译/文本生成算法优化，包括模型改进、数据增强、评估指标设计等。",
+    "interview_themes": [
+      "BERT/GPT",
+      "微调方法",
+      "Prompt 设计"
+    ],
+    "pass_score": 52,
+    "risk_score": 40,
+    "growth_score": 72
+  },
+  {
+    "id": "expanded-71",
+    "title": "图像分割实习生",
+    "company": "阿里达摩院",
+    "city": "北京",
+    "direction": "计算机视觉",
+    "stage": "校招",
+    "source": "synthetic",
+    "quality_score": 87,
+    "skills": [
+      "U-Net",
+      "DeepLab",
+      "Mask2Former",
+      "图像分割"
+    ],
+    "project_signals": [
+      "分类",
+      "检测",
+      "分割",
+      "CNN"
+    ],
+    "jd": "负责视频理解算法研发，包括动作识别、时序建模、多模态融合等。",
+    "interview_themes": [
+      "分割算法",
+      "实例分割",
+      "全景分割"
+    ],
+    "pass_score": 59,
+    "risk_score": 50,
+    "growth_score": 77
+  },
+  {
+    "id": "expanded-72",
+    "title": "策略产品实习生",
+    "company": "腾讯",
+    "city": "杭州",
+    "direction": "产品经理",
+    "stage": "校招",
+    "source": "synthetic",
+    "quality_score": 78,
+    "skills": [
+      "数据分析",
+      "SQL",
+      "AB测试",
+      "用户调研",
+      "竞品分析"
+    ],
+    "project_signals": [
+      "数据分析",
+      "AB测试"
+    ],
+    "jd": "参与数据驱动的产品迭代，包括数据分析、AB 测试、效果评估等。",
+    "interview_themes": [
+      "AI 产品",
+      "LLM 应用",
+      "产品设计"
+    ],
+    "pass_score": 79,
+    "risk_score": 26,
+    "growth_score": 64
+  },
+  {
+    "id": "expanded-73",
+    "title": "Python后端实习生",
+    "company": "字节跳动",
+    "city": "深圳",
+    "direction": "后端开发",
+    "stage": "实习",
+    "source": "synthetic",
+    "quality_score": 79,
+    "skills": [
+      "Go",
+      "Gin",
+      "Beego",
+      "gRPC",
+      "etcd",
+      "Kubernetes"
+    ],
+    "project_signals": [
+      "gRPC",
+      "K8s",
+      "容器化"
+    ],
+    "jd": "负责系统性能优化，包括慢查询优化、缓存设计、异步处理等。",
+    "interview_themes": [
+      "微服务架构",
+      "分布式一致性",
+      "CAP 理论"
+    ],
+    "pass_score": 58,
+    "risk_score": 37,
+    "growth_score": 61
+  },
+  {
+    "id": "expanded-74",
+    "title": "Java后端实习生",
+    "company": "小米",
+    "city": "杭州",
+    "direction": "后端开发",
+    "stage": "实习",
+    "source": "synthetic",
+    "quality_score": 80,
+    "skills": [
+      "Go",
+      "Gin",
+      "Beego",
+      "gRPC",
+      "etcd",
+      "Kubernetes"
+    ],
+    "project_signals": [
+      "微服务",
+      "分布式",
+      "缓存"
+    ],
+    "jd": "负责系统性能优化，包括慢查询优化、缓存设计、异步处理等。",
+    "interview_themes": [
+      "微服务架构",
+      "分布式一致性",
+      "CAP 理论"
+    ],
+    "pass_score": 75,
+    "risk_score": 28,
+    "growth_score": 71
+  },
+  {
+    "id": "expanded-75",
+    "title": "排序算法实习生",
+    "company": "阿里妈妈",
+    "city": "北京",
+    "direction": "推荐算法",
+    "stage": "校招",
+    "source": "synthetic",
+    "quality_score": 89,
+    "skills": [
+      "推荐系统",
+      "Transformer",
+      "召回",
+      "排序",
+      "Embedding",
+      "NDCG",
+      "PyTorch"
+    ],
+    "project_signals": [
+      "召回",
+      "排序",
+      "Embedding",
+      "评估"
+    ],
+    "jd": "负责推荐系统召回/排序算法研发，包括模型设计、特征工程、在线实验等。",
+    "interview_themes": [
+      "召回算法",
+      "排序模型",
+      "Embedding 技术"
+    ],
+    "pass_score": 54,
+    "risk_score": 35,
+    "growth_score": 65
+  },
+  {
+    "id": "expanded-76",
+    "title": "计算机视觉算法实习生",
+    "company": "旷视科技",
+    "city": "上海",
+    "direction": "计算机视觉",
+    "stage": "实习",
+    "source": "synthetic",
+    "quality_score": 75,
+    "skills": [
+      "U-Net",
+      "DeepLab",
+      "Mask2Former",
+      "图像分割"
+    ],
+    "project_signals": [
+      "ViT",
+      "Transformer",
+      "注意力机制"
+    ],
+    "jd": "参与 CV 模型压缩与加速，包括剪枝、量化、蒸馏、TensorRT 部署等。",
+    "interview_themes": [
+      "模型压缩",
+      "推理优化",
+      "部署方案"
+    ],
+    "pass_score": 53,
+    "risk_score": 39,
+    "growth_score": 62
+  },
+  {
+    "id": "expanded-77",
+    "title": "UI开发实习生",
+    "company": "字节跳动",
+    "city": "广州",
+    "direction": "前端开发",
+    "stage": "实习",
+    "source": "synthetic",
+    "quality_score": 93,
+    "skills": [
+      "跨端开发",
+      "React Native",
+      "Flutter",
+      "Taro",
+      "Uni-app"
+    ],
+    "project_signals": [
+      "性能优化",
+      "SSR",
+      "PWA"
+    ],
+    "jd": "参与前端工程化建设，包括构建优化、CI/CD、代码规范等。",
+    "interview_themes": [
+      "React/Vue 原理",
+      "虚拟DOM",
+      "Diff算法"
+    ],
+    "pass_score": 68,
+    "risk_score": 29,
+    "growth_score": 55
+  },
+  {
+    "id": "expanded-78",
+    "title": "ETL开发实习生",
+    "company": "网易",
+    "city": "杭州",
+    "direction": "数据工程",
+    "stage": "实习",
+    "source": "synthetic",
+    "quality_score": 87,
+    "skills": [
+      "Python",
+      "Pandas",
+      "NumPy",
+      "数据清洗",
+      "数据可视化"
+    ],
+    "project_signals": [
+      "SQL",
+      "Hive",
+      "数据仓库"
+    ],
+    "jd": "负责数据分析与可视化，包括 OLAP 分析、BI 报表、数据产品等。",
+    "interview_themes": [
+      "Spark 原理",
+      "Flink 流计算",
+      "实时计算"
+    ],
+    "pass_score": 70,
+    "risk_score": 30,
+    "growth_score": 74
+  },
+  {
+    "id": "expanded-79",
+    "title": "推荐策略实习生",
+    "company": "京东零售",
+    "city": "北京",
+    "direction": "推荐算法",
+    "stage": "实习",
+    "source": "synthetic",
+    "quality_score": 70,
+    "skills": [
+      "推荐系统",
+      "Transformer",
+      "召回",
+      "排序",
+      "Embedding",
+      "NDCG",
+      "PyTorch"
+    ],
+    "project_signals": [
+      "召回",
+      "排序",
+      "Embedding",
+      "评估"
+    ],
+    "jd": "负责推荐系统召回/排序算法研发，包括模型设计、特征工程、在线实验等。",
+    "interview_themes": [
+      "在线实验",
+      "A/B 测试",
+      "因果推断"
+    ],
+    "pass_score": 60,
+    "risk_score": 38,
+    "growth_score": 62
+  },
+  {
+    "id": "expanded-80",
+    "title": "机器翻译实习生",
+    "company": "百度NLP",
+    "city": "合肥",
+    "direction": "自然语言处理",
+    "stage": "校招",
+    "source": "synthetic",
+    "quality_score": 88,
+    "skills": [
+      "命名实体识别",
+      "关系抽取",
+      "事件抽取",
+      "信息抽取"
+    ],
+    "project_signals": [
+      "翻译",
+      "生成",
+      "GPT"
+    ],
+    "jd": "负责机器翻译/文本生成算法优化，包括模型改进、数据增强、评估指标设计等。",
+    "interview_themes": [
+      "BERT/GPT",
+      "微调方法",
+      "Prompt 设计"
+    ],
+    "pass_score": 56,
+    "risk_score": 47,
+    "growth_score": 72
+  },
+  {
+    "id": "expanded-81",
+    "title": "召回算法实习生",
+    "company": "快手",
+    "city": "上海",
+    "direction": "推荐算法",
+    "stage": "实习",
+    "source": "synthetic",
+    "quality_score": 73,
+    "skills": [
+      "推荐系统",
+      "Transformer",
+      "召回",
+      "排序",
+      "Embedding",
+      "NDCG",
+      "PyTorch"
+    ],
+    "project_signals": [
+      "召回",
+      "排序",
+      "Embedding",
+      "评估"
+    ],
+    "jd": "负责推荐系统召回/排序算法研发，包括模型设计、特征工程、在线实验等。",
+    "interview_themes": [
+      "DeepFM/DIN",
+      "多任务学习",
+      "评估指标"
+    ],
+    "pass_score": 53,
+    "risk_score": 50,
+    "growth_score": 69
+  },
+  {
+    "id": "expanded-82",
+    "title": "推荐算法实习生",
+    "company": "腾讯广告",
+    "city": "杭州",
+    "direction": "推荐算法",
+    "stage": "实习",
+    "source": "synthetic",
+    "quality_score": 85,
+    "skills": [
+      "在线学习",
+      "Bandit",
+      "强化学习",
+      "DQN",
+      "Slate推荐"
+    ],
+    "project_signals": [
+      "在线学习",
+      "Bandit"
+    ],
+    "jd": "负责推荐系统召回/排序算法研发，包括模型设计、特征工程、在线实验等。",
+    "interview_themes": [
+      "召回算法",
+      "排序模型",
+      "Embedding 技术"
+    ],
+    "pass_score": 55,
+    "risk_score": 39,
+    "growth_score": 69
+  },
+  {
+    "id": "expanded-83",
+    "title": "Prompt Engineering实习生",
+    "company": "华为诺亚",
+    "city": "杭州",
+    "direction": "大模型应用算法",
+    "stage": "校招",
+    "source": "synthetic",
+    "quality_score": 85,
+    "skills": [
+      "向量数据库",
+      "Milvus",
+      "Chroma",
+      "Hybrid Search",
+      "Rerank"
+    ],
+    "project_signals": [
+      "RAG",
+      "Agent",
+      "Embedding",
+      "检索"
+    ],
+    "jd": "参与大模型训练与微调，负责数据清洗、SFT/RLHF 训练、模型评估。",
+    "interview_themes": [
+      "RAG 召回与重排",
+      "Agent 工具调用",
+      "Prompt 工程"
+    ],
+    "pass_score": 55,
+    "risk_score": 55,
+    "growth_score": 72
+  },
+  {
+    "id": "expanded-84",
+    "title": "目标检测实习生",
+    "company": "云从科技",
+    "city": "北京",
+    "direction": "计算机视觉",
+    "stage": "校招",
+    "source": "synthetic",
+    "quality_score": 81,
+    "skills": [
+      "ResNet",
+      "CNN",
+      "Vision Transformer",
+      "Swin Transformer",
+      "PyTorch"
+    ],
+    "project_signals": [
+      "分类",
+      "检测",
+      "分割",
+      "CNN"
+    ],
+    "jd": "参与目标检测/图像分割算法研发，负责模型训练、推理优化、数据增强等。",
+    "interview_themes": [
+      "CNN 架构",
+      "ViT 原理",
+      "检测算法"
+    ],
+    "pass_score": 59,
+    "risk_score": 36,
+    "growth_score": 72
+  },
+  {
+    "id": "expanded-85",
+    "title": "召回算法实习生",
+    "company": "京东零售",
+    "city": "深圳",
+    "direction": "推荐算法",
+    "stage": "校招",
+    "source": "synthetic",
+    "quality_score": 88,
+    "skills": [
+      "在线学习",
+      "Bandit",
+      "强化学习",
+      "DQN",
+      "Slate推荐"
+    ],
+    "project_signals": [
+      "召回",
+      "排序",
+      "Embedding",
+      "评估"
+    ],
+    "jd": "负责推荐系统召回/排序算法研发，包括模型设计、特征工程、在线实验等。",
+    "interview_themes": [
+      "DeepFM/DIN",
+      "多任务学习",
+      "评估指标"
+    ],
+    "pass_score": 68,
+    "risk_score": 35,
+    "growth_score": 65
+  },
+  {
+    "id": "expanded-86",
+    "title": "后台产品实习生",
+    "company": "腾讯",
+    "city": "上海",
+    "direction": "产品经理",
+    "stage": "实习",
+    "source": "synthetic",
+    "quality_score": 92,
+    "skills": [
+      "产品设计",
+      "需求分析",
+      "原型设计",
+      "Axure",
+      "Figma"
+    ],
+    "project_signals": [
+      "数据分析",
+      "AB测试"
+    ],
+    "jd": "负责 AI 产品落地，包括 LLM 应用设计、Prompt 优化、效果评估等。",
+    "interview_themes": [
+      "产品思维",
+      "需求分析",
+      "竞品分析"
+    ],
+    "pass_score": 65,
+    "risk_score": 22,
+    "growth_score": 69
+  },
+  {
+    "id": "expanded-87",
+    "title": "文本生成实习生",
+    "company": "阿里达摩院",
+    "city": "合肥",
+    "direction": "自然语言处理",
+    "stage": "实习",
+    "source": "synthetic",
+    "quality_score": 80,
+    "skills": [
+      "BERT",
+      "RoBERTa",
+      "GPT",
+      "T5",
+      "Transformer",
+      "PyTorch"
+    ],
+    "project_signals": [
+      "分类",
+      "情感",
+      "句向量"
+    ],
+    "jd": "参与 NLP 模型研发，包括预训练模型微调、信息抽取、文本分类等。",
+    "interview_themes": [
+      "BERT/GPT",
+      "微调方法",
+      "Prompt 设计"
+    ],
+    "pass_score": 53,
+    "risk_score": 37,
+    "growth_score": 73
+  },
+  {
+    "id": "expanded-88",
+    "title": "Go后端实习生",
+    "company": "美团",
+    "city": "广州",
+    "direction": "后端开发",
+    "stage": "实习",
+    "source": "synthetic",
+    "quality_score": 74,
+    "skills": [
+      "Python",
+      "Flask",
+      "Django",
+      "FastAPI",
+      "MySQL",
+      "Redis"
+    ],
+    "project_signals": [
+      "gRPC",
+      "K8s",
+      "容器化"
+    ],
+    "jd": "负责后端服务设计与开发，包括 API 设计、数据库优化、缓存策略等。",
+    "interview_themes": [
+      "微服务架构",
+      "分布式一致性",
+      "CAP 理论"
+    ],
+    "pass_score": 75,
+    "risk_score": 40,
+    "growth_score": 65
+  },
+  {
+    "id": "expanded-89",
+    "title": "Python后端实习生",
+    "company": "字节跳动",
+    "city": "北京",
+    "direction": "后端开发",
+    "stage": "校招",
+    "source": "synthetic",
+    "quality_score": 92,
+    "skills": [
+      "Go",
+      "Gin",
+      "Beego",
+      "gRPC",
+      "etcd",
+      "Kubernetes"
+    ],
+    "project_signals": [
+      "微服务",
+      "分布式",
+      "缓存"
+    ],
+    "jd": "负责系统性能优化，包括慢查询优化、缓存设计、异步处理等。",
+    "interview_themes": [
+      "数据结构",
+      "算法",
+      "系统设计"
+    ],
+    "pass_score": 55,
+    "risk_score": 34,
+    "growth_score": 71
+  },
+  {
+    "id": "expanded-90",
+    "title": "大数据开发实习生",
+    "company": "字节跳动",
+    "city": "杭州",
+    "direction": "数据工程",
+    "stage": "校招",
+    "source": "synthetic",
+    "quality_score": 78,
+    "skills": [
+      "SQL",
+      "Hive",
+      "Spark",
+      "Hadoop",
+      "数据仓库",
+      "ETL"
+    ],
+    "project_signals": [
+      "SQL",
+      "Hive",
+      "数据仓库"
+    ],
+    "jd": "负责数据分析与可视化，包括 OLAP 分析、BI 报表、数据产品等。",
+    "interview_themes": [
+      "SQL 优化",
+      "Hive 原理",
+      "数据仓库建模"
+    ],
+    "pass_score": 64,
+    "risk_score": 36,
+    "growth_score": 76
+  },
+  {
+    "id": "expanded-91",
+    "title": "Python后端实习生",
+    "company": "京东",
+    "city": "北京",
+    "direction": "后端开发",
+    "stage": "实习",
+    "source": "synthetic",
+    "quality_score": 83,
+    "skills": [
+      "Python",
+      "Flask",
+      "Django",
+      "FastAPI",
+      "MySQL",
+      "Redis"
+    ],
+    "project_signals": [
+      "微服务",
+      "分布式",
+      "缓存"
+    ],
+    "jd": "负责后端服务设计与开发，包括 API 设计、数据库优化、缓存策略等。",
+    "interview_themes": [
+      "数据结构",
+      "算法",
+      "系统设计"
+    ],
+    "pass_score": 68,
+    "risk_score": 33,
+    "growth_score": 70
+  },
+  {
+    "id": "expanded-92",
+    "title": "推荐算法实习生",
+    "company": "快手",
+    "city": "北京",
+    "direction": "推荐算法",
+    "stage": "实习",
+    "source": "synthetic",
+    "quality_score": 91,
+    "skills": [
+      "协同过滤",
+      "矩阵分解",
+      "Item-CF",
+      "User-CF",
+      "图神经网络"
+    ],
+    "project_signals": [
+      "DeepFM",
+      "DIN",
+      "多任务"
+    ],
+    "jd": "负责推荐策略优化，包括多样性、新颖性、长期价值建模等。",
+    "interview_themes": [
+      "在线实验",
+      "A/B 测试",
+      "因果推断"
+    ],
+    "pass_score": 59,
+    "risk_score": 33,
+    "growth_score": 63
+  },
+  {
+    "id": "expanded-93",
+    "title": "Python后端实习生",
+    "company": "快手",
+    "city": "北京",
+    "direction": "后端开发",
+    "stage": "实习",
+    "source": "synthetic",
+    "quality_score": 86,
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "MyBatis",
+      "MySQL",
+      "Redis",
+      "Kafka"
+    ],
+    "project_signals": [
+      "后端",
+      "API",
+      "数据库"
+    ],
+    "jd": "参与微服务架构升级，负责服务拆分、RPC 通信、服务治理等。",
+    "interview_themes": [
+      "微服务架构",
+      "分布式一致性",
+      "CAP 理论"
+    ],
+    "pass_score": 68,
+    "risk_score": 33,
+    "growth_score": 63
+  },
+  {
+    "id": "expanded-94",
+    "title": "AI产品经理实习生",
+    "company": "字节跳动",
+    "city": "杭州",
+    "direction": "产品经理",
+    "stage": "校招",
+    "source": "synthetic",
+    "quality_score": 92,
+    "skills": [
+      "项目管理",
+      "敏捷开发",
+      "PRD文档",
+      "路线图规划"
+    ],
+    "project_signals": [
+      "数据分析",
+      "AB测试"
+    ],
+    "jd": "负责 AI 产品落地，包括 LLM 应用设计、Prompt 优化、效果评估等。",
+    "interview_themes": [
+      "AI 产品",
+      "LLM 应用",
+      "产品设计"
+    ],
+    "pass_score": 66,
+    "risk_score": 28,
+    "growth_score": 53
+  },
+  {
+    "id": "expanded-95",
+    "title": "推荐系统开发实习生",
+    "company": "美团",
+    "city": "北京",
+    "direction": "推荐算法",
+    "stage": "实习",
+    "source": "synthetic",
+    "quality_score": 74,
+    "skills": [
+      "在线学习",
+      "Bandit",
+      "强化学习",
+      "DQN",
+      "Slate推荐"
+    ],
+    "project_signals": [
+      "召回",
+      "排序",
+      "Embedding",
+      "评估"
+    ],
+    "jd": "参与多目标排序模型优化，负责 MMOE/PLE 模型改进与在线 A/B 测试。",
+    "interview_themes": [
+      "DeepFM/DIN",
+      "多任务学习",
+      "评估指标"
+    ],
+    "pass_score": 61,
+    "risk_score": 33,
+    "growth_score": 64
+  },
+  {
+    "id": "expanded-96",
+    "title": "AIGC算法实习生",
+    "company": "字节跳动AI Lab",
+    "city": "北京",
+    "direction": "大模型应用算法",
+    "stage": "校招",
+    "source": "synthetic",
+    "quality_score": 78,
+    "skills": [
+      "LLM",
+      "RAG",
+      "Agent",
+      "Embedding",
+      "Python",
+      "Prompt",
+      "LangChain",
+      "FAISS"
+    ],
+    "project_signals": [
+      "RAG",
+      "Agent",
+      "Embedding",
+      "检索"
+    ],
+    "jd": "负责大模型应用开发，包括 RAG 检索增强、Agent 工具调用、Prompt 优化等。",
+    "interview_themes": [
+      "推理优化",
+      "量化算法",
+      "部署架构"
+    ],
+    "pass_score": 62,
+    "risk_score": 51,
+    "growth_score": 67
+  },
+  {
+    "id": "expanded-97",
+    "title": "UI开发实习生",
+    "company": "腾讯",
+    "city": "上海",
+    "direction": "前端开发",
+    "stage": "校招",
+    "source": "synthetic",
+    "quality_score": 85,
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "ES6+",
+      "Sass",
+      "Less"
+    ],
+    "project_signals": [
+      "跨端",
+      "移动端",
+      "小程序"
+    ],
+    "jd": "负责跨端方案落地，包括 React Native/Flutter 开发、性能调优等。",
+    "interview_themes": [
+      "工程化",
+      "Webpack/Vite",
+      "CI/CD"
+    ],
+    "pass_score": 75,
+    "risk_score": 29,
+    "growth_score": 55
+  },
+  {
+    "id": "expanded-98",
+    "title": "文本挖掘实习生",
+    "company": "华为诺亚",
+    "city": "北京",
+    "direction": "自然语言处理",
+    "stage": "实习",
+    "source": "synthetic",
+    "quality_score": 88,
+    "skills": [
+      "句向量",
+      "文本相似度",
+      "文本分类",
+      "情感分析"
+    ],
+    "project_signals": [
+      "分类",
+      "情感",
+      "句向量"
+    ],
+    "jd": "参与 NLP 模型研发，包括预训练模型微调、信息抽取、文本分类等。",
+    "interview_themes": [
+      "信息抽取",
+      "序列标注",
+      "关系抽取"
+    ],
+    "pass_score": 48,
+    "risk_score": 39,
+    "growth_score": 67
+  },
+  {
+    "id": "expanded-99",
+    "title": "文本生成实习生",
+    "company": "字节跳动AI Lab",
+    "city": "深圳",
+    "direction": "自然语言处理",
+    "stage": "校招",
+    "source": "synthetic",
+    "quality_score": 87,
+    "skills": [
+      "BERT",
+      "RoBERTa",
+      "GPT",
+      "T5",
+      "Transformer",
+      "PyTorch"
+    ],
+    "project_signals": [
+      "分类",
+      "情感",
+      "句向量"
+    ],
+    "jd": "参与对话系统研发，包括意图识别、槽位填充、多轮对话管理等。",
+    "interview_themes": [
+      "信息抽取",
+      "序列标注",
+      "关系抽取"
+    ],
+    "pass_score": 48,
+    "risk_score": 45,
+    "growth_score": 81
+  },
+  {
+    "id": "expanded-100",
+    "title": "LLM应用开发实习生",
+    "company": "旷视科技",
+    "city": "北京",
+    "direction": "大模型应用算法",
+    "stage": "实习",
+    "source": "synthetic",
+    "quality_score": 75,
+    "skills": [
+      "向量数据库",
+      "Milvus",
+      "Chroma",
+      "Hybrid Search",
+      "Rerank"
+    ],
+    "project_signals": [
+      "RAG",
+      "Agent",
+      "Embedding",
+      "检索"
+    ],
+    "jd": "负责 LLM 推理优化，包括量化、蒸馏、vLLM 部署等加速技术。",
+    "interview_themes": [
+      "SFT vs RLHF",
+      "LoRA 微调",
+      "模型评估指标"
+    ],
+    "pass_score": 48,
+    "risk_score": 35,
+    "growth_score": 73
+  },
+  {
+    "id": "expanded-101",
+    "title": "目标检测实习生",
+    "company": "云从科技",
+    "city": "杭州",
+    "direction": "计算机视觉",
+    "stage": "实习",
+    "source": "synthetic",
+    "quality_score": 76,
+    "skills": [
+      "YOLO",
+      "Faster R-CNN",
+      "Mask R-CNN",
+      "DETR",
+      "目标检测"
+    ],
+    "project_signals": [
+      "视频理解",
+      "时序建模"
+    ],
+    "jd": "参与目标检测/图像分割算法研发，负责模型训练、推理优化、数据增强等。",
+    "interview_themes": [
+      "模型压缩",
+      "推理优化",
+      "部署方案"
+    ],
+    "pass_score": 56,
+    "risk_score": 35,
+    "growth_score": 75
+  },
+  {
+    "id": "expanded-102",
+    "title": "Go后端实习生",
+    "company": "快手",
+    "city": "杭州",
+    "direction": "后端开发",
+    "stage": "校招",
+    "source": "synthetic",
+    "quality_score": 81,
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "MyBatis",
+      "MySQL",
+      "Redis",
+      "Kafka"
+    ],
+    "project_signals": [
+      "后端",
+      "API",
+      "数据库"
+    ],
+    "jd": "负责系统性能优化，包括慢查询优化、缓存设计、异步处理等。",
+    "interview_themes": [
+      "微服务架构",
+      "分布式一致性",
+      "CAP 理论"
+    ],
+    "pass_score": 57,
+    "risk_score": 31,
+    "growth_score": 67
+  },
+  {
+    "id": "expanded-103",
+    "title": "文本生成实习生",
+    "company": "华为诺亚",
+    "city": "深圳",
+    "direction": "自然语言处理",
+    "stage": "实习",
+    "source": "synthetic",
+    "quality_score": 73,
+    "skills": [
+      "机器翻译",
+      "文本摘要",
+      "文本生成",
+      "对话系统"
+    ],
+    "project_signals": [
+      "翻译",
+      "生成",
+      "GPT"
+    ],
+    "jd": "参与 NLP 模型研发，包括预训练模型微调、信息抽取、文本分类等。",
+    "interview_themes": [
+      "BERT/GPT",
+      "微调方法",
+      "Prompt 设计"
+    ],
+    "pass_score": 57,
+    "risk_score": 36,
+    "growth_score": 78
+  },
+  {
+    "id": "expanded-104",
+    "title": "召回算法实习生",
+    "company": "网易云音乐",
+    "city": "上海",
+    "direction": "推荐算法",
+    "stage": "校招",
+    "source": "synthetic",
+    "quality_score": 90,
+    "skills": [
+      "DeepFM",
+      "DIN",
+      "DIEN",
+      "Multi-task",
+      "MMOE",
+      "PLE"
+    ],
+    "project_signals": [
+      "在线学习",
+      "Bandit"
+    ],
+    "jd": "负责推荐策略优化，包括多样性、新颖性、长期价值建模等。",
+    "interview_themes": [
+      "在线实验",
+      "A/B 测试",
+      "因果推断"
+    ],
+    "pass_score": 59,
+    "risk_score": 34,
+    "growth_score": 70
+  },
+  {
+    "id": "expanded-105",
+    "title": "推荐策略实习生",
+    "company": "字节跳动",
+    "city": "上海",
+    "direction": "推荐算法",
+    "stage": "实习",
+    "source": "synthetic",
+    "quality_score": 90,
+    "skills": [
+      "推荐系统",
+      "Transformer",
+      "召回",
+      "排序",
+      "Embedding",
+      "NDCG",
+      "PyTorch"
+    ],
+    "project_signals": [
+      "召回",
+      "排序",
+      "Embedding",
+      "评估"
+    ],
+    "jd": "负责推荐策略优化，包括多样性、新颖性、长期价值建模等。",
+    "interview_themes": [
+      "DeepFM/DIN",
+      "多任务学习",
+      "评估指标"
+    ],
+    "pass_score": 54,
+    "risk_score": 44,
+    "growth_score": 74
+  },
+  {
+    "id": "expanded-106",
+    "title": "Go后端实习生",
+    "company": "腾讯",
+    "city": "杭州",
+    "direction": "后端开发",
+    "stage": "实习",
+    "source": "synthetic",
+    "quality_score": 91,
+    "skills": [
+      "Go",
+      "Gin",
+      "Beego",
+      "gRPC",
+      "etcd",
+      "Kubernetes"
+    ],
+    "project_signals": [
+      "微服务",
+      "分布式",
+      "缓存"
+    ],
+    "jd": "负责系统性能优化，包括慢查询优化、缓存设计、异步处理等。",
+    "interview_themes": [
+      "MySQL 索引",
+      "Redis 缓存",
+      "消息队列"
+    ],
+    "pass_score": 57,
+    "risk_score": 35,
+    "growth_score": 76
+  },
+  {
+    "id": "expanded-107",
+    "title": "Go后端实习生",
+    "company": "字节跳动",
+    "city": "广州",
+    "direction": "后端开发",
+    "stage": "实习",
+    "source": "synthetic",
+    "quality_score": 70,
+    "skills": [
+      "Python",
+      "Flask",
+      "Django",
+      "FastAPI",
+      "MySQL",
+      "Redis"
+    ],
+    "project_signals": [
+      "gRPC",
+      "K8s",
+      "容器化"
+    ],
+    "jd": "负责系统性能优化，包括慢查询优化、缓存设计、异步处理等。",
+    "interview_themes": [
+      "微服务架构",
+      "分布式一致性",
+      "CAP 理论"
+    ],
+    "pass_score": 56,
+    "risk_score": 34,
+    "growth_score": 75
+  },
+  {
+    "id": "expanded-108",
+    "title": "召回算法实习生",
+    "company": "字节跳动",
+    "city": "上海",
+    "direction": "推荐算法",
+    "stage": "校招",
+    "source": "synthetic",
+    "quality_score": 70,
+    "skills": [
+      "在线学习",
+      "Bandit",
+      "强化学习",
+      "DQN",
+      "Slate推荐"
+    ],
+    "project_signals": [
+      "DeepFM",
+      "DIN",
+      "多任务"
+    ],
+    "jd": "负责推荐系统召回/排序算法研发，包括模型设计、特征工程、在线实验等。",
+    "interview_themes": [
+      "召回算法",
+      "排序模型",
+      "Embedding 技术"
+    ],
+    "pass_score": 57,
+    "risk_score": 48,
+    "growth_score": 81
+  },
+  {
+    "id": "expanded-109",
+    "title": "跨端开发实习生",
+    "company": "网易",
+    "city": "深圳",
+    "direction": "前端开发",
+    "stage": "实习",
+    "source": "synthetic",
+    "quality_score": 77,
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "ES6+",
+      "Sass",
+      "Less"
+    ],
+    "project_signals": [
+      "性能优化",
+      "SSR",
+      "PWA"
+    ],
+    "jd": "负责前端页面开发，包括组件设计、状态管理、性能优化等。",
+    "interview_themes": [
+      "React/Vue 原理",
+      "虚拟DOM",
+      "Diff算法"
+    ],
+    "pass_score": 70,
+    "risk_score": 25,
+    "growth_score": 59
+  },
+  {
+    "id": "expanded-110",
+    "title": "Vue前端实习生",
+    "company": "字节跳动",
+    "city": "上海",
+    "direction": "前端开发",
+    "stage": "实习",
+    "source": "synthetic",
+    "quality_score": 93,
+    "skills": [
+      "性能优化",
+      "SSR",
+      "SSG",
+      "PWA",
+      "Web Vitals"
+    ],
+    "project_signals": [
+      "跨端",
+      "移动端",
+      "小程序"
+    ],
+    "jd": "负责前端页面开发，包括组件设计、状态管理、性能优化等。",
+    "interview_themes": [
+      "React/Vue 原理",
+      "虚拟DOM",
+      "Diff算法"
+    ],
+    "pass_score": 78,
+    "risk_score": 30,
+    "growth_score": 66
+  },
+  {
+    "id": "expanded-111",
+    "title": "React前端实习生",
+    "company": "字节跳动",
+    "city": "杭州",
+    "direction": "前端开发",
+    "stage": "实习",
+    "source": "synthetic",
+    "quality_score": 92,
+    "skills": [
+      "React",
+      "Vue",
+      "TypeScript",
+      "Next.js",
+      "Webpack",
+      "Vite"
+    ],
+    "project_signals": [
+      "React",
+      "Vue",
+      "组件化"
+    ],
+    "jd": "负责前端页面开发，包括组件设计、状态管理、性能优化等。",
+    "interview_themes": [
+      "前端性能优化",
+      "Web Vitals",
+      "缓存策略"
+    ],
+    "pass_score": 73,
+    "risk_score": 25,
+    "growth_score": 71
+  },
+  {
+    "id": "expanded-112",
+    "title": "AI产品经理实习生",
+    "company": "京东",
+    "city": "深圳",
+    "direction": "产品经理",
+    "stage": "实习",
+    "source": "synthetic",
+    "quality_score": 86,
+    "skills": [
+      "数据分析",
+      "SQL",
+      "AB测试",
+      "用户调研",
+      "竞品分析"
+    ],
+    "project_signals": [
+      "AI",
+      "LLM",
+      "产品化"
+    ],
+    "jd": "参与数据驱动的产品迭代，包括数据分析、AB 测试、效果评估等。",
+    "interview_themes": [
+      "数据分析",
+      "AB 测试",
+      "指标设计"
+    ],
+    "pass_score": 77,
+    "risk_score": 36,
+    "growth_score": 67
+  },
+  {
+    "id": "expanded-113",
+    "title": "自然语言处理实习生",
+    "company": "百度NLP",
+    "city": "深圳",
+    "direction": "自然语言处理",
+    "stage": "校招",
+    "source": "synthetic",
+    "quality_score": 86,
+    "skills": [
+      "机器翻译",
+      "文本摘要",
+      "文本生成",
+      "对话系统"
+    ],
+    "project_signals": [
+      "分类",
+      "情感",
+      "句向量"
+    ],
+    "jd": "参与对话系统研发，包括意图识别、槽位填充、多轮对话管理等。",
+    "interview_themes": [
+      "BERT/GPT",
+      "微调方法",
+      "Prompt 设计"
+    ],
+    "pass_score": 48,
+    "risk_score": 38,
+    "growth_score": 76
+  },
+  {
+    "id": "expanded-114",
+    "title": "UI开发实习生",
+    "company": "腾讯",
+    "city": "杭州",
+    "direction": "前端开发",
+    "stage": "校招",
+    "source": "synthetic",
+    "quality_score": 91,
+    "skills": [
+      "性能优化",
+      "SSR",
+      "SSG",
+      "PWA",
+      "Web Vitals"
+    ],
+    "project_signals": [
+      "性能优化",
+      "SSR",
+      "PWA"
+    ],
+    "jd": "参与前端工程化建设，包括构建优化、CI/CD、代码规范等。",
+    "interview_themes": [
+      "工程化",
+      "Webpack/Vite",
+      "CI/CD"
+    ],
+    "pass_score": 68,
+    "risk_score": 39,
+    "growth_score": 61
+  },
+  {
+    "id": "expanded-115",
+    "title": "后端开发实习生",
+    "company": "字节跳动",
+    "city": "上海",
+    "direction": "后端开发",
+    "stage": "实习",
+    "source": "synthetic",
+    "quality_score": 87,
+    "skills": [
+      "微服务",
+      "分布式系统",
+      "负载均衡",
+      "缓存",
+      "消息队列"
+    ],
+    "project_signals": [
+      "gRPC",
+      "K8s",
+      "容器化"
+    ],
+    "jd": "参与微服务架构升级，负责服务拆分、RPC 通信、服务治理等。",
+    "interview_themes": [
+      "数据结构",
+      "算法",
+      "系统设计"
+    ],
+    "pass_score": 70,
+    "risk_score": 45,
+    "growth_score": 76
+  },
+  {
+    "id": "expanded-116",
+    "title": "计算机视觉算法实习生",
+    "company": "云从科技",
+    "city": "北京",
+    "direction": "计算机视觉",
+    "stage": "校招",
+    "source": "synthetic",
+    "quality_score": 70,
+    "skills": [
+      "YOLO",
+      "Faster R-CNN",
+      "Mask R-CNN",
+      "DETR",
+      "目标检测"
+    ],
+    "project_signals": [
+      "分类",
+      "检测",
+      "分割",
+      "CNN"
+    ],
+    "jd": "参与目标检测/图像分割算法研发，负责模型训练、推理优化、数据增强等。",
+    "interview_themes": [
+      "CNN 架构",
+      "ViT 原理",
+      "检测算法"
+    ],
+    "pass_score": 56,
+    "risk_score": 32,
+    "growth_score": 63
+  },
+  {
+    "id": "expanded-117",
+    "title": "ETL开发实习生",
+    "company": "京东",
+    "city": "深圳",
+    "direction": "数据工程",
+    "stage": "校招",
+    "source": "synthetic",
+    "quality_score": 79,
+    "skills": [
+      "Kafka",
+      "Flink",
+      "实时计算",
+      "流处理",
+      "消息队列"
+    ],
+    "project_signals": [
+      "数据清洗",
+      "ETL",
+      "数据质量"
+    ],
+    "jd": "参与实时数据平台建设，包括流计算、消息队列、实时报表等。",
+    "interview_themes": [
+      "数据治理",
+      "数据质量",
+      "元数据管理"
+    ],
+    "pass_score": 67,
+    "risk_score": 44,
+    "growth_score": 76
+  },
+  {
+    "id": "expanded-118",
+    "title": "前端开发实习生",
+    "company": "网易",
+    "city": "杭州",
+    "direction": "前端开发",
+    "stage": "校招",
+    "source": "synthetic",
+    "quality_score": 80,
+    "skills": [
+      "性能优化",
+      "SSR",
+      "SSG",
+      "PWA",
+      "Web Vitals"
+    ],
+    "project_signals": [
+      "性能优化",
+      "SSR",
+      "PWA"
+    ],
+    "jd": "负责前端页面开发，包括组件设计、状态管理、性能优化等。",
+    "interview_themes": [
+      "前端性能优化",
+      "Web Vitals",
+      "缓存策略"
+    ],
+    "pass_score": 62,
+    "risk_score": 41,
+    "growth_score": 56
+  },
+  {
+    "id": "expanded-119",
+    "title": "ETL开发实习生",
+    "company": "腾讯",
+    "city": "北京",
+    "direction": "数据工程",
+    "stage": "实习",
+    "source": "synthetic",
+    "quality_score": 92,
+    "skills": [
+      "Kafka",
+      "Flink",
+      "实时计算",
+      "流处理",
+      "消息队列"
+    ],
+    "project_signals": [
+      "Spark",
+      "Flink",
+      "实时计算"
+    ],
+    "jd": "参与实时数据平台建设，包括流计算、消息队列、实时报表等。",
+    "interview_themes": [
+      "Spark 原理",
+      "Flink 流计算",
+      "实时计算"
+    ],
+    "pass_score": 65,
+    "risk_score": 47,
+    "growth_score": 66
+  },
+  {
+    "id": "expanded-120",
+    "title": "计算机视觉算法实习生",
+    "company": "阿里达摩院",
+    "city": "上海",
+    "direction": "计算机视觉",
+    "stage": "实习",
+    "source": "synthetic",
+    "quality_score": 92,
+    "skills": [
+      "YOLO",
+      "Faster R-CNN",
+      "Mask R-CNN",
+      "DETR",
+      "目标检测"
+    ],
+    "project_signals": [
+      "视频理解",
+      "时序建模"
+    ],
+    "jd": "负责视频理解算法研发，包括动作识别、时序建模、多模态融合等。",
+    "interview_themes": [
+      "模型压缩",
+      "推理优化",
+      "部署方案"
+    ],
+    "pass_score": 64,
+    "risk_score": 50,
+    "growth_score": 70
+  },
+  {
+    "id": "expanded-121",
+    "title": "前端开发实习生",
+    "company": "阿里",
+    "city": "广州",
+    "direction": "前端开发",
+    "stage": "实习",
+    "source": "synthetic",
+    "quality_score": 91,
+    "skills": [
+      "React",
+      "Vue",
+      "TypeScript",
+      "Next.js",
+      "Webpack",
+      "Vite"
+    ],
+    "project_signals": [
+      "性能优化",
+      "SSR",
+      "PWA"
+    ],
+    "jd": "参与前端工程化建设，包括构建优化、CI/CD、代码规范等。",
+    "interview_themes": [
+      "React/Vue 原理",
+      "虚拟DOM",
+      "Diff算法"
+    ],
+    "pass_score": 58,
+    "risk_score": 31,
+    "growth_score": 64
+  },
+  {
+    "id": "expanded-122",
+    "title": "跨端开发实习生",
+    "company": "美团",
+    "city": "深圳",
+    "direction": "前端开发",
+    "stage": "校招",
+    "source": "synthetic",
+    "quality_score": 94,
+    "skills": [
+      "性能优化",
+      "SSR",
+      "SSG",
+      "PWA",
+      "Web Vitals"
+    ],
+    "project_signals": [
+      "React",
+      "Vue",
+      "组件化"
+    ],
+    "jd": "负责跨端方案落地，包括 React Native/Flutter 开发、性能调优等。",
+    "interview_themes": [
+      "React/Vue 原理",
+      "虚拟DOM",
+      "Diff算法"
+    ],
+    "pass_score": 68,
+    "risk_score": 38,
+    "growth_score": 60
+  },
+  {
+    "id": "expanded-123",
+    "title": "后台产品实习生",
+    "company": "腾讯",
+    "city": "上海",
+    "direction": "产品经理",
+    "stage": "实习",
+    "source": "synthetic",
+    "quality_score": 82,
+    "skills": [
+      "数据分析",
+      "SQL",
+      "AB测试",
+      "用户调研",
+      "竞品分析"
+    ],
+    "project_signals": [
+      "产品",
+      "需求",
+      "原型"
+    ],
+    "jd": "负责产品需求分析与设计，包括用户调研、竞品分析、原型设计、PRD 撰写等。",
+    "interview_themes": [
+      "AI 产品",
+      "LLM 应用",
+      "产品设计"
+    ],
+    "pass_score": 71,
+    "risk_score": 30,
+    "growth_score": 63
+  },
+  {
+    "id": "expanded-124",
+    "title": "数据分析实习生",
+    "company": "美团",
+    "city": "深圳",
+    "direction": "数据工程",
+    "stage": "实习",
+    "source": "synthetic",
+    "quality_score": 74,
+    "skills": [
+      "Python",
+      "Pandas",
+      "NumPy",
+      "数据清洗",
+      "数据可视化"
+    ],
+    "project_signals": [
+      "数据清洗",
+      "ETL",
+      "数据质量"
+    ],
+    "jd": "负责数据仓库建设，包括维度建模、ETL 开发、数据质量检测等。",
+    "interview_themes": [
+      "Spark 原理",
+      "Flink 流计算",
+      "实时计算"
+    ],
+    "pass_score": 52,
+    "risk_score": 44,
+    "growth_score": 62
+  },
+  {
+    "id": "expanded-125",
+    "title": "大数据开发实习生",
+    "company": "阿里",
+    "city": "北京",
+    "direction": "数据工程",
+    "stage": "实习",
+    "source": "synthetic",
+    "quality_score": 92,
+    "skills": [
+      "Tableau",
+      "Power BI",
+      "数据可视化",
+      "BI报表"
+    ],
+    "project_signals": [
+      "SQL",
+      "Hive",
+      "数据仓库"
+    ],
+    "jd": "负责数据仓库建设，包括维度建模、ETL 开发、数据质量检测等。",
+    "interview_themes": [
+      "Spark 原理",
+      "Flink 流计算",
+      "实时计算"
+    ],
+    "pass_score": 67,
+    "risk_score": 47,
+    "growth_score": 71
+  },
+  {
+    "id": "expanded-126",
+    "title": "推荐策略实习生",
+    "company": "网易云音乐",
+    "city": "深圳",
+    "direction": "推荐算法",
+    "stage": "实习",
+    "source": "synthetic",
+    "quality_score": 88,
+    "skills": [
+      "推荐系统",
+      "Transformer",
+      "召回",
+      "排序",
+      "Embedding",
+      "NDCG",
+      "PyTorch"
+    ],
+    "project_signals": [
+      "召回",
+      "排序",
+      "Embedding",
+      "评估"
+    ],
+    "jd": "负责推荐策略优化，包括多样性、新颖性、长期价值建模等。",
+    "interview_themes": [
+      "DeepFM/DIN",
+      "多任务学习",
+      "评估指标"
+    ],
+    "pass_score": 62,
+    "risk_score": 43,
+    "growth_score": 75
+  },
+  {
+    "id": "expanded-127",
+    "title": "推荐算法实习生",
+    "company": "腾讯广告",
+    "city": "上海",
+    "direction": "推荐算法",
+    "stage": "实习",
+    "source": "synthetic",
+    "quality_score": 95,
+    "skills": [
+      "协同过滤",
+      "矩阵分解",
+      "Item-CF",
+      "User-CF",
+      "图神经网络"
+    ],
+    "project_signals": [
+      "DeepFM",
+      "DIN",
+      "多任务"
+    ],
+    "jd": "参与多目标排序模型优化，负责 MMOE/PLE 模型改进与在线 A/B 测试。",
+    "interview_themes": [
+      "DeepFM/DIN",
+      "多任务学习",
+      "评估指标"
+    ],
+    "pass_score": 54,
+    "risk_score": 32,
+    "growth_score": 80
+  },
+  {
+    "id": "expanded-128",
+    "title": "CV算法实习生",
+    "company": "云从科技",
+    "city": "上海",
+    "direction": "计算机视觉",
+    "stage": "校招",
+    "source": "synthetic",
+    "quality_score": 84,
+    "skills": [
+      "U-Net",
+      "DeepLab",
+      "Mask2Former",
+      "图像分割"
+    ],
+    "project_signals": [
+      "ViT",
+      "Transformer",
+      "注意力机制"
+    ],
+    "jd": "负责视频理解算法研发，包括动作识别、时序建模、多模态融合等。",
+    "interview_themes": [
+      "模型压缩",
+      "推理优化",
+      "部署方案"
+    ],
+    "pass_score": 56,
+    "risk_score": 33,
+    "growth_score": 61
+  },
+  {
+    "id": "expanded-129",
+    "title": "大模型研发实习生",
+    "company": "百度智能云",
+    "city": "北京",
+    "direction": "大模型应用算法",
+    "stage": "校招",
+    "source": "synthetic",
+    "quality_score": 84,
+    "skills": [
+      "Prompt Engineering",
+      "Few-shot",
+      "Chain-of-Thought",
+      "ReAct",
+      "Function Calling"
+    ],
+    "project_signals": [
+      "推理优化",
+      "量化",
+      "vLLM",
+      "TensorRT"
+    ],
+    "jd": "负责 LLM 推理优化，包括量化、蒸馏、vLLM 部署等加速技术。",
+    "interview_themes": [
+      "SFT vs RLHF",
+      "LoRA 微调",
+      "模型评估指标"
+    ],
+    "pass_score": 47,
+    "risk_score": 51,
+    "growth_score": 77
+  },
+  {
+    "id": "expanded-130",
+    "title": "React前端实习生",
+    "company": "美团",
+    "city": "广州",
+    "direction": "前端开发",
+    "stage": "实习",
+    "source": "synthetic",
+    "quality_score": 81,
+    "skills": [
+      "性能优化",
+      "SSR",
+      "SSG",
+      "PWA",
+      "Web Vitals"
+    ],
+    "project_signals": [
+      "性能优化",
+      "SSR",
+      "PWA"
+    ],
+    "jd": "负责跨端方案落地，包括 React Native/Flutter 开发、性能调优等。",
+    "interview_themes": [
+      "前端性能优化",
+      "Web Vitals",
+      "缓存策略"
+    ],
+    "pass_score": 74,
+    "risk_score": 25,
+    "growth_score": 67
+  },
+  {
+    "id": "expanded-131",
+    "title": "Vue前端实习生",
+    "company": "字节跳动",
+    "city": "广州",
+    "direction": "前端开发",
+    "stage": "校招",
+    "source": "synthetic",
+    "quality_score": 77,
+    "skills": [
+      "性能优化",
+      "SSR",
+      "SSG",
+      "PWA",
+      "Web Vitals"
+    ],
+    "project_signals": [
+      "性能优化",
+      "SSR",
+      "PWA"
+    ],
+    "jd": "负责前端页面开发，包括组件设计、状态管理、性能优化等。",
+    "interview_themes": [
+      "前端性能优化",
+      "Web Vitals",
+      "缓存策略"
+    ],
+    "pass_score": 61,
+    "risk_score": 34,
+    "growth_score": 75
+  },
+  {
+    "id": "expanded-132",
+    "title": "ETL开发实习生",
+    "company": "阿里",
+    "city": "北京",
+    "direction": "数据工程",
+    "stage": "校招",
+    "source": "synthetic",
+    "quality_score": 94,
+    "skills": [
+      "SQL",
+      "Hive",
+      "Spark",
+      "Hadoop",
+      "数据仓库",
+      "ETL"
+    ],
+    "project_signals": [
+      "Spark",
+      "Flink",
+      "实时计算"
+    ],
+    "jd": "参与实时数据平台建设，包括流计算、消息队列、实时报表等。",
+    "interview_themes": [
+      "Spark 原理",
+      "Flink 流计算",
+      "实时计算"
+    ],
+    "pass_score": 70,
+    "risk_score": 37,
+    "growth_score": 68
+  },
+  {
+    "id": "expanded-133",
+    "title": "AI产品经理实习生",
+    "company": "字节跳动",
+    "city": "深圳",
+    "direction": "产品经理",
+    "stage": "实习",
+    "source": "synthetic",
+    "quality_score": 74,
+    "skills": [
+      "数据分析",
+      "SQL",
+      "AB测试",
+      "用户调研",
+      "竞品分析"
+    ],
+    "project_signals": [
+      "产品",
+      "需求",
+      "原型"
+    ],
+    "jd": "负责产品需求分析与设计，包括用户调研、竞品分析、原型设计、PRD 撰写等。",
+    "interview_themes": [
+      "AI 产品",
+      "LLM 应用",
+      "产品设计"
+    ],
+    "pass_score": 63,
+    "risk_score": 39,
+    "growth_score": 59
+  },
+  {
+    "id": "expanded-134",
+    "title": "后台产品实习生",
+    "company": "阿里",
+    "city": "上海",
+    "direction": "产品经理",
+    "stage": "实习",
+    "source": "synthetic",
+    "quality_score": 70,
+    "skills": [
+      "项目管理",
+      "敏捷开发",
+      "PRD文档",
+      "路线图规划"
+    ],
+    "project_signals": [
+      "AI",
+      "LLM",
+      "产品化"
+    ],
+    "jd": "负责 AI 产品落地，包括 LLM 应用设计、Prompt 优化、效果评估等。",
+    "interview_themes": [
+      "AI 产品",
+      "LLM 应用",
+      "产品设计"
+    ],
+    "pass_score": 74,
+    "risk_score": 20,
+    "growth_score": 64
+  },
+  {
+    "id": "expanded-135",
+    "title": "策略产品实习生",
+    "company": "字节跳动",
+    "city": "上海",
+    "direction": "产品经理",
+    "stage": "校招",
+    "source": "synthetic",
+    "quality_score": 77,
+    "skills": [
+      "项目管理",
+      "敏捷开发",
+      "PRD文档",
+      "路线图规划"
+    ],
+    "project_signals": [
+      "AI",
+      "LLM",
+      "产品化"
+    ],
+    "jd": "参与数据驱动的产品迭代，包括数据分析、AB 测试、效果评估等。",
+    "interview_themes": [
+      "产品思维",
+      "需求分析",
+      "竞品分析"
+    ],
+    "pass_score": 67,
+    "risk_score": 29,
+    "growth_score": 56
+  },
+  {
+    "id": "expanded-136",
+    "title": "ETL开发实习生",
+    "company": "字节跳动",
+    "city": "上海",
+    "direction": "数据工程",
+    "stage": "实习",
+    "source": "synthetic",
+    "quality_score": 89,
+    "skills": [
+      "Kafka",
+      "Flink",
+      "实时计算",
+      "流处理",
+      "消息队列"
+    ],
+    "project_signals": [
+      "数据清洗",
+      "ETL",
+      "数据质量"
+    ],
+    "jd": "负责数据分析与可视化，包括 OLAP 分析、BI 报表、数据产品等。",
+    "interview_themes": [
+      "数据治理",
+      "数据质量",
+      "元数据管理"
+    ],
+    "pass_score": 64,
+    "risk_score": 33,
+    "growth_score": 79
+  },
+  {
+    "id": "expanded-137",
+    "title": "CV算法实习生",
+    "company": "百度视觉",
+    "city": "成都",
+    "direction": "计算机视觉",
+    "stage": "实习",
+    "source": "synthetic",
+    "quality_score": 92,
+    "skills": [
+      "U-Net",
+      "DeepLab",
+      "Mask2Former",
+      "图像分割"
+    ],
+    "project_signals": [
+      "ViT",
+      "Transformer",
+      "注意力机制"
+    ],
+    "jd": "负责视频理解算法研发，包括动作识别、时序建模、多模态融合等。",
+    "interview_themes": [
+      "模型压缩",
+      "推理优化",
+      "部署方案"
+    ],
+    "pass_score": 57,
+    "risk_score": 30,
+    "growth_score": 60
+  },
+  {
+    "id": "expanded-138",
+    "title": "AIGC算法实习生",
+    "company": "华为诺亚",
+    "city": "上海",
+    "direction": "大模型应用算法",
+    "stage": "校招",
+    "source": "synthetic",
+    "quality_score": 71,
+    "skills": [
+      "LLM",
+      "RAG",
+      "Agent",
+      "Embedding",
+      "Python",
+      "Prompt",
+      "LangChain",
+      "FAISS"
+    ],
+    "project_signals": [
+      "RAG",
+      "Agent",
+      "Embedding",
+      "检索"
+    ],
+    "jd": "参与大模型训练与微调，负责数据清洗、SFT/RLHF 训练、模型评估。",
+    "interview_themes": [
+      "推理优化",
+      "量化算法",
+      "部署架构"
+    ],
+    "pass_score": 48,
+    "risk_score": 43,
+    "growth_score": 81
+  },
+  {
+    "id": "expanded-139",
+    "title": "跨端开发实习生",
+    "company": "快手",
+    "city": "北京",
+    "direction": "前端开发",
+    "stage": "校招",
+    "source": "synthetic",
+    "quality_score": 87,
+    "skills": [
+      "React",
+      "Vue",
+      "TypeScript",
+      "Next.js",
+      "Webpack",
+      "Vite"
+    ],
+    "project_signals": [
+      "React",
+      "Vue",
+      "组件化"
+    ],
+    "jd": "负责前端页面开发，包括组件设计、状态管理、性能优化等。",
+    "interview_themes": [
+      "工程化",
+      "Webpack/Vite",
+      "CI/CD"
+    ],
+    "pass_score": 78,
+    "risk_score": 39,
+    "growth_score": 64
+  },
+  {
+    "id": "expanded-140",
+    "title": "AI产品经理实习生",
+    "company": "京东",
+    "city": "北京",
+    "direction": "产品经理",
+    "stage": "实习",
+    "source": "synthetic",
+    "quality_score": 91,
+    "skills": [
+      "项目管理",
+      "敏捷开发",
+      "PRD文档",
+      "路线图规划"
+    ],
+    "project_signals": [
+      "AI",
+      "LLM",
+      "产品化"
+    ],
+    "jd": "负责产品需求分析与设计，包括用户调研、竞品分析、原型设计、PRD 撰写等。",
+    "interview_themes": [
+      "产品思维",
+      "需求分析",
+      "竞品分析"
+    ],
+    "pass_score": 64,
+    "risk_score": 21,
+    "growth_score": 60
+  },
+  {
+    "id": "expanded-141",
+    "title": "排序算法实习生",
+    "company": "京东零售",
+    "city": "上海",
+    "direction": "推荐算法",
+    "stage": "校招",
+    "source": "synthetic",
+    "quality_score": 93,
+    "skills": [
+      "在线学习",
+      "Bandit",
+      "强化学习",
+      "DQN",
+      "Slate推荐"
+    ],
+    "project_signals": [
+      "召回",
+      "排序",
+      "Embedding",
+      "评估"
+    ],
+    "jd": "负责推荐系统召回/排序算法研发，包括模型设计、特征工程、在线实验等。",
+    "interview_themes": [
+      "召回算法",
+      "排序模型",
+      "Embedding 技术"
+    ],
+    "pass_score": 67,
+    "risk_score": 33,
+    "growth_score": 78
+  },
+  {
+    "id": "expanded-142",
+    "title": "大数据开发实习生",
+    "company": "腾讯",
+    "city": "上海",
+    "direction": "数据工程",
+    "stage": "实习",
+    "source": "synthetic",
+    "quality_score": 83,
+    "skills": [
+      "Kafka",
+      "Flink",
+      "实时计算",
+      "流处理",
+      "消息队列"
+    ],
+    "project_signals": [
+      "Spark",
+      "Flink",
+      "实时计算"
+    ],
+    "jd": "负责数据分析与可视化，包括 OLAP 分析、BI 报表、数据产品等。",
+    "interview_themes": [
+      "Spark 原理",
+      "Flink 流计算",
+      "实时计算"
+    ],
+    "pass_score": 70,
+    "risk_score": 36,
+    "growth_score": 73
+  },
+  {
+    "id": "expanded-143",
+    "title": "UI开发实习生",
+    "company": "阿里",
+    "city": "杭州",
+    "direction": "前端开发",
+    "stage": "校招",
+    "source": "synthetic",
+    "quality_score": 83,
+    "skills": [
+      "跨端开发",
+      "React Native",
+      "Flutter",
+      "Taro",
+      "Uni-app"
+    ],
+    "project_signals": [
+      "React",
+      "Vue",
+      "组件化"
+    ],
+    "jd": "负责前端页面开发，包括组件设计、状态管理、性能优化等。",
+    "interview_themes": [
+      "工程化",
+      "Webpack/Vite",
+      "CI/CD"
+    ],
+    "pass_score": 58,
+    "risk_score": 38,
+    "growth_score": 56
+  },
+  {
+    "id": "expanded-144",
+    "title": "后端开发实习生",
+    "company": "阿里",
+    "city": "深圳",
+    "direction": "后端开发",
+    "stage": "校招",
+    "source": "synthetic",
+    "quality_score": 77,
+    "skills": [
+      "Python",
+      "Flask",
+      "Django",
+      "FastAPI",
+      "MySQL",
+      "Redis"
+    ],
+    "project_signals": [
+      "gRPC",
+      "K8s",
+      "容器化"
+    ],
+    "jd": "负责系统性能优化，包括慢查询优化、缓存设计、异步处理等。",
+    "interview_themes": [
+      "数据结构",
+      "算法",
+      "系统设计"
+    ],
+    "pass_score": 73,
+    "risk_score": 26,
+    "growth_score": 63
+  },
+  {
+    "id": "expanded-145",
+    "title": "推荐算法实习生",
+    "company": "字节跳动",
+    "city": "杭州",
+    "direction": "推荐算法",
+    "stage": "实习",
+    "source": "synthetic",
+    "quality_score": 75,
+    "skills": [
+      "在线学习",
+      "Bandit",
+      "强化学习",
+      "DQN",
+      "Slate推荐"
+    ],
+    "project_signals": [
+      "在线学习",
+      "Bandit"
+    ],
+    "jd": "负责推荐系统召回/排序算法研发，包括模型设计、特征工程、在线实验等。",
+    "interview_themes": [
+      "在线实验",
+      "A/B 测试",
+      "因果推断"
+    ],
+    "pass_score": 59,
+    "risk_score": 45,
+    "growth_score": 62
+  },
+  {
+    "id": "expanded-146",
+    "title": "大模型推理优化实习生",
+    "company": "字节跳动AI Lab",
+    "city": "北京",
+    "direction": "大模型应用算法",
+    "stage": "校招",
+    "source": "synthetic",
+    "quality_score": 72,
+    "skills": [
+      "Prompt Engineering",
+      "Few-shot",
+      "Chain-of-Thought",
+      "ReAct",
+      "Function Calling"
+    ],
+    "project_signals": [
+      "SFT",
+      "微调",
+      "LoRA",
+      "QLoRA"
+    ],
+    "jd": "参与大模型训练与微调，负责数据清洗、SFT/RLHF 训练、模型评估。",
+    "interview_themes": [
+      "SFT vs RLHF",
+      "LoRA 微调",
+      "模型评估指标"
+    ],
+    "pass_score": 49,
+    "risk_score": 42,
+    "growth_score": 65
+  },
+  {
+    "id": "expanded-147",
+    "title": "排序算法实习生",
+    "company": "美团",
+    "city": "上海",
+    "direction": "推荐算法",
+    "stage": "实习",
+    "source": "synthetic",
+    "quality_score": 85,
+    "skills": [
+      "在线学习",
+      "Bandit",
+      "强化学习",
+      "DQN",
+      "Slate推荐"
+    ],
+    "project_signals": [
+      "在线学习",
+      "Bandit"
+    ],
+    "jd": "负责推荐策略优化，包括多样性、新颖性、长期价值建模等。",
+    "interview_themes": [
+      "DeepFM/DIN",
+      "多任务学习",
+      "评估指标"
+    ],
+    "pass_score": 65,
+    "risk_score": 49,
+    "growth_score": 76
+  },
+  {
+    "id": "expanded-148",
+    "title": "用户产品实习生",
+    "company": "快手",
+    "city": "上海",
+    "direction": "产品经理",
+    "stage": "实习",
+    "source": "synthetic",
+    "quality_score": 86,
+    "skills": [
+      "数据分析",
+      "SQL",
+      "AB测试",
+      "用户调研",
+      "竞品分析"
+    ],
+    "project_signals": [
+      "数据分析",
+      "AB测试"
+    ],
+    "jd": "负责 AI 产品落地，包括 LLM 应用设计、Prompt 优化、效果评估等。",
+    "interview_themes": [
+      "数据分析",
+      "AB 测试",
+      "指标设计"
+    ],
+    "pass_score": 61,
+    "risk_score": 34,
+    "growth_score": 65
+  },
+  {
+    "id": "expanded-149",
+    "title": "大模型应用算法实习生",
+    "company": "旷视科技",
+    "city": "杭州",
+    "direction": "大模型应用算法",
+    "stage": "实习",
+    "source": "synthetic",
+    "quality_score": 77,
+    "skills": [
+      "LLM",
+      "RAG",
+      "Agent",
+      "Embedding",
+      "Python",
+      "Prompt",
+      "LangChain",
+      "FAISS"
+    ],
+    "project_signals": [
+      "RAG",
+      "Agent",
+      "Embedding",
+      "检索"
+    ],
+    "jd": "负责大模型应用开发，包括 RAG 检索增强、Agent 工具调用、Prompt 优化等。",
+    "interview_themes": [
+      "RAG 召回与重排",
+      "Agent 工具调用",
+      "Prompt 工程"
+    ],
+    "pass_score": 56,
+    "risk_score": 45,
+    "growth_score": 73
+  },
+  {
+    "id": "expanded-150",
+    "title": "推荐策略实习生",
+    "company": "美团",
+    "city": "深圳",
+    "direction": "推荐算法",
+    "stage": "校招",
+    "source": "synthetic",
+    "quality_score": 79,
+    "skills": [
+      "DeepFM",
+      "DIN",
+      "DIEN",
+      "Multi-task",
+      "MMOE",
+      "PLE"
+    ],
+    "project_signals": [
+      "在线学习",
+      "Bandit"
+    ],
+    "jd": "负责推荐策略优化，包括多样性、新颖性、长期价值建模等。",
+    "interview_themes": [
+      "召回算法",
+      "排序模型",
+      "Embedding 技术"
+    ],
+    "pass_score": 68,
+    "risk_score": 52,
+    "growth_score": 73
+  },
+  {
+    "id": "expanded-151",
+    "title": "数据仓库实习生",
+    "company": "京东",
+    "city": "北京",
+    "direction": "数据工程",
+    "stage": "校招",
+    "source": "synthetic",
+    "quality_score": 87,
+    "skills": [
+      "Tableau",
+      "Power BI",
+      "数据可视化",
+      "BI报表"
+    ],
+    "project_signals": [
+      "SQL",
+      "Hive",
+      "数据仓库"
+    ],
+    "jd": "负责数据仓库建设，包括维度建模、ETL 开发、数据质量检测等。",
+    "interview_themes": [
+      "Spark 原理",
+      "Flink 流计算",
+      "实时计算"
+    ],
+    "pass_score": 55,
+    "risk_score": 43,
+    "growth_score": 69
+  },
+  {
+    "id": "expanded-152",
+    "title": "视频理解实习生",
+    "company": "腾讯优图",
+    "city": "北京",
+    "direction": "计算机视觉",
+    "stage": "实习",
+    "source": "synthetic",
+    "quality_score": 84,
+    "skills": [
+      "ResNet",
+      "CNN",
+      "Vision Transformer",
+      "Swin Transformer",
+      "PyTorch"
+    ],
+    "project_signals": [
+      "视频理解",
+      "时序建模"
+    ],
+    "jd": "参与目标检测/图像分割算法研发，负责模型训练、推理优化、数据增强等。",
+    "interview_themes": [
+      "模型压缩",
+      "推理优化",
+      "部署方案"
+    ],
+    "pass_score": 60,
+    "risk_score": 39,
+    "growth_score": 69
+  },
+  {
+    "id": "expanded-153",
+    "title": "Prompt Engineering实习生",
+    "company": "腾讯云智能",
+    "city": "北京",
+    "direction": "大模型应用算法",
+    "stage": "校招",
+    "source": "synthetic",
+    "quality_score": 81,
+    "skills": [
+      "PyTorch",
+      "Transformer",
+      "SFT",
+      "RLHF",
+      "DeepSpeed",
+      "vLLM"
+    ],
+    "project_signals": [
+      "RAG",
+      "Agent",
+      "Embedding",
+      "检索"
+    ],
+    "jd": "参与大模型训练与微调，负责数据清洗、SFT/RLHF 训练、模型评估。",
+    "interview_themes": [
+      "SFT vs RLHF",
+      "LoRA 微调",
+      "模型评估指标"
+    ],
+    "pass_score": 45,
+    "risk_score": 49,
+    "growth_score": 74
+  },
+  {
+    "id": "expanded-154",
+    "title": "数据开发实习生",
+    "company": "美团",
+    "city": "杭州",
+    "direction": "数据工程",
+    "stage": "实习",
+    "source": "synthetic",
+    "quality_score": 73,
+    "skills": [
+      "Python",
+      "Pandas",
+      "NumPy",
+      "数据清洗",
+      "数据可视化"
+    ],
+    "project_signals": [
+      "Spark",
+      "Flink",
+      "实时计算"
+    ],
+    "jd": "负责数据分析与可视化，包括 OLAP 分析、BI 报表、数据产品等。",
+    "interview_themes": [
+      "Spark 原理",
+      "Flink 流计算",
+      "实时计算"
+    ],
+    "pass_score": 66,
+    "risk_score": 38,
+    "growth_score": 69
+  },
+  {
+    "id": "expanded-155",
+    "title": "LLM算法实习生",
+    "company": "旷视科技",
+    "city": "北京",
+    "direction": "大模型应用算法",
+    "stage": "校招",
+    "source": "synthetic",
+    "quality_score": 70,
+    "skills": [
+      "Prompt Engineering",
+      "Few-shot",
+      "Chain-of-Thought",
+      "ReAct",
+      "Function Calling"
+    ],
+    "project_signals": [
+      "SFT",
+      "微调",
+      "LoRA",
+      "QLoRA"
+    ],
+    "jd": "负责 LLM 推理优化，包括量化、蒸馏、vLLM 部署等加速技术。",
+    "interview_themes": [
+      "推理优化",
+      "量化算法",
+      "部署架构"
+    ],
+    "pass_score": 46,
+    "risk_score": 51,
+    "growth_score": 81
+  },
+  {
+    "id": "expanded-156",
+    "title": "服务端开发实习生",
+    "company": "字节跳动",
+    "city": "深圳",
+    "direction": "后端开发",
+    "stage": "校招",
+    "source": "synthetic",
+    "quality_score": 78,
+    "skills": [
+      "Go",
+      "Gin",
+      "Beego",
+      "gRPC",
+      "etcd",
+      "Kubernetes"
+    ],
+    "project_signals": [
+      "gRPC",
+      "K8s",
+      "容器化"
+    ],
+    "jd": "负责后端服务设计与开发，包括 API 设计、数据库优化、缓存策略等。",
+    "interview_themes": [
+      "微服务架构",
+      "分布式一致性",
+      "CAP 理论"
+    ],
+    "pass_score": 73,
+    "risk_score": 25,
+    "growth_score": 67
+  },
+  {
+    "id": "expanded-157",
+    "title": "分布式系统实习生",
+    "company": "字节跳动",
+    "city": "北京",
+    "direction": "后端开发",
+    "stage": "校招",
+    "source": "synthetic",
+    "quality_score": 92,
+    "skills": [
+      "Go",
+      "Gin",
+      "Beego",
+      "gRPC",
+      "etcd",
+      "Kubernetes"
+    ],
+    "project_signals": [
+      "gRPC",
+      "K8s",
+      "容器化"
+    ],
+    "jd": "负责后端服务设计与开发，包括 API 设计、数据库优化、缓存策略等。",
+    "interview_themes": [
+      "微服务架构",
+      "分布式一致性",
+      "CAP 理论"
+    ],
+    "pass_score": 57,
+    "risk_score": 29,
+    "growth_score": 62
+  },
+  {
+    "id": "expanded-158",
+    "title": "数据仓库实习生",
+    "company": "网易",
+    "city": "北京",
+    "direction": "数据工程",
+    "stage": "实习",
+    "source": "synthetic",
+    "quality_score": 86,
+    "skills": [
+      "Tableau",
+      "Power BI",
+      "数据可视化",
+      "BI报表"
+    ],
+    "project_signals": [
+      "SQL",
+      "Hive",
+      "数据仓库"
+    ],
+    "jd": "参与实时数据平台建设，包括流计算、消息队列、实时报表等。",
+    "interview_themes": [
+      "SQL 优化",
+      "Hive 原理",
+      "数据仓库建模"
+    ],
+    "pass_score": 63,
+    "risk_score": 29,
+    "growth_score": 63
+  },
+  {
+    "id": "expanded-159",
+    "title": "前端开发实习生",
+    "company": "网易",
+    "city": "杭州",
+    "direction": "前端开发",
+    "stage": "校招",
+    "source": "synthetic",
+    "quality_score": 75,
+    "skills": [
+      "性能优化",
+      "SSR",
+      "SSG",
+      "PWA",
+      "Web Vitals"
+    ],
+    "project_signals": [
+      "跨端",
+      "移动端",
+      "小程序"
+    ],
+    "jd": "负责前端页面开发，包括组件设计、状态管理、性能优化等。",
+    "interview_themes": [
+      "React/Vue 原理",
+      "虚拟DOM",
+      "Diff算法"
+    ],
+    "pass_score": 58,
+    "risk_score": 40,
+    "growth_score": 73
+  },
+  {
+    "id": "expanded-160",
+    "title": "计算机视觉算法实习生",
+    "company": "依图科技",
+    "city": "成都",
+    "direction": "计算机视觉",
+    "stage": "校招",
+    "source": "synthetic",
+    "quality_score": 79,
+    "skills": [
+      "ResNet",
+      "CNN",
+      "Vision Transformer",
+      "Swin Transformer",
+      "PyTorch"
+    ],
+    "project_signals": [
+      "视频理解",
+      "时序建模"
+    ],
+    "jd": "参与 CV 模型压缩与加速，包括剪枝、量化、蒸馏、TensorRT 部署等。",
+    "interview_themes": [
+      "模型压缩",
+      "推理优化",
+      "部署方案"
+    ],
+    "pass_score": 69,
+    "risk_score": 44,
+    "growth_score": 79
+  },
+  {
+    "id": "expanded-161",
+    "title": "LLM算法实习生",
+    "company": "商汤科技",
+    "city": "杭州",
+    "direction": "大模型应用算法",
+    "stage": "实习",
+    "source": "synthetic",
+    "quality_score": 73,
+    "skills": [
+      "Prompt Engineering",
+      "Few-shot",
+      "Chain-of-Thought",
+      "ReAct",
+      "Function Calling"
+    ],
+    "project_signals": [
+      "RAG",
+      "Agent",
+      "Embedding",
+      "检索"
+    ],
+    "jd": "负责大模型应用开发，包括 RAG 检索增强、Agent 工具调用、Prompt 优化等。",
+    "interview_themes": [
+      "SFT vs RLHF",
+      "LoRA 微调",
+      "模型评估指标"
+    ],
+    "pass_score": 45,
+    "risk_score": 55,
+    "growth_score": 82
+  },
+  {
+    "id": "expanded-162",
+    "title": "大数据开发实习生",
+    "company": "腾讯",
+    "city": "杭州",
+    "direction": "数据工程",
+    "stage": "校招",
+    "source": "synthetic",
+    "quality_score": 78,
+    "skills": [
+      "Python",
+      "Pandas",
+      "NumPy",
+      "数据清洗",
+      "数据可视化"
+    ],
+    "project_signals": [
+      "SQL",
+      "Hive",
+      "数据仓库"
+    ],
+    "jd": "负责数据分析与可视化，包括 OLAP 分析、BI 报表、数据产品等。",
+    "interview_themes": [
+      "SQL 优化",
+      "Hive 原理",
+      "数据仓库建模"
+    ],
+    "pass_score": 70,
+    "risk_score": 31,
+    "growth_score": 73
+  },
+  {
+    "id": "expanded-163",
+    "title": "Python后端实习生",
+    "company": "字节跳动",
+    "city": "北京",
+    "direction": "后端开发",
+    "stage": "校招",
+    "source": "synthetic",
+    "quality_score": 76,
+    "skills": [
+      "Go",
+      "Gin",
+      "Beego",
+      "gRPC",
+      "etcd",
+      "Kubernetes"
+    ],
+    "project_signals": [
+      "后端",
+      "API",
+      "数据库"
+    ],
+    "jd": "负责系统性能优化，包括慢查询优化、缓存设计、异步处理等。",
+    "interview_themes": [
+      "数据结构",
+      "算法",
+      "系统设计"
+    ],
+    "pass_score": 61,
+    "risk_score": 41,
+    "growth_score": 73
+  },
+  {
+    "id": "expanded-164",
+    "title": "图像分割实习生",
+    "company": "百度视觉",
+    "city": "深圳",
+    "direction": "计算机视觉",
+    "stage": "校招",
+    "source": "synthetic",
+    "quality_score": 84,
+    "skills": [
+      "YOLO",
+      "Faster R-CNN",
+      "Mask R-CNN",
+      "DETR",
+      "目标检测"
+    ],
+    "project_signals": [
+      "ViT",
+      "Transformer",
+      "注意力机制"
+    ],
+    "jd": "负责视频理解算法研发，包括动作识别、时序建模、多模态融合等。",
+    "interview_themes": [
+      "CNN 架构",
+      "ViT 原理",
+      "检测算法"
+    ],
+    "pass_score": 70,
+    "risk_score": 49,
+    "growth_score": 75
+  },
+  {
+    "id": "expanded-165",
+    "title": "CV算法实习生",
+    "company": "商汤科技",
+    "city": "杭州",
+    "direction": "计算机视觉",
+    "stage": "校招",
+    "source": "synthetic",
+    "quality_score": 72,
+    "skills": [
+      "时序模型",
+      "SlowFast",
+      "Video Transformer",
+      "视频理解"
+    ],
+    "project_signals": [
+      "视频理解",
+      "时序建模"
+    ],
+    "jd": "参与 CV 模型压缩与加速，包括剪枝、量化、蒸馏、TensorRT 部署等。",
+    "interview_themes": [
+      "模型压缩",
+      "推理优化",
+      "部署方案"
+    ],
+    "pass_score": 57,
+    "risk_score": 35,
+    "growth_score": 63
+  },
+  {
+    "id": "expanded-166",
+    "title": "用户产品实习生",
+    "company": "京东",
+    "city": "上海",
+    "direction": "产品经理",
+    "stage": "校招",
+    "source": "synthetic",
+    "quality_score": 94,
+    "skills": [
+      "AI产品",
+      "LLM应用",
+      "Prompt Engineering",
+      "AI产品设计"
+    ],
+    "project_signals": [
+      "AI",
+      "LLM",
+      "产品化"
+    ],
+    "jd": "参与数据驱动的产品迭代，包括数据分析、AB 测试、效果评估等。",
+    "interview_themes": [
+      "数据分析",
+      "AB 测试",
+      "指标设计"
+    ],
+    "pass_score": 78,
+    "risk_score": 27,
+    "growth_score": 58
+  },
+  {
+    "id": "expanded-167",
+    "title": "图像算法实习生",
+    "company": "云从科技",
+    "city": "北京",
+    "direction": "计算机视觉",
+    "stage": "校招",
+    "source": "synthetic",
+    "quality_score": 94,
+    "skills": [
+      "ResNet",
+      "CNN",
+      "Vision Transformer",
+      "Swin Transformer",
+      "PyTorch"
+    ],
+    "project_signals": [
+      "分类",
+      "检测",
+      "分割",
+      "CNN"
+    ],
+    "jd": "负责视频理解算法研发，包括动作识别、时序建模、多模态融合等。",
+    "interview_themes": [
+      "CNN 架构",
+      "ViT 原理",
+      "检测算法"
+    ],
+    "pass_score": 69,
+    "risk_score": 37,
+    "growth_score": 79
+  },
+  {
+    "id": "expanded-168",
+    "title": "Prompt Engineering实习生",
+    "company": "阿里达摩院",
+    "city": "上海",
+    "direction": "大模型应用算法",
+    "stage": "实习",
+    "source": "synthetic",
+    "quality_score": 89,
+    "skills": [
+      "Prompt Engineering",
+      "Few-shot",
+      "Chain-of-Thought",
+      "ReAct",
+      "Function Calling"
+    ],
+    "project_signals": [
+      "SFT",
+      "微调",
+      "LoRA",
+      "QLoRA"
+    ],
+    "jd": "负责大模型应用开发，包括 RAG 检索增强、Agent 工具调用、Prompt 优化等。",
+    "interview_themes": [
+      "推理优化",
+      "量化算法",
+      "部署架构"
+    ],
+    "pass_score": 50,
+    "risk_score": 54,
+    "growth_score": 85
+  },
+  {
+    "id": "expanded-169",
+    "title": "服务端开发实习生",
+    "company": "快手",
+    "city": "北京",
+    "direction": "后端开发",
+    "stage": "校招",
+    "source": "synthetic",
+    "quality_score": 73,
+    "skills": [
+      "Go",
+      "Gin",
+      "Beego",
+      "gRPC",
+      "etcd",
+      "Kubernetes"
+    ],
+    "project_signals": [
+      "微服务",
+      "分布式",
+      "缓存"
+    ],
+    "jd": "负责后端服务设计与开发，包括 API 设计、数据库优化、缓存策略等。",
+    "interview_themes": [
+      "数据结构",
+      "算法",
+      "系统设计"
+    ],
+    "pass_score": 66,
+    "risk_score": 38,
+    "growth_score": 62
+  },
+  {
+    "id": "expanded-170",
+    "title": "文本挖掘实习生",
+    "company": "华为诺亚",
+    "city": "北京",
+    "direction": "自然语言处理",
+    "stage": "校招",
+    "source": "synthetic",
+    "quality_score": 80,
+    "skills": [
+      "命名实体识别",
+      "关系抽取",
+      "事件抽取",
+      "信息抽取"
+    ],
+    "project_signals": [
+      "翻译",
+      "生成",
+      "GPT"
+    ],
+    "jd": "负责机器翻译/文本生成算法优化，包括模型改进、数据增强、评估指标设计等。",
+    "interview_themes": [
+      "信息抽取",
+      "序列标注",
+      "关系抽取"
+    ],
+    "pass_score": 53,
+    "risk_score": 35,
+    "growth_score": 79
+  },
+  {
+    "id": "expanded-171",
+    "title": "UI开发实习生",
+    "company": "美团",
+    "city": "北京",
+    "direction": "前端开发",
+    "stage": "实习",
+    "source": "synthetic",
+    "quality_score": 85,
+    "skills": [
+      "跨端开发",
+      "React Native",
+      "Flutter",
+      "Taro",
+      "Uni-app"
+    ],
+    "project_signals": [
+      "React",
+      "Vue",
+      "组件化"
+    ],
+    "jd": "负责前端页面开发，包括组件设计、状态管理、性能优化等。",
+    "interview_themes": [
+      "前端性能优化",
+      "Web Vitals",
+      "缓存策略"
+    ],
+    "pass_score": 61,
+    "risk_score": 39,
+    "growth_score": 57
+  },
+  {
+    "id": "expanded-172",
+    "title": "LLM算法实习生",
+    "company": "百度智能云",
+    "city": "深圳",
+    "direction": "大模型应用算法",
+    "stage": "实习",
+    "source": "synthetic",
+    "quality_score": 72,
+    "skills": [
+      "向量数据库",
+      "Milvus",
+      "Chroma",
+      "Hybrid Search",
+      "Rerank"
+    ],
+    "project_signals": [
+      "SFT",
+      "微调",
+      "LoRA",
+      "QLoRA"
+    ],
+    "jd": "负责 LLM 推理优化，包括量化、蒸馏、vLLM 部署等加速技术。",
+    "interview_themes": [
+      "SFT vs RLHF",
+      "LoRA 微调",
+      "模型评估指标"
+    ],
+    "pass_score": 53,
+    "risk_score": 46,
+    "growth_score": 78
+  },
+  {
+    "id": "expanded-173",
+    "title": "ETL开发实习生",
+    "company": "阿里",
+    "city": "上海",
+    "direction": "数据工程",
+    "stage": "实习",
+    "source": "synthetic",
+    "quality_score": 86,
+    "skills": [
+      "SQL",
+      "Hive",
+      "Spark",
+      "Hadoop",
+      "数据仓库",
+      "ETL"
+    ],
+    "project_signals": [
+      "SQL",
+      "Hive",
+      "数据仓库"
+    ],
+    "jd": "负责数据仓库建设，包括维度建模、ETL 开发、数据质量检测等。",
+    "interview_themes": [
+      "数据治理",
+      "数据质量",
+      "元数据管理"
+    ],
+    "pass_score": 68,
+    "risk_score": 31,
+    "growth_score": 61
+  },
+  {
+    "id": "expanded-174",
+    "title": "文本生成实习生",
+    "company": "科大讯飞",
+    "city": "合肥",
+    "direction": "自然语言处理",
+    "stage": "实习",
+    "source": "synthetic",
+    "quality_score": 75,
+    "skills": [
+      "命名实体识别",
+      "关系抽取",
+      "事件抽取",
+      "信息抽取"
+    ],
+    "project_signals": [
+      "分类",
+      "情感",
+      "句向量"
+    ],
+    "jd": "负责机器翻译/文本生成算法优化，包括模型改进、数据增强、评估指标设计等。",
+    "interview_themes": [
+      "BERT/GPT",
+      "微调方法",
+      "Prompt 设计"
+    ],
+    "pass_score": 60,
+    "risk_score": 45,
+    "growth_score": 77
+  },
+  {
+    "id": "expanded-175",
+    "title": "大模型推理优化实习生",
+    "company": "阿里达摩院",
+    "city": "杭州",
+    "direction": "大模型应用算法",
+    "stage": "实习",
+    "source": "synthetic",
+    "quality_score": 73,
+    "skills": [
+      "LLM",
+      "RAG",
+      "Agent",
+      "Embedding",
+      "Python",
+      "Prompt",
+      "LangChain",
+      "FAISS"
+    ],
+    "project_signals": [
+      "推理优化",
+      "量化",
+      "vLLM",
+      "TensorRT"
+    ],
+    "jd": "负责 LLM 推理优化，包括量化、蒸馏、vLLM 部署等加速技术。",
+    "interview_themes": [
+      "RAG 召回与重排",
+      "Agent 工具调用",
+      "Prompt 工程"
+    ],
+    "pass_score": 57,
+    "risk_score": 36,
+    "growth_score": 71
+  },
+  {
+    "id": "expanded-176",
+    "title": "数据平台实习生",
+    "company": "网易",
+    "city": "北京",
+    "direction": "数据工程",
+    "stage": "校招",
+    "source": "synthetic",
+    "quality_score": 85,
+    "skills": [
+      "SQL",
+      "Hive",
+      "Spark",
+      "Hadoop",
+      "数据仓库",
+      "ETL"
+    ],
+    "project_signals": [
+      "SQL",
+      "Hive",
+      "数据仓库"
+    ],
+    "jd": "参与实时数据平台建设，包括流计算、消息队列、实时报表等。",
+    "interview_themes": [
+      "Spark 原理",
+      "Flink 流计算",
+      "实时计算"
+    ],
+    "pass_score": 56,
+    "risk_score": 46,
+    "growth_score": 64
+  },
+  {
+    "id": "expanded-177",
+    "title": "目标检测实习生",
+    "company": "商汤科技",
+    "city": "成都",
+    "direction": "计算机视觉",
+    "stage": "校招",
+    "source": "synthetic",
+    "quality_score": 95,
+    "skills": [
+      "ResNet",
+      "CNN",
+      "Vision Transformer",
+      "Swin Transformer",
+      "PyTorch"
+    ],
+    "project_signals": [
+      "视频理解",
+      "时序建模"
+    ],
+    "jd": "参与目标检测/图像分割算法研发，负责模型训练、推理优化、数据增强等。",
+    "interview_themes": [
+      "模型压缩",
+      "推理优化",
+      "部署方案"
+    ],
+    "pass_score": 64,
+    "risk_score": 33,
+    "growth_score": 70
+  },
+  {
+    "id": "expanded-178",
+    "title": "策略产品实习生",
+    "company": "网易",
+    "city": "杭州",
+    "direction": "产品经理",
+    "stage": "校招",
+    "source": "synthetic",
+    "quality_score": 88,
+    "skills": [
+      "AI产品",
+      "LLM应用",
+      "Prompt Engineering",
+      "AI产品设计"
+    ],
+    "project_signals": [
+      "数据分析",
+      "AB测试"
+    ],
+    "jd": "负责产品需求分析与设计，包括用户调研、竞品分析、原型设计、PRD 撰写等。",
+    "interview_themes": [
+      "数据分析",
+      "AB 测试",
+      "指标设计"
+    ],
+    "pass_score": 80,
+    "risk_score": 20,
+    "growth_score": 67
+  },
+  {
+    "id": "expanded-179",
+    "title": "产品经理实习生",
+    "company": "京东",
+    "city": "上海",
+    "direction": "产品经理",
+    "stage": "校招",
+    "source": "synthetic",
+    "quality_score": 78,
+    "skills": [
+      "产品设计",
+      "需求分析",
+      "原型设计",
+      "Axure",
+      "Figma"
+    ],
+    "project_signals": [
+      "产品",
+      "需求",
+      "原型"
+    ],
+    "jd": "负责产品需求分析与设计，包括用户调研、竞品分析、原型设计、PRD 撰写等。",
+    "interview_themes": [
+      "产品思维",
+      "需求分析",
+      "竞品分析"
+    ],
+    "pass_score": 75,
+    "risk_score": 39,
+    "growth_score": 50
+  },
+  {
+    "id": "expanded-180",
+    "title": "AIGC算法实习生",
+    "company": "美团AI平台",
+    "city": "北京",
+    "direction": "大模型应用算法",
+    "stage": "实习",
+    "source": "synthetic",
+    "quality_score": 83,
+    "skills": [
+      "PyTorch",
+      "Transformer",
+      "SFT",
+      "RLHF",
+      "DeepSpeed",
+      "vLLM"
+    ],
+    "project_signals": [
+      "SFT",
+      "微调",
+      "LoRA",
+      "QLoRA"
+    ],
+    "jd": "负责大模型应用开发，包括 RAG 检索增强、Agent 工具调用、Prompt 优化等。",
+    "interview_themes": [
+      "SFT vs RLHF",
+      "LoRA 微调",
+      "模型评估指标"
+    ],
+    "pass_score": 47,
+    "risk_score": 43,
+    "growth_score": 68
+  },
+  {
+    "id": "expanded-181",
+    "title": "分布式系统实习生",
+    "company": "网易",
+    "city": "上海",
+    "direction": "后端开发",
+    "stage": "校招",
+    "source": "synthetic",
+    "quality_score": 75,
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "MyBatis",
+      "MySQL",
+      "Redis",
+      "Kafka"
+    ],
+    "project_signals": [
+      "gRPC",
+      "K8s",
+      "容器化"
+    ],
+    "jd": "负责系统性能优化，包括慢查询优化、缓存设计、异步处理等。",
+    "interview_themes": [
+      "数据结构",
+      "算法",
+      "系统设计"
+    ],
+    "pass_score": 73,
+    "risk_score": 38,
+    "growth_score": 60
+  },
+  {
+    "id": "expanded-182",
+    "title": "CV算法实习生",
+    "company": "阿里达摩院",
+    "city": "上海",
+    "direction": "计算机视觉",
+    "stage": "校招",
+    "source": "synthetic",
+    "quality_score": 82,
+    "skills": [
+      "YOLO",
+      "Faster R-CNN",
+      "Mask R-CNN",
+      "DETR",
+      "目标检测"
+    ],
+    "project_signals": [
+      "分类",
+      "检测",
+      "分割",
+      "CNN"
+    ],
+    "jd": "参与 CV 模型压缩与加速，包括剪枝、量化、蒸馏、TensorRT 部署等。",
+    "interview_themes": [
+      "模型压缩",
+      "推理优化",
+      "部署方案"
+    ],
+    "pass_score": 55,
+    "risk_score": 37,
+    "growth_score": 62
+  },
+  {
+    "id": "expanded-183",
+    "title": "数据仓库实习生",
+    "company": "字节跳动",
+    "city": "杭州",
+    "direction": "数据工程",
+    "stage": "实习",
+    "source": "synthetic",
+    "quality_score": 73,
+    "skills": [
+      "Tableau",
+      "Power BI",
+      "数据可视化",
+      "BI报表"
+    ],
+    "project_signals": [
+      "数据清洗",
+      "ETL",
+      "数据质量"
+    ],
+    "jd": "负责数据分析与可视化，包括 OLAP 分析、BI 报表、数据产品等。",
+    "interview_themes": [
+      "数据治理",
+      "数据质量",
+      "元数据管理"
+    ],
+    "pass_score": 57,
+    "risk_score": 29,
+    "growth_score": 77
+  },
+  {
+    "id": "expanded-184",
+    "title": "数据平台实习生",
+    "company": "美团",
+    "city": "深圳",
+    "direction": "数据工程",
+    "stage": "校招",
+    "source": "synthetic",
+    "quality_score": 89,
+    "skills": [
+      "Kafka",
+      "Flink",
+      "实时计算",
+      "流处理",
+      "消息队列"
+    ],
+    "project_signals": [
+      "Spark",
+      "Flink",
+      "实时计算"
+    ],
+    "jd": "负责数据分析与可视化，包括 OLAP 分析、BI 报表、数据产品等。",
+    "interview_themes": [
+      "数据治理",
+      "数据质量",
+      "元数据管理"
+    ],
+    "pass_score": 65,
+    "risk_score": 34,
+    "growth_score": 77
+  },
+  {
+    "id": "expanded-185",
+    "title": "推荐算法实习生",
+    "company": "阿里妈妈",
+    "city": "上海",
+    "direction": "推荐算法",
+    "stage": "实习",
+    "source": "synthetic",
+    "quality_score": 89,
+    "skills": [
+      "DeepFM",
+      "DIN",
+      "DIEN",
+      "Multi-task",
+      "MMOE",
+      "PLE"
+    ],
+    "project_signals": [
+      "召回",
+      "排序",
+      "Embedding",
+      "评估"
+    ],
+    "jd": "负责推荐系统召回/排序算法研发，包括模型设计、特征工程、在线实验等。",
+    "interview_themes": [
+      "DeepFM/DIN",
+      "多任务学习",
+      "评估指标"
+    ],
+    "pass_score": 62,
+    "risk_score": 48,
+    "growth_score": 70
+  },
+  {
+    "id": "expanded-186",
+    "title": "Go后端实习生",
+    "company": "阿里",
+    "city": "广州",
+    "direction": "后端开发",
+    "stage": "实习",
+    "source": "synthetic",
+    "quality_score": 70,
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "MyBatis",
+      "MySQL",
+      "Redis",
+      "Kafka"
+    ],
+    "project_signals": [
+      "gRPC",
+      "K8s",
+      "容器化"
+    ],
+    "jd": "负责系统性能优化，包括慢查询优化、缓存设计、异步处理等。",
+    "interview_themes": [
+      "微服务架构",
+      "分布式一致性",
+      "CAP 理论"
+    ],
+    "pass_score": 65,
+    "risk_score": 29,
+    "growth_score": 71
+  },
+  {
+    "id": "expanded-187",
+    "title": "跨端开发实习生",
+    "company": "腾讯",
+    "city": "广州",
+    "direction": "前端开发",
+    "stage": "实习",
+    "source": "synthetic",
+    "quality_score": 82,
+    "skills": [
+      "性能优化",
+      "SSR",
+      "SSG",
+      "PWA",
+      "Web Vitals"
+    ],
+    "project_signals": [
+      "React",
+      "Vue",
+      "组件化"
+    ],
+    "jd": "参与前端工程化建设，包括构建优化、CI/CD、代码规范等。",
+    "interview_themes": [
+      "前端性能优化",
+      "Web Vitals",
+      "缓存策略"
+    ],
+    "pass_score": 70,
+    "risk_score": 41,
+    "growth_score": 61
+  },
+  {
+    "id": "expanded-188",
+    "title": "服务端开发实习生",
+    "company": "字节跳动",
+    "city": "上海",
+    "direction": "后端开发",
+    "stage": "实习",
+    "source": "synthetic",
+    "quality_score": 70,
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "MyBatis",
+      "MySQL",
+      "Redis",
+      "Kafka"
+    ],
+    "project_signals": [
+      "微服务",
+      "分布式",
+      "缓存"
+    ],
+    "jd": "参与微服务架构升级，负责服务拆分、RPC 通信、服务治理等。",
+    "interview_themes": [
+      "MySQL 索引",
+      "Redis 缓存",
+      "消息队列"
+    ],
+    "pass_score": 65,
+    "risk_score": 32,
+    "growth_score": 78
+  },
+  {
+    "id": "expanded-189",
+    "title": "目标检测实习生",
+    "company": "腾讯优图",
+    "city": "北京",
+    "direction": "计算机视觉",
+    "stage": "校招",
+    "source": "synthetic",
+    "quality_score": 76,
+    "skills": [
+      "U-Net",
+      "DeepLab",
+      "Mask2Former",
+      "图像分割"
+    ],
+    "project_signals": [
+      "分类",
+      "检测",
+      "分割",
+      "CNN"
+    ],
+    "jd": "负责视频理解算法研发，包括动作识别、时序建模、多模态融合等。",
+    "interview_themes": [
+      "分割算法",
+      "实例分割",
+      "全景分割"
+    ],
+    "pass_score": 55,
+    "risk_score": 39,
+    "growth_score": 80
+  },
+  {
+    "id": "expanded-190",
+    "title": "大模型应用算法实习生",
+    "company": "旷视科技",
+    "city": "深圳",
+    "direction": "大模型应用算法",
+    "stage": "实习",
+    "source": "synthetic",
+    "quality_score": 91,
+    "skills": [
+      "LLM",
+      "RAG",
+      "Agent",
+      "Embedding",
+      "Python",
+      "Prompt",
+      "LangChain",
+      "FAISS"
+    ],
+    "project_signals": [
+      "推理优化",
+      "量化",
+      "vLLM",
+      "TensorRT"
+    ],
+    "jd": "负责大模型应用开发，包括 RAG 检索增强、Agent 工具调用、Prompt 优化等。",
+    "interview_themes": [
+      "推理优化",
+      "量化算法",
+      "部署架构"
+    ],
+    "pass_score": 60,
+    "risk_score": 35,
+    "growth_score": 74
+  },
+  {
+    "id": "expanded-191",
+    "title": "机器翻译实习生",
+    "company": "百度NLP",
+    "city": "杭州",
+    "direction": "自然语言处理",
+    "stage": "实习",
+    "source": "synthetic",
+    "quality_score": 77,
+    "skills": [
+      "命名实体识别",
+      "关系抽取",
+      "事件抽取",
+      "信息抽取"
+    ],
+    "project_signals": [
+      "翻译",
+      "生成",
+      "GPT"
+    ],
+    "jd": "参与对话系统研发，包括意图识别、槽位填充、多轮对话管理等。",
+    "interview_themes": [
+      "生成模型",
+      "解码策略",
+      "评估指标"
+    ],
+    "pass_score": 58,
+    "risk_score": 47,
+    "growth_score": 81
+  },
+  {
+    "id": "expanded-192",
+    "title": "策略产品实习生",
+    "company": "腾讯",
+    "city": "上海",
+    "direction": "产品经理",
+    "stage": "实习",
+    "source": "synthetic",
+    "quality_score": 73,
+    "skills": [
+      "产品设计",
+      "需求分析",
+      "原型设计",
+      "Axure",
+      "Figma"
+    ],
+    "project_signals": [
+      "数据分析",
+      "AB测试"
+    ],
+    "jd": "参与数据驱动的产品迭代，包括数据分析、AB 测试、效果评估等。",
+    "interview_themes": [
+      "产品思维",
+      "需求分析",
+      "竞品分析"
+    ],
+    "pass_score": 69,
+    "risk_score": 37,
+    "growth_score": 55
+  },
+  {
+    "id": "expanded-193",
+    "title": "React前端实习生",
+    "company": "阿里",
+    "city": "北京",
+    "direction": "前端开发",
+    "stage": "校招",
+    "source": "synthetic",
+    "quality_score": 92,
+    "skills": [
+      "跨端开发",
+      "React Native",
+      "Flutter",
+      "Taro",
+      "Uni-app"
+    ],
+    "project_signals": [
+      "跨端",
+      "移动端",
+      "小程序"
+    ],
+    "jd": "参与前端工程化建设，包括构建优化、CI/CD、代码规范等。",
+    "interview_themes": [
+      "React/Vue 原理",
+      "虚拟DOM",
+      "Diff算法"
+    ],
+    "pass_score": 78,
+    "risk_score": 35,
+    "growth_score": 64
+  },
+  {
+    "id": "expanded-194",
+    "title": "前端开发实习生",
+    "company": "网易",
+    "city": "杭州",
+    "direction": "前端开发",
+    "stage": "实习",
+    "source": "synthetic",
+    "quality_score": 90,
+    "skills": [
+      "跨端开发",
+      "React Native",
+      "Flutter",
+      "Taro",
+      "Uni-app"
+    ],
+    "project_signals": [
+      "跨端",
+      "移动端",
+      "小程序"
+    ],
+    "jd": "负责跨端方案落地，包括 React Native/Flutter 开发、性能调优等。",
+    "interview_themes": [
+      "前端性能优化",
+      "Web Vitals",
+      "缓存策略"
+    ],
+    "pass_score": 59,
+    "risk_score": 41,
+    "growth_score": 66
+  },
+  {
+    "id": "expanded-195",
+    "title": "用户产品实习生",
+    "company": "京东",
+    "city": "杭州",
+    "direction": "产品经理",
+    "stage": "实习",
+    "source": "synthetic",
+    "quality_score": 76,
+    "skills": [
+      "数据分析",
+      "SQL",
+      "AB测试",
+      "用户调研",
+      "竞品分析"
+    ],
+    "project_signals": [
+      "产品",
+      "需求",
+      "原型"
+    ],
+    "jd": "参与数据驱动的产品迭代，包括数据分析、AB 测试、效果评估等。",
+    "interview_themes": [
+      "数据分析",
+      "AB 测试",
+      "指标设计"
+    ],
+    "pass_score": 75,
+    "risk_score": 25,
+    "growth_score": 68
+  },
+  {
+    "id": "expanded-196",
+    "title": "大模型研发实习生",
+    "company": "商汤科技",
+    "city": "北京",
+    "direction": "大模型应用算法",
+    "stage": "实习",
+    "source": "synthetic",
+    "quality_score": 92,
+    "skills": [
+      "LLM",
+      "RAG",
+      "Agent",
+      "Embedding",
+      "Python",
+      "Prompt",
+      "LangChain",
+      "FAISS"
+    ],
+    "project_signals": [
+      "推理优化",
+      "量化",
+      "vLLM",
+      "TensorRT"
+    ],
+    "jd": "负责 LLM 推理优化，包括量化、蒸馏、vLLM 部署等加速技术。",
+    "interview_themes": [
+      "SFT vs RLHF",
+      "LoRA 微调",
+      "模型评估指标"
+    ],
+    "pass_score": 62,
+    "risk_score": 41,
+    "growth_score": 72
+  },
+  {
+    "id": "expanded-197",
+    "title": "策略产品实习生",
+    "company": "网易",
+    "city": "深圳",
+    "direction": "产品经理",
+    "stage": "校招",
+    "source": "synthetic",
+    "quality_score": 77,
+    "skills": [
+      "项目管理",
+      "敏捷开发",
+      "PRD文档",
+      "路线图规划"
+    ],
+    "project_signals": [
+      "数据分析",
+      "AB测试"
+    ],
+    "jd": "参与数据驱动的产品迭代，包括数据分析、AB 测试、效果评估等。",
+    "interview_themes": [
+      "数据分析",
+      "AB 测试",
+      "指标设计"
+    ],
+    "pass_score": 67,
+    "risk_score": 35,
+    "growth_score": 54
+  },
+  {
+    "id": "expanded-198",
+    "title": "跨端开发实习生",
+    "company": "阿里",
+    "city": "上海",
+    "direction": "前端开发",
+    "stage": "校招",
+    "source": "synthetic",
+    "quality_score": 73,
+    "skills": [
+      "性能优化",
+      "SSR",
+      "SSG",
+      "PWA",
+      "Web Vitals"
+    ],
+    "project_signals": [
+      "React",
+      "Vue",
+      "组件化"
+    ],
+    "jd": "负责前端页面开发，包括组件设计、状态管理、性能优化等。",
+    "interview_themes": [
+      "React/Vue 原理",
+      "虚拟DOM",
+      "Diff算法"
+    ],
+    "pass_score": 71,
+    "risk_score": 35,
+    "growth_score": 66
+  },
+  {
+    "id": "expanded-199",
+    "title": "大数据开发实习生",
+    "company": "腾讯",
+    "city": "杭州",
+    "direction": "数据工程",
+    "stage": "实习",
+    "source": "synthetic",
+    "quality_score": 90,
+    "skills": [
+      "SQL",
+      "Hive",
+      "Spark",
+      "Hadoop",
+      "数据仓库",
+      "ETL"
+    ],
+    "project_signals": [
+      "数据清洗",
+      "ETL",
+      "数据质量"
+    ],
+    "jd": "负责数据分析与可视化，包括 OLAP 分析、BI 报表、数据产品等。",
+    "interview_themes": [
+      "Spark 原理",
+      "Flink 流计算",
+      "实时计算"
+    ],
+    "pass_score": 59,
+    "risk_score": 40,
+    "growth_score": 79
+  }
+]
