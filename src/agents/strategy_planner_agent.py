@@ -55,14 +55,20 @@ class StrategyPlannerAgent:
         return self._fallback(matches)
 
     def _fallback(self, matches: list[MatchResult]) -> StrategyOutput:
-        safe, stretch, skip = [], [], []
-        for m in matches:
-            if m.match_score >= 75 and m.risk_level == "低":
-                safe.append(m)
-            elif m.match_score >= 50:
-                stretch.append(m)
-            else:
-                skip.append(m)
+        """策略分层：Top2 稳投，Top3-5 冲刺，其余暂缓。"""
+        sorted_matches = sorted(matches, key=lambda m: -m.match_score)
+        safe = sorted_matches[:2] if len(sorted_matches) >= 2 else sorted_matches[:1]
+        stretch = sorted_matches[2:5] if len(sorted_matches) >= 5 else sorted_matches[2:4]
+        skip = sorted_matches[5:] if len(sorted_matches) > 5 else []
+
+        # 更新 apply_action 字段以匹配策略
+        for m in safe:
+            m.apply_action = "立即投递"
+        for m in stretch:
+            m.apply_action = "先优化再投" if m.match_score < 75 else "冲刺岗位"
+        for m in skip:
+            m.apply_action = "暂缓"
+
         today = [f"投递 {m.company}-{m.title}" for m in safe[:3]]
         week = [
             "Day 1-2: 投递稳投岗位",
